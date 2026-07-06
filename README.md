@@ -1,2 +1,17 @@
-# hpai-comm-pa
-Repository for all files related to analysis of HPAI H5NX sequence data from commercial birds in PA
+# Within- and between-host dynamics of highly pathogenic avian influenza in domestic birds from Pennsylvania farms and live bird markets
+
+####Anna S Jaeger*<sup>1</sup>, Elena Cruz-Adames<sup>1</sup>, Stephen D Shank<sup>1</sup>, Irina Chupikova<sup>1</sup>, Katie Kumta<sup>1</sup>, Eman Anis<sup>1</sup>, Louise H Moncla<sup>1</sup>
+
+<sup>1</sup>Department of Pathobiology, School of Veterinary Medicine, University of Pennsylvania, Philadelphia, Pennsylvania, United States
+
+## Abstract 
+Since late 2021, highly pathogenic avian influenza viruses (HPAI) of the H5 subtype clade 2.3.4.4b have spread across the Americas, devastating wildlife, agricultural animals, and resulting in dozens of human spillovers. National surveillance strategies generally provide only a single representative sequence per poultry outbreak, precluding fine-scale geographic transmission inference or within-outbreak viral evolution. We produced high-quality deep sequence data from 46 infected Galliformes and Anseriformes sampled from commercial farm and live bird market (LBM) outbreaks in Pennsylvania from 2023-2025. We found that H5N1 viruses were introduced into Pennsylvania at least 68 independent times. We recover independent origins of live bird market outbreaks within the same county 3 weeks apart, and multiple transmission events between Pennsylvania LBM and New York commercial birds, suggesting high transmission risk within the Northeast live bird market distribution system. Analyses of within-farm variant populations show frequent variant sharing between samples from the same outbreak, suggesting that variants are propagated among epidemiologically linked infections. We identified 9 known adaptive mutations in these samples, including one instance of PB2 D701N in a LBM chicken sample, suggesting that while rare, concerning mammalian adaptive mutations can be present within these domestic outbreaks. Our data suggest high circulating diversity and wide transmission bottlenecks in domestic bird outbreaks, increasing the risk of minority variants being transmitted between infections. These data can help inform biosecurity measures and assess the risk of viral adaptation during agricultural outbreaks.
+
+## Overview
+This is a repository for all files related to analysis of HPAI H5NX sequence data from commercial birds in PA. Sequence data for phylogenetic analyses were sourced from NCBI and the GISAID repository. The corresponding acknowledgements table for all GISAID sequences can be found in this repo, along with a tsv for all NCBI sourced sequences. 
+
+## Project structure
+* [`GenoFLU-multi/`](GenoFLU-multi/): is cloned from https://github.com/moncla-lab/GenoFLU-multi and adapted from the USDA genoFLU tool to assign genotypes to sequences, which we used for these data and informing genotype-specific phylogenetic analyses.
+* [`SRA_submission/`](SRA_submission/): contains metadata and attributes table for data produced in this project that has been submitted to SRA, Bioproject ID PRJNA1484614.
+* [`all_com_analysis_2pct/`](all_com_analysis_2pct/): contains resulting files from sequence read analysis using our bioinformatics pipeline, which can be found here: https://github.com/moncla-lab/illumina-pipeline. Within the data folder are all resulting outputs of the pipeline. variants.tsv is utilized for downstream analysis primarily.
+* [`scripts`](scripts/): contains processing scripts
