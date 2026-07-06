@@ -11,7 +11,13 @@ Since late 2021, highly pathogenic avian influenza viruses (HPAI) of the H5 subt
 This is a repository for all files related to analysis of HPAI H5NX sequence data from commercial birds in PA. Sequence data for phylogenetic analyses were sourced from NCBI and the GISAID repository. The corresponding acknowledgements table for all GISAID sequences can be found in this repo, along with a tsv for all NCBI sourced sequences. 
 
 ## Project structure
-* [`GenoFLU-multi/`](GenoFLU-multi/): is cloned from https://github.com/moncla-lab/GenoFLU-multi and adapted from the USDA genoFLU tool to assign genotypes to sequences, which we used for these data and informing genotype-specific phylogenetic analyses.
-* [`SRA_submission/`](SRA_submission/): contains metadata and attributes table for data produced in this project that has been submitted to SRA, Bioproject ID PRJNA1484614.
-* [`all_com_analysis_2pct/`](all_com_analysis_2pct/): contains resulting files from sequence read analysis using our bioinformatics pipeline, which can be found here: https://github.com/moncla-lab/illumina-pipeline. Within the data folder are all resulting outputs of the pipeline. variants.tsv is utilized for downstream analysis primarily.
-* [`scripts`](scripts/): contains processing scripts
+* [`GenoFLU-multi`](GenoFLU-multi/): is cloned from https://github.com/moncla-lab/GenoFLU-multi and adapted from the USDA genoFLU tool to assign genotypes to sequences, which we used for these data and informing genotype-specific phylogenetic analyses.
+* [`SRA_submission`](SRA_submission/): contains metadata and attributes table for data produced in this project that has been submitted to SRA, Bioproject ID PRJNA1484614.
+* [`all_com_analysis_2pct`](all_com_analysis_2pct/): contains resulting files from sequence read analysis using our bioinformatics pipeline, which can be found here: https://github.com/moncla-lab/illumina-pipeline. Within the data folder are all resulting outputs of the pipeline. variants.tsv is utilized for downstream analysis primarily.
+* [`beast`](best/): contains XMLs (alignments purged) and resulting analysis files from bayesian phylogenetic analyses for this project. Scripts related to BEAST analyses can also be found here.
+* [`comm_scripts`](comm_scripts/): contains processing scripts related to variant analysis and phylo analysis. Scripts in here pull in data files from both phylo and all_com_analysis subdirectories. 
+* [`fullgenome`](fullgenome/): contains scripts for merging segment fastas into concatenated genomes.
+* [`output_dfs`](output_dfs/): output dataframes from various analysis scripts- some of which are used for plotting, manual inspection, or used for other later analyses.
+* [`output_plots`](output_plots/): output plots from analysis scripts.
+* [`phylo`](phylo/): config and Snakefiles for each ML tree from this project. The auspice(phylo/auspice/) folder contains results JSONs that can be visualized in Nextstrain.
+* [`sample_data`](sample_data/): all metadata from sequenced samples and contextual data, as well as USDA detection data that was used for analysis.
