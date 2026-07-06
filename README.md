@@ -19,5 +19,5 @@ This is a repository for all files related to analysis of HPAI H5NX sequence dat
 * [`fullgenome`](fullgenome/): contains scripts for merging segment fastas into concatenated genomes.
 * [`output_dfs`](output_dfs/): output dataframes from various analysis scripts- some of which are used for plotting, manual inspection, or used for other later analyses.
 * [`output_plots`](output_plots/): output plots from analysis scripts.
-* [`phylo`](phylo/): config and Snakefiles for each ML tree from this project. The auspice(phylo/auspice/) folder contains results JSONs that can be visualized in Nextstrain.
+* [`phylo`](phylo/): config and Snakefiles for each ML tree from this project. The auspice folders contains results JSONs that can be visualized in Nextstrain. Sequence data has been removed to comply with GISAID usage regulation.
 * [`sample_data`](sample_data/): all metadata from sequenced samples and contextual data, as well as USDA detection data that was used for analysis.
