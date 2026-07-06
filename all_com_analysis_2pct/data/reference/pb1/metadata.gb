@@ -1,0 +1,83 @@
+LOCUS       pb1 2341 bp    DNA     linear
+            28-MAR-2025
+DEFINITION  .
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Unknown.
+  ORGANISM  Unknown.
+            Unclassified.
+FEATURES             Location/Qualifiers
+     source          1..2341
+                     /organism="unknown"
+                     /mol_type="genomic DNA"
+     gene            25..2298
+                     /gene="PB1"
+     CDS             25..2298
+                     /gene="PB1"
+                     /codon_start=1
+                     /product="polymerase PB1"
+                     /translation="MDVNPTLLFLKVPAQNAISTTFPYTGDPPYSHGTGTGYTMDTVN
+                     RTHQYSEKGKWTTNTETGAPQLNPIDGPLPEDNEPSGYAQTDCVLEAMAFLEESHPGI
+                     FGSSCLETMEVVQQTRVDKLTQGRQTYDWTLNRNQPAATALANTIEVFRSNGLTANES
+                     GRLIDFLKDVMDSMDTEEMEITTHFQRKRRVRDNMTKKMVTQRTIGKKKQRLNKRSYL
+                     IRALTLNTMTKDAERGKLKRRAIATPGMQIRGFVYFVETLARSICEKLEQSGLPVGGN
+                     EKKAKLANVVRKMMTNSQDTELSFTITGDNTKWNENQNPRMFLAMITYITRNQPEWFR
+                     NVLSIAPIMFSNKMARLGKGYMFESKSMKLRTQIPAEILANIDLKYFNESTRKKIEKI
+                     RPLLIDGTASLSPGMMMGMFNMLSTVLGVSILNLGQKRYTKTTYWWDGLQSSDDFALI
+                     VNAPNHEGIQAGVDRFYRTCKLVGINMSKRKSYINRTGTFEFTSFFYRYGFVANFSME
+                     LPSFGVSGINESADMSIGVTVIKNNMINNDLGPATAQMALQLFIKDYRYTYRCHRGDT
+                     QIQTRRSFELKKLWEQTRSKAGLLVSDGGPNLYNIRNLHIPEVCLKWELMDEDYQGRL
+                     CNPLNPFVSHKEIESVNNAVVMPAHGPAKSMEYDAIATTHSWIPKRNRSILNTSQRGI
+                     LEDEQMYQKCCSLFEKFFPSSSYRRPVGISSMVEAMVSRARIDARIDFESGRIKKGEF
+                     AEIMKICSTIEELRRQK"
+     gene            119..391
+                     /gene="PB1-F2"
+     CDS             119..391
+                     /gene="PB1-F2"
+                     /codon_start=1
+                     /product="PB1-F2 protein"
+                     /translation="MEQGQDTQWTQSTEHINTQRRENGQQTQKPEHLNSTQLMDHYLR
+                     TTNRADMHKQIACWKQWLSLKSPTQGSLEALVLKRWKSFSKQEWTN"
+ORIGIN      
+        1 agcaaaagca ggcaaaccat ttgaatggat gtcaatccga ctttactttt cttaaaagtg
+       61 ccagcgcaaa atgccataag taccacattc ccttatactg gagatcctcc atacagccat
+      121 ggaacaggga caggatacac aatggacaca gtcaacagaa cacatcaata ctcagagaag
+      181 ggaaaatgga caacaaacac agaaaccgga gcacctcaac tcaacccaat tgatggacca
+      241 ctacctgagg acaacgaacc gagcggatat gcacaaacag attgcgtgtt ggaagcaatg
+      301 gctttccttg aagagtccca cccagggatc tttggaagct cttgtcttga aacgatggaa
+      361 gtcgttcagc aaacaagagt ggacaaacta actcaaggtc gccagactta tgactggaca
+      421 ctgaatagaa accaaccagc tgcaactgcc ctggccaaca ctatagaggt cttcagatca
+      481 aacggtctaa cagccaatga atcggggaga ctaatagatt tcctcaagga tgtgatggac
+      541 tcaatggata cagaagaaat ggaaataaca acacatttcc agagaaagag aagagtaagg
+      601 gacaacatga ccaagaaaat ggtcacacaa agaacaatag gaaagaagaa acaaaggcta
+      661 aacaagagga gctacttaat aagagcactg acactgaata caatgacaaa agatgcagaa
+      721 agaggcaaat tgaagagacg ggcgattgca acaccaggga tgcagattag aggatttgtg
+      781 tactttgtcg aaacactggc aaggagcatc tgtgaaaaac ttgagcaatc tggactcccc
+      841 gttggaggaa atgagaagaa ggctaaattg gcaaacgtcg tgaggaaaat gatgactaac
+      901 tcacaagata cagagctctc cttcacaatt actggagata acacaaaatg gaatgagaat
+      961 caaaatcctc ggatgtttct ggcaatgata acgtacatta caagaaacca acctgaatgg
+     1021 tttagaaatg tcttgagtat tgcccctata atgttctcga acaaaatggc gagattggga
+     1081 aaagggtaca tgtttgaaag taagagcatg aagttacgga cacaaatacc tgcagaaata
+     1141 cttgcaaaca ttgacttaaa atacttcaat gaatcaacaa gaaagaaaat agaaaaaata
+     1201 aggcctctac taatagatgg cactgcctca ttgagtcctg gaatgatgat gggcatgttc
+     1261 aatatgctga gtacagtatt aggagtttca atcctaaatc ttgggcaaaa gaggtacacc
+     1321 aaaaccacat actggtggga tggactccaa tcctctgatg atttcgccct catagtaaat
+     1381 gcaccgaatc atgagggaat acaagcagga gtggataggt tctataggac ctgcaaactg
+     1441 gtcgggatca atatgagcaa aaggaagtct tacataaacc ggactggaac atttgagttc
+     1501 acaagctttt tctatcgcta tggatttgtg gctaacttca gtatggagct gcccagcttt
+     1561 ggagtttctg ggatcaatga atcagctgac atgagcattg gcgtcacagt gataaagaac
+     1621 aacatgataa acaacgacct tggtccagca acagctcaaa tggcccttca actattcatc
+     1681 aaagattaca ggtacacgta ccgatgccac agaggtgaca cacaaattca aacgaggaga
+     1741 tcattcgagc tgaagaagct gtgggaacag acccgttcaa aggcaggact gttggtgtca
+     1801 gatggaggac caaatctata caacattcgg aatctccata tcccagaggt ctgcctgaag
+     1861 tgggagctga tggacgaaga ttaccagggc aggttgtgta atcctctgaa cccatttgtc
+     1921 agtcataaag aaattgagtc cgtaaacaat gctgtggtga tgccagcaca cggtccagcc
+     1981 aaaagcatgg aatatgatgc cattgcgact acacactcat ggattcctaa aaggaatcgt
+     2041 tccattctca ataccagtca aaggggaatt cttgaggatg aacagatgta ccagaaatgc
+     2101 tgcagtctat tcgagaaatt tttccccagt agttcataca ggagaccggt tggaatttcc
+     2161 agcatggtgg aggccatggt gtctagggcc cgaatcgatg cacgcattga tttcgaatct
+     2221 ggaaggatca agaagggaga gtttgctgag atcatgaaga tctgttccac cattgaagag
+     2281 ctcagacggc aaaaatagtg aatttagctt gtccttcatg aaaaaatgcc ttgtttctac
+     2341 t
+//

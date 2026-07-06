@@ -1,0 +1,86 @@
+sample_species	domestic_status	county	date_collected	ct_value	sample_ID	seq_run1	seq_run2
+Khaki Campbell	commercial	Chester	2/23/23	17.72	KC_com1	4	8
+chicken broiler	commercial	Chester	2/23/23	18.76	CB_com1	4	8
+Khaki Campbell	commercial	Chester	2/23/23	20.06	KC_com2	4	8
+chicken broiler	commercial	Chester	2/23/23	20.28	CB_com2	4	8
+Gray Fox	wild	unknown	4/2/23	12.91	GF_W	4	6
+Black Vulture	wild	Lancaster	4/6/23	16.83	BV_W1	4	
+Black Vulture	wild	Lehigh	11/29/22	18.16	BV_W2	4	6
+Turkey Vulture	wild	Lancaster	3/17/23	19.95	TV_W1	4	
+mute swan	wild	Monroe	10/2/22	25.04	MS_W1	4	6
+bald eagle	wild	Crawford	9/28/22	26.95	BE_W	4	6
+Khaki Campbell	commercial	Chester	2/23/23	20.74	KC_com3	5	8
+Khaki Campbell	commercial	Chester	2/23/23	20.93	KC_com4	5	6_8
+Khaki Campbell	commercial	Chester	2/23/23	21.26	KC_com5	5	8
+Khaki Campbell	commercial	Chester	2/23/23	21.93	KC_com6	5	6_8
+chicken broiler	commercial	Chester	2/23/23	22.09	CB_com3	5	6_8
+Khaki Campbell	commercial	Chester	2/23/23	22.13	KC_com7	5	6
+chicken broiler	commercial	Chester	2/23/23	22.19	CB_com4	5	6_8
+Khaki Campbell	commercial	Lancaster	2/24/23	27.29	KC_com8	5	8
+Goose	commercial	Lancaster	2/24/23	28.28	G_com1	5	6
+Goose	commercial	Lancaster	2/24/23	28.38	G_com2	5	6
+gray fox	wild	PA_unknown	4/2/23	13.98	GF_W2	6	
+gray fox	wild	PA_unknown	4/2/23	15.44	GF_W3	6	
+black vulture	wild	Adams	10/10/22	16.37	BV_W3	6	8
+black vulture	wild	Berks	11/22/22	17.79	BV_W4	6	
+black vulture	wild	Chester	11/14/22	17.99	BV_W5	6	
+black vulture	wild	Adams	10/10/22	20.01	BV_W6	6	8
+black vulture	wild	Chester	4/6/23	20.75	BV_W7	6	
+black vulture	wild	Chester	10/19/22	22.13	BV_W8	6	8
+red fox	wild	Poconos_unknown	4/16/23	24.56	RF_W1	6	
+bald eagle	wild	Lancaster	3/20/23	26.95	BE_W2	6	
+falcon	wild	Huntingdon	3/22/23	27.053	F_W1	6	
+mute swan	wild	Monroe	10/2/22	27.48	MS_W2	6	
+canada goose	wild	PA_unknown	12/5/22	27.99	CG_W1	6	
+white-winged scoter	wild	Erie	12/19/22	28.83	WWS_W1	6	
+Canada goose	wild	Crawford	1/24/24	28.88	CG_W2	6	
+Bald Eagle	wild	Mehoopany	2/2/24	27.07	BE_W3	6	
+Barred Owl	wild	Erie	2/14/24	23	BO_W1	6	
+Red-Tailed Hawk	wild	Union	2/14/24	21.64	RTH_W1	6	
+Red-Tailed hawk	wild	PA_unknown	1/31/24	25.36	RTH_W2	6	
+Red-Tailed hawk	wild	PA_unknown	1/31/24	28.12	RTH_W3	6	
+chicken layer	commercial	Wayne	2/3/24	18.91	CL_C1	6	
+chicken layer	commercial	Wayne	2/3/24	23.25	CL_C2	6	
+black vulture	wild	Adams	10/10/22	15.94	blvu_adams	2	8
+black vulture	wild	Chester	10/19/22	16.81	blvu_chester	2	8
+goose	commercial_LBM	Philadelphia	2/20/25	26.15	g_lbm1	8	
+duck	commercial_LBM	Philadelphia	2/20/25	27.55	d_lbm1	8	10
+duck	commercial_LBM	Philadelphia	2/20/25	27.4	d_lbm2	8	10
+chicken	commercial_LBM	Philadelphia	2/20/25	23.47	c_lbm1	8	
+chicken	commercial_LBM	Philadelphia	2/20/25	26.15	c_lbm2	8	10
+chicken	commercial_LBM	Philadelphia	2/20/25	28.67	c_lbm3	8	10
+chicken	commercial_LBM	Philadelphia	2/20/25	28.26	c_lbm4	8	
+chukar	commercial_LBM	Philadelphia	2/20/25	27.63	ckr_lbm1	8	
+guniea	commercial_LBM	Philadelphia	2/20/25	20.41	gn_lbm1	8	9_10
+chukar	commercial	Lancaster	7/1/25	21.4	ckr_com1	8	9
+chukar	commercial	Lancaster	7/1/25	21.36	ckr_com2	8	9
+chukar	commercial	Lancaster	7/1/25	21.11	ckr_com3	8	9
+duck	commercial	Lancaster	7/1/25	27.41	d_com1	8	9
+duck	commercial	Lancaster	7/1/25	22.99	d_com2	8	9
+duck	commercial	Lancaster	7/1/25	28.21	d_com3	8	9_10
+Chicken	commercial_LBM	Philadelphia	3/10/25	20.58	c_lbm5	9	
+Duck	commercial_LBM	Philadelphia	3/10/25	26.43	d_lbm3	9	10
+Chicken	commercial_LBM	Philadelphia	3/10/25	27.47	c_lbm6	9	
+Chicken	commercial_LBM	Philadelphia	3/10/25	23.66	c_lbm7	9	
+Chicken	commercial_LBM	Philadelphia	3/10/25	26.69	c_lbm8	9	
+Chicken	commercial_LBM	Philadelphia	3/11/25	22.55	c_lbm9	9	
+Chicken	commercial_LBM	Philadelphia	3/11/25	19.62	c_lbm10	9	
+Chicken	commercial_LBM	Philadelphia	3/11/25	28.97	c_lbm11	9	10
+Duck	commercial_LBM	Philadelphia	3/11/25	25.39	d_lbm4	9	10
+chicken	commercial	Lebanon	3/16/25	28.72	c_com1	10	
+chicken	commercial	Lebanon	3/16/25	24.48	c_com2	10	
+chicken	commercial	Lebanon	3/16/25	28.86	c_com3	10	
+red fox	wild	Lehigh	1/4/25	25.56	rf_w2	10	
+coopers hawk	wild	Northumberland	1/17/25	17.22	ch_w1	10	
+bald eagle	wild	Northumberland	1/17/25	20.06	be_w4	10	
+red fox	wild	Montgomery	2/20/25	22.07	rf_w3	10	
+Red-Tailed Hawk	wild	Erie	3/6/25	21.68	rth_w4	10	
+Turkey Vulture	wild	Erie	3/5/25	18.77	tv_w2	10	
+Snowy owl	wild	Erie	3/6/25	20.89	so_w1	10	
+black vulture	wild	Cumberland	3/24/25	22.03	bv_w9	10	
+Turkey Vulture	wild	Cumberland	3/24/25	20	tv_w3	10	
+black vulture	wild	Lehigh	6/2/25	28.47	bv_w10	10	
+black vulture	wild	Lehigh	6/2/25	28.04	bv_w11	10	
+chicken	commercial	unknown	1/26/25	23.14	c_com4	10	
+chicken	commercial	unknown	1/26/25	22.01	c_com5	10	
+chicken	commercial	unknown	1/26/25	20.98	c_com6	10	

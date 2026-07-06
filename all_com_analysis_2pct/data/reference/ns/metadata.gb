@@ -1,0 +1,50 @@
+LOCUS       ns 890 bp    DNA     linear
+            28-MAR-2025
+DEFINITION  .
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Unknown.
+  ORGANISM  Unknown.
+            Unclassified.
+FEATURES             Location/Qualifiers
+     source          1..890
+                     /organism="unknown"
+                     /mol_type="genomic DNA"
+     gene            27..864
+                     /gene="NEP"
+     CDS             join(27..53,529..864)
+                     /gene="NEP"
+                     /codon_start=1
+                     /product="nuclear export protein"
+                     /translation="MDSNTVSSFDILMRMSKMQLGSSSEDLNGMITQFESLKLYRDSL
+                     GEAVMRMGDLHSLQSRNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQAL
+                     QLLLEVEQEIRTFSFQLI"
+     gene            27..719
+                     /gene="NS1"
+     CDS             27..719
+                     /gene="NS1"
+                     /codon_start=1
+                     /product="nonstructural protein 2"
+                     /translation="MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLR
+                     GRGSTLGLGIETATRAGKQIVERILEEESDETLKMTIAPVPASRYLTDMTLEEMSRDW
+                     FMLMPKQKVAGSLCIRMDQAIMDKNIILKANFSVIFDRLETLILLRAFTEEGAIVGEI
+                     SPLPSLPGHTDEDVKNAIGVLIGGLEWNDNTVRVSETLQRFAWRSSNEDGRPPLPPKQ
+                     KRKMARTIESEV"
+ORIGIN      
+        1 agcaaaagca gggtgacaaa aacataatgg attccaacac tgtgtcaagc tttcaggtag
+       61 actgctttct ttggcatgtc cgcaaacgat ttgcagacca agaactgggt gatgccccat
+      121 tccttgaccg gcttcgccga gatcagaaat ccctgagagg aagaggcagc actcttggtc
+      181 tgggcatcga aacagccacc cgtgcaggaa agcagatagt ggagcggatt ctggaagaag
+      241 aatctgatga gacacttaaa atgactattg cccccgtgcc agcttcacgc tacctaactg
+      301 acatgactct tgaggagatg tcaagggact ggttcatgct catgcccaaa cagaaagtgg
+      361 caggttccct ttgcatcaga atggaccagg caataatgga taaaaacatc atattgaaag
+      421 caaacttcag tgtgattttt gaccggctgg aaaccctaat actacttaga gctttcacag
+      481 aagaaggagc aattgtggga gaaatctcac cattaccttc tcttccagga catactgatg
+      541 aggatgtcaa aaatgcaatt ggggtcctca tcggaggact tgaatggaat gataacacag
+      601 ttcgagtctc tgaaactcta cagagattcg cttggagaag cagtaatgag gatgggagac
+      661 ctccactccc tccaaagcag aaacggaaaa tggcgagaac aattgagtca gaagtttgaa
+      721 gaaataagat ggctgattga agaagtgcgg cacagattga agattacaga gaacagtttc
+      781 gaacagataa cttttatgca agccttacaa ctattgcttg aagtggagca agagataaga
+      841 actttctcgt ttcagcttat ttaatgataa aaaacaccct tgtttctact
+//

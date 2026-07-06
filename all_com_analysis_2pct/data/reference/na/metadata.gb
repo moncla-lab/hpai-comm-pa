@@ -1,0 +1,55 @@
+LOCUS       na 1457 bp    DNA     linear
+            28-MAR-2025
+DEFINITION  .
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Unknown.
+  ORGANISM  Unknown.
+            Unclassified.
+FEATURES             Location/Qualifiers
+     source          1..1457
+                     /organism="unknown"
+                     /mol_type="genomic DNA"
+     gene            21..1430
+                     /gene="NA"
+     CDS             21..1430
+                     /gene="NA"
+                     /codon_start=1
+                     /product="neuraminidase"
+                     /translation="MNPNQKITTIGSICMVIGIVSLMLQIGNIISIWVSHSIQTGNQY
+                     QPEPCNQSIITYENNTWVNQTYVNISNTNFLAEQAVTSVTLAGNSSLCPISGWAIYSK
+                     DNGIRIGSKGDVFVIREPFISCSHLECRTFFLTQGALLNDKHSNGTVKDRSPYRTLMS
+                     CPVGEAPSPYNSRFESVAWSASACHDGISWLTIGISGPDNGAVAVLKYNGIITDTIKS
+                     WRNNILRTQESECACVNGSCFTVMTDGPSNGQASYKIFKIEKGKVVKSVELNAPNYHY
+                     EECSCYPDAGDIMCVCRDNWHGSNRPWVSFNQNLEYQIGYICSGVFGDNPRPNDGTGS
+                     CSPMSSNGAYGVKGFSFKYGNGVWIGRIKSTSSRSGFEMIWDPNGWTETDSSFSVKQD
+                     IVEITDWSGYSGSFVQHPELTGLDCMRPCFWVELIRGRPKENTIWTSGSSISFCGVNS
+                     DTVGWSWPDGAELPFTIDK"
+ORIGIN      
+        1 agcaaaagca ggagttcaaa atgaatccaa atcaaaagat aacaaccatt ggatcaatct
+       61 gtatggtaat tgggatagtc agcttgatgc tgcaaattgg gaacataatc tcaatatggg
+      121 ttagccattc aatccaaaca gggaatcaat accagcctga accatgcaat caaagcatca
+      181 ttacctatga gaacaacacc tgggtaaatc agacgtatgt caacatcagc aataccaatt
+      241 ttcttgctga gcaggctgtt acttcggtaa cattagcggg caattcatct ctttgcccta
+      301 ttagtgggtg ggcaatatac agtaaggaca acggtataag aattgggtcc aagggggatg
+      361 tgtttgttat aagagaaccg ttcatctcat gctctcacct ggaatgcaga accttttttc
+      421 tgacccaggg agctctgctg aatgacaaac attctaatgg gaccgttaag gatagaagcc
+      481 cctatagaac tttgatgagt tgtcccgtgg gtgaggctcc ttccccgtac aattcaagat
+      541 ttgagtctgt tgcttggtcg gcaagtgctt gtcatgatgg catcagttgg ttgacaatcg
+      601 gtatttctgg tccagacaat ggagctgtgg ctgtattgaa gtacaatggc ataataacgg
+      661 atactatcaa gagttggaga aacaacatat tgagaactca agaatctgaa tgtgcgtgcg
+      721 taaatggctc ttgcttcact gtaatgactg atggaccaag caatgggcag gcctcatata
+      781 aaatcttcaa gatagagaaa gggaaagttg tcaaatcagt tgaattgaat gcccctaatt
+      841 accactacga ggaatgctcc tgttatcctg atgcgggtga tattatgtgt gtgtgcaggg
+      901 acaattggca tggttcaaac cggccgtggg tatcttttaa tcaaaatctg gagtatcaaa
+      961 taggatatat atgcagtggg gttttcgggg acaatccccg ccccaatgat ggaacaggca
+     1021 gttgcagtcc aatgtcctct aatggggcat atggggtaaa agggttttca tttaagtacg
+     1081 gtaatggggt ttggatcgga agaataaaaa gcactagttc cagaagcggc tttgagatga
+     1141 tttgggatcc gaatgggtgg actgagacgg acagtagttt ctcagtgaag caagacattg
+     1201 tagaaataac tgactggtca ggatatagtg ggagttttgt ccaacatcca gaactgacag
+     1261 gattagattg catgaggcct tgtttctggg ttgagctaat tagagggagg cccaaagaga
+     1321 acacaatttg gactagcggg agcagcatat ccttttgtgg tgtaaatagt gacactgtgg
+     1381 gttggtcttg gccagacggt gctgagttgc cattcaccat tgacaagtag tttgttcaaa
+     1441 aactccttgt ttctact
+//

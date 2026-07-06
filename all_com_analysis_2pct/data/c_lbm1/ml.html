@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.20.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}, "axis": {"labelFontSize": 20, "titleFontSize": 20}, "legend": {"labelFontSize": 20, "titleFontSize": 20}}, "data": {"name": "data-edf8e6559dc5bf7c28b78023299bb783"}, "mark": {"type": "point", "filled": true, "opacity": 0.6, "size": 100}, "encoding": {"color": {"field": "segment", "title": "Segment", "type": "nominal"}, "tooltip": [{"field": "segment", "title": "Segment", "type": "nominal"}, {"field": "position", "title": "Position", "type": "quantitative"}, {"field": "allele", "title": "Allele", "type": "nominal"}, {"field": "coding_region_change", "title": "Coding region change", "type": "nominal"}, {"field": "gene", "title": "Gene", "type": "nominal"}, {"field": "Frequency_1", "title": "Frequency 1", "type": "quantitative"}, {"field": "Frequency_2", "title": "Frequency 2", "type": "quantitative"}], "x": {"field": "Frequency_1", "scale": {"domain": [0, 0.5]}, "title": "Sample 1 variant frequency", "type": "quantitative"}, "y": {"field": "Frequency_2", "scale": {"domain": [0, 0.5]}, "title": "Sample 2 variant frequency", "type": "quantitative"}}, "height": 400, "padding": {"left": 20, "right": 20, "top": 10, "bottom": 10}, "params": [{"name": "param_1", "select": {"type": "interval", "encodings": ["x", "y"]}, "bind": "scales"}], "title": {"text": "Replicate variant calls", "anchor": "middle", "fontSize": 24}, "width": 400, "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-edf8e6559dc5bf7c28b78023299bb783": [{"segment": "ha", "position": 487, "allele": "C", "coding_region_change": "Tyr153Tyr", "gene": "HA", "Frequency_1": 0.4097, "Frequency_2": 0.4187}, {"segment": "na", "position": 992, "allele": "C", "coding_region_change": "Asp324Asp", "gene": null, "Frequency_1": 0.4163, "Frequency_2": 0.375}, {"segment": "na", "position": 1274, "allele": "A", "coding_region_change": "Ile418Met", "gene": null, "Frequency_1": 0.4208, "Frequency_2": 0.3729}, {"segment": "np", "position": 333, "allele": "C", "coding_region_change": "Ile96Ile", "gene": "NP", "Frequency_1": 0.3693, "Frequency_2": 0.4184}, {"segment": "np", "position": 543, "allele": "T", "coding_region_change": "Leu166Leu", "gene": "NP", "Frequency_1": 0.4544, "Frequency_2": 0.0}, {"segment": "np", "position": 543, "allele": "G", "coding_region_change": "Leu166Leu", "gene": "NP", "Frequency_1": 0.0, "Frequency_2": 0.4679}, {"segment": "np", "position": 1102, "allele": "G", "coding_region_change": "Val353Phe", "gene": "NP", "Frequency_1": 0.0, "Frequency_2": 0.0281}, {"segment": "np", "position": 1320, "allele": "C", "coding_region_change": "Ile425Ile", "gene": "NP", "Frequency_1": 0.1488, "Frequency_2": 0.1048}, {"segment": "pa", "position": 336, "allele": "G", "coding_region_change": "Lys104Lys", "gene": "PA", "Frequency_1": 0.0303, "Frequency_2": 0.0}, {"segment": "pa", "position": 339, "allele": "T", "coding_region_change": "Phe105Phe", "gene": "PA", "Frequency_1": 0.3951, "Frequency_2": 0.0}, {"segment": "pa", "position": 339, "allele": "C", "coding_region_change": "Phe105Phe", "gene": "PA", "Frequency_1": 0.0, "Frequency_2": 0.4425}, {"segment": "pa", "position": 525, "allele": "C", "coding_region_change": "Ser167Ser", "gene": "PA", "Frequency_1": 0.0279, "Frequency_2": 0.0}, {"segment": "pb2", "position": 1290, "allele": "C", "coding_region_change": "Val421Val", "gene": "PB2", "Frequency_1": 0.0285, "Frequency_2": 0.0}, {"segment": "pb2", "position": 1743, "allele": "T", "coding_region_change": "Tyr572Tyr", "gene": "PB2", "Frequency_1": 0.0, "Frequency_2": 0.1001}, {"segment": "pb2", "position": 2072, "allele": "G", "coding_region_change": "Gly682Asp", "gene": "PB2", "Frequency_1": 0.0, "Frequency_2": 0.3817}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

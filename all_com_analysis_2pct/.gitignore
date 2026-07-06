@@ -1,0 +1,19 @@
+*.pyc
+__pycache__
+.snakemake
+.DS_Store
+.ipynb_checkpoints
+data/project.zip
+
+#alignment files
+*.bam
+*.bai
+
+#Archives
+*.zip
+*.tar
+*.tar.gz
+
+# --- ignore all "segments" directories anywhere because they have a million files i don't need to share here ---
+segments/
+**/segments/

@@ -1,0 +1,52 @@
+LOCUS       mp 1027 bp    DNA     linear
+            28-MAR-2025
+DEFINITION  .
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Unknown.
+  ORGANISM  Unknown.
+            Unclassified.
+FEATURES             Location/Qualifiers
+     source          1..1027
+                     /organism="unknown"
+                     /mol_type="genomic DNA"
+     gene            26..1007
+                     /gene="M2"
+     CDS             join(26..48,740..1007)
+                     /gene="M2"
+                     /codon_start=1
+                     /product="matrix protein 2"
+                     /translation="MSLLTEVEPTKNGWECNCSDSSDPLIIAASIIGILHLILWILDR
+                     LFFKCVYRRLKYGLKGGPSTEGVPESMREEYRQEQQSAVDVDDGHFVNIELE"
+     gene            26..784
+                     /gene="M1"
+     CDS             26..784
+                     /gene="M1"
+                     /codon_start=1
+                     /product="matrix protein 1"
+                     /translation="MSLLTEVETYVLSIVPSGPLKAEIAQRLEDVFAGKNTDLEALME
+                     WLKTRPILSPLTKGILGFVFTLTVPSERGLQRRRFVQNALNGNGDPNNMDRAVKLYRK
+                     LKREITFHGAKEVALSYSTGALASCMGLIYNRMGTVTAEVALGLVCATCEQIADSQHR
+                     SHRQIATTTNPLIRHENRMVLASTTAKAMEQMAGSSEQAVEAMEVASQARQMVQAMRT
+                     IGTHPSSSAGLRDDLLENLQAYQKRMGVQLQRFK"
+ORIGIN      
+        1 agcaaaagca ggtagatatt gaaagatgag tcttctaacc gaggtcgaaa cgtacgttct
+       61 ctctatcgtc ccgtcgggcc ccctcaaagc cgagatcgcg cagagacttg aagatgtctt
+      121 tgcagggaag aacaccgatc ttgaggccct catggaatgg ctaaagacaa gaccaatcct
+      181 gtcacctctg actaagggga ttttgggatt tgtgttcacg ctcaccgtgc ccagtgagcg
+      241 aggactgcag cgtagacgct ttgtccaaaa tgctctaaat ggaaatggag acccaaacaa
+      301 catggacagg gcagtcaagt tgtacaggaa attgaagaga gagataacat tccatggggc
+      361 taaagaagtt gcactcagtt actcaaccgg tgcacttgcc agttgtatgg gtctcatata
+      421 caacaggatg gggacggtga ccgcagaagt ggcattgggc ctagtgtgtg ccacctgtga
+      481 gcagattgct gattcacagc atcggtctca cagacagata gctaccacca ccaacccact
+      541 aatcagacat gaaaacagaa tggtgttggc cagtactaca gctaaggcta tggagcagat
+      601 ggctggatcg agtgagcaag cagtggaagc catggaggtt gctagtcagg ctaggcagat
+      661 ggtgcaggcg atgaggacca ttggaactca tcctagctcc agtgccggtc tgagagatga
+      721 tctccttgaa aatttgcagg cctaccaaaa acggatggga gtgcaactgc agcgattcaa
+      781 gtgatcctct cattattgcc gcaagtatca ttgggatctt gcacttgata ttgtggattc
+      841 ttgatcgcct tttcttcaaa tgcgtttatc gtcgccttaa atacggtttg aaaggagggc
+      901 cttctacgga aggagtacct gagtccatga gggaagagta ccggcaggaa cagcagagtg
+      961 ctgtggatgt tgacgatggt cattttgtca acatagagct ggagtaaaaa actaccttgt
+     1021 ttctact
+//

@@ -1,0 +1,27 @@
+
+Operator analysis
+Operator                                          Tuning   Count      Time     Time/Op  Pr(accept) 
+scale(kappa)                                      0.587   532115     170749   0.32     0.2352      
+frequencies                                       0.025   531202     171269   0.32     0.2362      
+scale(default.ucld.mean)                          0.856   1595621    518992   0.33     0.233       
+scale(default.ucld.stdev)                         0.701   1596798    518176   0.32     0.2348      
+up:nodeHeights(treeModel) down:default.ucld.mean  0.998   1596357    484106   0.3      0.2318      
+swapOperator(default.branchRates.categories)              5319878    431927   0.08     0.5448      
+uniformInteger(default.branchRates.categories)            5315970    365693   0.07     0.6695      
+scale(pa_ny_dom.ucld.mean)                        0.366   1594785    97358    0.06     0.238       
+scale(pa_ny_dom.ucld.stdev)                       0.156   1596675    97717    0.06     0.24        
+up:nodeHeights(treeModel) down:pa_ny_dom.ucld.mean 0.997   1594416    481509   0.3      0.2321      
+swapOperator(pa_ny_dom.branchRates.categories)            5317014    145727   0.03     0.9825      
+uniformInteger(pa_ny_dom.branchRates.categories)          5318796    141625   0.03     0.9899      
+subtreeSlide(treeModel)                           0.033   15958409   1053556  0.07     0.2325      
+Narrow Exchange(treeModel)                                15958652   942219   0.06     0.2599      
+Wide Exchange(treeModel)                                  1596857    27525    0.02     0.0032      
+wilsonBalding(treeModel)                                  1594578    163970   0.1      0.0064      
+scale(treeModel.rootHeight)                       0.155   1594585    123163   0.08     0.24        
+uniform(nodeHeights(treeModel))                           15963210   1468952  0.09     0.5429      
+scale(exponential.popSize)                        0.649   1596573    32485    0.02     0.2355      
+exponential.growthRate                            1.384   1597531    33328    0.02     0.2334      
+scale(pa_ny_dom.rates)                            0.585   7978169    446449   0.06     0.2351      
+bitFlip(pa_ny_dom.indicators)                             3720224    187599   0.05     0.2423      
+pa_ny_dom.root.frequencies                        1.129   531585     9140     0.02     0.2345      
+

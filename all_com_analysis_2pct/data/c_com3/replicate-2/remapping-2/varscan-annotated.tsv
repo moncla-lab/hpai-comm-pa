@@ -1,0 +1,5 @@
+segment	gene	reference_position	amino_acid_position	reference_allele	variant_allele	reference_codon	variant_codon	reference_amino_acid	variant_amino_acid	coding_region_change	synonymous/nonsynonymous	frequency(%)	frequency
+ns	NS1	122	32	C	A	TTC	TTA	F	L	Phe32Leu	nonsynonymous	2.85%	0.0285
+pb2	PB2	458	144	G	A	AGG	AAG	R	K	Arg144Lys	nonsynonymous	15.18%	0.1518
+pb2	PB2	1763	579	C	A	CCA	CAA	P	Q	Pro579Gln	nonsynonymous	4.36%	0.0436
+pb1	PB1	453	143	G	T	CTG	CTT	L	L	Leu143Leu	synonymous	26.6%	0.2660

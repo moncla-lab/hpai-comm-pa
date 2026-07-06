@@ -1,0 +1,12 @@
+ns	GenBank	CDS	27	864	.	+	1	gene_id "NEP"; transcript_id "unknown";
+ns	GenBank	CDS	27	719	.	+	1	gene_id "NS1"; transcript_id "unknown";
+na	GenBank	CDS	21	1430	.	+	1	gene_id "NA"; transcript_id "unknown";
+pb2	GenBank	CDS	28	2307	.	+	1	gene_id "PB2"; transcript_id "unknown";
+pa	GenBank	CDS	25	2175	.	+	1	gene_id "PA"; transcript_id "unknown";
+pa	GenBank	CDS	25	784	.	+	1	gene_id "PA-X"; transcript_id "unknown";
+ha	GenBank	CDS	29	1732	.	+	1	gene_id "HA"; transcript_id "unknown";
+mp	GenBank	CDS	26	1007	.	+	1	gene_id "M2"; transcript_id "unknown";
+mp	GenBank	CDS	26	784	.	+	1	gene_id "M1"; transcript_id "unknown";
+np	GenBank	CDS	46	1542	.	+	1	gene_id "NP"; transcript_id "unknown";
+pb1	GenBank	CDS	25	2298	.	+	1	gene_id "PB1"; transcript_id "unknown";
+pb1	GenBank	CDS	119	391	.	+	1	gene_id "PB1-F2"; transcript_id "unknown";

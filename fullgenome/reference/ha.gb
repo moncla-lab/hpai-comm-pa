@@ -1,0 +1,62 @@
+LOCUS       ha  1776 bp    DNA     linear
+            28-MAR-2025
+DEFINITION  .
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Unknown.
+  ORGANISM  Unknown.
+            Unclassified.
+FEATURES             Location/Qualifiers
+     source          1..1776
+                     /organism="unknown"
+                     /mol_type="genomic DNA"
+     gene            29..1732
+                     /gene="HA"
+     CDS             29..1732
+                     /gene="HA"
+                     /codon_start=1
+                     /product="hemagglutinin"
+                     /translation="MENIVLLLATVSLVKSDQICIGYHANNSTEQVDTIMEKNVTVTH
+                     AQDILEKTHNGKLCDLNGVKPLILKDCSVAGWLLGNPMCDEFIRVPEWSYIVERANPA
+                     NDLCYPGSLNDYEELKHMLSRINHFEKILIIPKSSWPNHETSLGVSAACPYQGAPSFF
+                     RNVVWLIKKNDAYPTIKISYNNTNREDLLILWGIHHSNNAEEQTNLYKNPTTYISVGT
+                     STLNQRLTPKIATRSQVNGQRGRMDFFWTILKPDDAIHFESNGNFIAPEYAYKIVKKG
+                     DSTIMKSGVEYGHCNTKCQTPVGAINSSMPFHNIHPLTIGECPKYVKSNKLVLATGLR
+                     NSPLREKRRKRGLFGAIAGFIEGGWQGMVDGWYGYHHSNEQGSGYAADKESTQKAIDG
+                     VTNKVNSIIDKMNTQFEAVGREFNNLERRIENLNKKMEDGFLDVWTYNAELLVLMENE
+                     RTLDFHDSNVKNLYDKVRLQLRDNAKELGNGCFEFYHKCDNECMESVRNGTYDYPQYS
+                     EEARLKREEISGVKLESVGTYQILSIYSTAASSLALAIMMAGLSLWMCSNGSLQCRIC
+                     I"
+ORIGIN      
+        1 agcaaaagca ggggttcact ctgtcaaaat ggagaacata gtactacttc ttgcaacagt
+       61 tagccttgtt aaaagtgatc agatttgcat tggttaccat gcaaacaatt cgacagagca
+      121 agttgacacg ataatggaaa agaacgtcac tgttacacat gcccaagaca tactggaaaa
+      181 aacacacaac gggaagctct gtgatctaaa tggggtgaag cctctgattt taaaggattg
+      241 tagtgtagct ggatggctcc tcggaaaccc aatgtgcgac gaattcatca gagtgccgga
+      301 atggtcctac atagtggagc gggctaatcc agctaatgac ctctgttacc cagggagcct
+      361 caatgactat gaagaactga aacacatgtt gagcagaata aatcattttg agaagattct
+      421 gatcatcccc aagagttcct ggccaaatca tgaaacatca ctaggggtga gcgcggcttg
+      481 tccataccag ggagcgccct cctttttcag aaatgtggtg tggcttatca aaaagaacga
+      541 tgcataccca acaataaaga taagctacaa taataccaat cgggaagatc tcttgatact
+      601 gtgggggatt catcattcca acaatgcaga agagcagaca aatctctaca aaaacccaac
+      661 cacctacatt tcagttggaa catcaacttt aaaccagagg ttgacaccaa aaatagctac
+      721 tagatcccaa gtaaacgggc aacgtggaag aatggacttc ttctggacaa tcttaaaacc
+      781 agatgatgca atccatttcg agagtaatgg aaatttcatt gctccagaat atgcatacaa
+      841 aattgtcaag aaaggggact caacaattat gaaaagtgga gtggaatatg gccactgcaa
+      901 caccaaatgt caaaccccag taggagcgat aaattctagt atgccattcc acaacataca
+      961 tcctctcacc attggggaat gccccaaata cgtgaagtcg aacaagttgg tccttgcgac
+     1021 tgggctcaga aatagtcctc taagagaaaa gagaagaaaa agaggcctgt ttggggcgat
+     1081 agcagggttt atagagggag gatggcaggg aatggttgat ggttggtatg ggtaccatca
+     1141 tagcaatgag caggggagtg ggtacgctgc ggacaaagaa tccacccaaa aggcaataga
+     1201 tggagttacc aataaggtca actcaatcat tgacaaaatg aacactcaat ttgaggcagt
+     1261 tggaagggag tttaataact tagaaaggag gatagagaat ttgaacaaga aaatggaaga
+     1321 cggattccta gatgtctgga cctataatgc tgaacttcta gttctcatgg aaaacgagag
+     1381 gactctagat ttccatgatt caaatgtcaa gaacctttac gacaaagtca gactacagct
+     1441 tagggataat gcaaaggagc tgggtaacgg ctgtttcgaa ttctatcaca aatgtgataa
+     1501 tgaatgtatg gaaagtgtga gaaatgggac gtatgactac cctcagtatt cagaagaagc
+     1561 aagattaaaa agagaagaaa taagcggagt gaaattagaa tcagtaggaa cttaccagat
+     1621 actgtcaatt tattcaacag cggcaagttc cctagcactg gcaatcatga tggctggtct
+     1681 atctttatgg atgtgctcca atgggtcgtt acagtgcaga atttgcattt agatttgtga
+     1741 gctcaggttg tagttaaaaa cacccttgtt tctact
+//

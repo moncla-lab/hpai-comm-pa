@@ -1,0 +1,83 @@
+LOCUS       pa 2233 bp    DNA     linear
+            28-MAR-2025
+DEFINITION  .
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Unknown.
+  ORGANISM  Unknown.
+            Unclassified.
+FEATURES             Location/Qualifiers
+     source          1..2233
+                     /organism="unknown"
+                     /mol_type="genomic DNA"
+     gene            25..2175
+                     /gene="PA"
+     CDS             25..2175
+                     /gene="PA"
+                     /codon_start=1
+                     /product="polymerase PA"
+                     /translation="MEDFVRQCFNPMIVELAEKAMKEYGEDPKIETNKFAAICTHLEV
+                     CFMYSDFHFIDERGESMIVESGDPNALLKHRFEIIEGRDRAMAWTVVNSICNTTGVEK
+                     PKFLPDLYDYKENRFIEIGVTRREVHIYYLEKANKIKSEKTHIHIFSFTGEEMATKAD
+                     YTLDEESRARIKTRLFTIRQEMASRGLWDSFRQSERGEETIEERFEITGTMRRLADQS
+                     LPPNFSSLENFRAYVDGFEPNGCIEGKLSQMSKEVNARIEPFLKTTPRPLRLPDGPPC
+                     SQRSKFLLMDALKLSIEDPSHEGEGIPLYDAIKCMKTFFGWKEPNIVKPHEKGINPNY
+                     LLAWKQVLAELQDIENEEKIPKTKNMKKTSQLKWALGENMAPEKVDFEDCKDVSDLRQ
+                     YDSDEPESRSLASWIQSEFNKACELTDSSWIELDEIGEDVAPIEHIASVRRNYFTAEV
+                     SHCRATEYIMKGVYTNTALLNASCAAMDDFQLIPMISKCRTKEGRRKTNLYGFIIKGR
+                     SHLRNDTDVVNFVSMEFSLTDPRLEPHKWEKYCVLEIGDMLLRTAIGQVSRPMFLYVR
+                     TNGTSKIKMKWGMEMRRCLLQSLQQIESMIEAESSVKEKDMSKEFFENKSETWPIGES
+                     PKGVEEGSIGKVCRTLLAKSVFNSLYASPQLEGFSAESRKLLLIVQALRDNLEPGTFD
+                     LGGLYEAIEECLINDPWVLLNASWFNSFLTHALK"
+     gene            25..784
+                     /gene="PA-X"
+     CDS             join(25..591,596..784)
+                     /gene="PA-X"
+                     /codon_start=1
+                     /product="PA-X protein"
+                     /translation="MEDFVRQCFNPMIVELAEKAMKEYGEDPKIETNKFAAICTHLEV
+                     CFMYSDFHFIDERGESMIVESGDPNALLKHRFEIIEGRDRAMAWTVVNSICNTTGVEK
+                     PKFLPDLYDYKENRFIEIGVTRREVHIYYLEKANKIKSEKTHIHIFSFTGEEMATKAD
+                     YTLDEESRARIKTRLFTIRQEMASRGLWDFVSPREAKRQLKKDLKSQEPCAGLPTKVS
+                     HRTSPALKTLEPMWMDSNRTAALRANFLKCQKK"
+ORIGIN      
+        1 agcaaaagca ggtactgatt caaaatggaa gactttgtgc gacaatgctt caatccaatg
+       61 attgtcgagc ttgcggaaaa agcaatgaaa gagtatggag aagatccgaa aatcgagaca
+      121 aacaaatttg ccgcaatatg cacacactta gaagtctgtt tcatgtattc ggatttccat
+      181 tttattgatg aacgaggcga atcaatgatt gtagaatctg gcgatccaaa tgcattattg
+      241 aaacaccgat ttgagataat cgaagggaga gaccgagcaa tggcctggac agtggtgaat
+      301 agtatctgca acaccacagg ggtcgaaaag cccaaattcc tccctgattt gtatgactac
+      361 aaagagaacc gattcattga aattggagta acgcgaaggg aagttcacat atactattta
+      421 gaaaaagcca acaagataaa atcagagaaa acacatattc acatattctc attcactgga
+      481 gaggaaatgg ccaccaaggc ggactacacc cttgatgaag agagcagagc aagaataaaa
+      541 accagactgt tcactataag acaagaaatg gccagtagag gtctatggga ttcctttcgt
+      601 cagtccgaga gaggcgaaga gacaattgaa gaaagatttg aaatcacagg aaccatgcgc
+      661 aggcttgccg accaaagtct cccaccgaac ttctccagcc ttgaaaactt tagagcctat
+      721 gtggatggat tcgaaccgaa cggctgcatt gagggcaaac tttctcaaat gtcaaaagaa
+      781 gtgaacgcca gaattgagcc atttctgaag acaacaccac gccctctcag attacctgat
+      841 gggcctccct gttctcagcg gtcgaagttc ttgctgatgg atgcccttaa gttgagcatc
+      901 gaagacccta gccatgaggg ggagggcata ccgctgtatg atgcaatcaa atgcatgaag
+      961 acattttttg gctggaaaga gcccaacatc gtaaagccgc atgagaaagg cataaaccct
+     1021 aattacctcc tggcttggaa gcaggtgctg gcagaacttc aagacattga aaatgaggag
+     1081 aaaattccaa aaacaaagaa catgaagaaa acaagccaat tgaagtgggc acttggtgag
+     1141 aacatggctc cagaaaaagt ggactttgag gactgcaaag atgttagcga tctaagacag
+     1201 tacgacagtg acgaaccaga gtctagatca ctagcaagct ggattcagag tgaattcaac
+     1261 aaggcatgcg aactgacaga ttcgagttgg attgaacttg atgagatagg ggaagacgtt
+     1321 gctccaatcg aacacattgc gagtgtgagg aggaactatt tcacagcgga ggtatcccat
+     1381 tgcagggcca ctgaatacat aatgaaggga gtatacacaa acacagccct attgaatgca
+     1441 tcctgtgcag ccatggatga cttccaactg attccaatga taagtaagtg cagaactaaa
+     1501 gaaggaagac ggaagacaaa tctgtatgga ttcattataa aaggaagatc ccatttgagg
+     1561 aatgacaccg atgtggtaaa ctttgtgagc atggaattct ctctaactga cccgaggcta
+     1621 gagccacaca aatgggaaaa gtactgtgtt cttgagatag gagacatgct cctacggact
+     1681 gcaataggcc aagtgtcgag gcccatgttc ctgtatgtga gaaccaatgg gacttccaag
+     1741 atcaaaatga aatggggcat ggagatgaga cgatgccttc ttcagtccct tcaacaaatt
+     1801 gagagcatga ttgaggccga atcttctgtc aaagagaagg acatgtccaa ggaattcttt
+     1861 gaaaacaaat cagaaacatg gccaattgga gaatcaccca aaggggtgga ggaaggctct
+     1921 attgggaaag tatgcagaac attgctagca aagtctgtgt tcaacagcct atatgcatct
+     1981 ccacaactcg aggggttttc agctgaatca agaaaattgc ttctcattgt tcaggcactt
+     2041 agggacaacc tggaacctgg aaccttcgat cttggggggc tatatgaagc aattgaggag
+     2101 tgcctgatta acgatccctg ggttttgctt aatgcgtctt ggttcaactc cttcctcaca
+     2161 catgcactga aatagttgtg gcaatgctac tatttgctat ccatactgtc caaaaaagta
+     2221 ccttgtttct act
+//

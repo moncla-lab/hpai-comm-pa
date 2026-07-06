@@ -1,0 +1,10 @@
+segment	position	allele	coding_region_change	gene	Frequency_1	Frequency_2
+pb1	1254	T	Gly410Gly	PB1	0.0693	0.0
+pb1	1254	C	Gly410Gly	PB1	0.0	0.0616
+pb1	1300	C	Leu426Leu	PB1	0.0	0.021
+pb2	77	G	Arg17His	PB2	0.1126	0.0
+pb2	173	G	Trp49Stop	PB2	0.0	0.0304
+pb2	229	C	Pro68Thr	PB2	0.0539	0.0
+pb2	390	A	Lys121Lys	PB2	0.0	0.0715
+pb2	974	G	Gly316Asp	PB2	0.2016	0.0
+pb2	1103	G	Gly359Glu	PB2	0.0	0.0356

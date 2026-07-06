@@ -1,0 +1,5 @@
+segment	gene	reference_position	amino_acid_position	reference_allele	variant_allele	reference_codon	variant_codon	reference_amino_acid	variant_amino_acid	coding_region_change	synonymous/nonsynonymous	frequency(%)	frequency
+pb2	PB2	103	26	G	T	GAC	TAC	D	Y	Asp26Tyr	nonsynonymous	2.03%	0.0203
+pb2	PB2	598	191	G	A	GAA	AAA	E	K	Glu191Lys	nonsynonymous	3.29%	0.0329
+pb1	PB1	609	195	G	T	ATG	ATT	M	I	Met195Ile	nonsynonymous	2.06%	0.0206
+pb1	PB1	1254	410	T	C	GGT	GGC	G	G	Gly410Gly	synonymous	2.98%	0.0298

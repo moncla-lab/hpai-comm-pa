@@ -1,0 +1,30 @@
+{
+  "manifest_details": {
+    "manifest_mode_used": "basespace",
+    "data_root_queried": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace"
+  },
+  "samples": {
+    "run4_PCR_NC_1": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "P1_H5_RT_NC_run004_seq_2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P3-459511474/FASTQ_Generation_2025-07-03_18_26_29Z-837160330/P1_H5_RT_NC_run004_seq_2_L001-ds.11ccf06926204826ac241d55accc5dca/P1-H5-RT-NC-run004-seq-2_S37_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P3-459511474/FASTQ_Generation_2025-07-03_18_26_29Z-837160330/P1_H5_RT_NC_run004_seq_2_L001-ds.11ccf06926204826ac241d55accc5dca/P1-H5-RT-NC-run004-seq-2_S37_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "run4_RT_NC_1": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "P1_H5_PCR_NC_run004_seq2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P3-459511474/FASTQ_Generation_2025-07-03_18_26_29Z-837160330/P1_H5_PCR_NC_run004_seq2_L001-ds.b44b8e8f064043e0a877aa85833d8df0/P1-H5-PCR-NC-run004-seq2_S38_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P3-459511474/FASTQ_Generation_2025-07-03_18_26_29Z-837160330/P1_H5_PCR_NC_run004_seq2_L001-ds.b44b8e8f064043e0a877aa85833d8df0/P1-H5-PCR-NC-run004-seq2_S38_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,751 @@
+Gene	Amino_Acid	Type	gene_pos	gene	change_info
+HA	91.0	human-adaptation	HA_91		
+HA	154.0	pathogenicity	HA_154		
+HA	158.0	host-adaptation	HA_158		
+HA	192.0	human-adaptation	HA_192		
+HA	228.0	human-adaptation	HA_228		
+HA	337.0	virulence	HA_337		
+MP	30.0	virulence	MP_30		
+MP	139.0	virulence	MP_139		
+MP	207.0	virulence	MP_207		
+MP	77.0	virulence	MP_77		
+MP	43.0	antiviral-resistance	MP_43		
+MP	215.0	virulence	MP_215		
+NA	110.0	mammal-adaptation	NA_110		
+NA	57.0	virulence	NA_57		
+NA	71.0	host-adaptation	NA_71		
+NA	438.0	antiviral-resistance	NA_438		
+NA	453.0	mammal-adaptation	NA_453		
+NS	42.0	host-adaptation	NS_42		
+NS	91.0	pathogenicity	NS_91		
+NS	92.0	pathogenicity	NS_92		
+NS	93.0	pathogenicity	NS_93		
+NS	94.0	pathogenicity	NS_94		
+NS	95.0	pathogenicity	NS_95		
+NS	99.0	virulence	NS_99		
+NS	101.0	virulence	NS_101		
+NS	103.0	human-adaptation	NS_103		
+NS	106.0	human-adaptation	NS_106		
+NS	125.0	pathogenicity	NS_125		
+NS	205.0	virulence	NS_205		
+NS	229.0	virulence	NS_229		
+PA	37.0	mammal-adaptation	PA_37		
+PA	383.0	mammal-adaptation	PA_383		
+PB1	3.0	mammal-adaptation	PB1_3		
+PB1	622.0	virulence	PB1_622		
+PB2	389.0	mammal-adaptation	PB2_389		
+PB2	598.0	mammal-adaptation	PB2_598		
+PB2	631.0	mammal-adaptation	PB2_631		
+NA	55.0	virulence	NA_55		
+NA	67.0	virulence	NA_67		
+NA	70.0	host-adaptation	NA_70		
+PB2	495.0	mammal-adaptation	PB2_495		
+HA	142.0	sequence alteration	HA_142	H5	determinant-of-virulence
+HA	168.0	sequence alteration	HA_168	H5	determinant-of-virulence
+HA	23.0	sequence alteration	HA_23	H5	determinant-of-pH-of-fusion
+HA	24.0	sequence alteration	HA_24	H5	determinant-of-pH-of-fusion
+HA	404.0	sequence alteration	HA_404	H5	determinant-of-pH-of-fusion
+HA	451.0	sequence alteration	HA_451	H5	determinant-of-pH-of-fusion
+HA	458.0	sequence alteration	HA_458	H5	determinant-of-pH-of-fusion
+HA	460.0	sequence alteration	HA_460	H5	determinant-of-pH-of-fusion
+HA	336.0	functional	HA_336	H5	determinant-of-pathogenicity
+HA	208.0	functional	HA_208	H5	determinant-of-receptor-specificity
+HA	198.0	functional	HA_198	H5	determinant-of-receptor-specificity
+HA	173.0	functional	HA_173	H5	determinant-of-receptor-specificity
+HA	227.0	functional	HA_227	H5	determinant-of-virulence
+HA	170.0	functional	HA_170	H5	determinant-of-virulence
+HA	150.0	functional	HA_150	H5	determinant-of-virulence
+HA	110.0	functional	HA_110	H5	species-adaptation
+HA	149.0	functional	HA_149	H5	species-adaptation
+HA	199.0	functional	HA_199	H5	species-adaptation
+HA	202.0	functional	HA_202	H5	species-adaptation
+HA	204.0	functional	HA_204	H5	species-adaptation
+HA	205.0	functional	HA_205	H5	species-adaptation
+HA	226.0	functional	HA_226	H5	species-adaptation
+HA	238.0	functional	HA_238	H5	species-adaptation
+HA	239.0	functional	HA_239	H5	species-adaptation
+HA	240.0	functional	HA_240	H5	species-adaptation
+HA	137.0	functional	HA_137	H5	species-adaptation
+HA	234.0	functional	HA_234	H5	determinant-of-virulence
+HA	171.0	functional	HA_171	H5	species-adaptation
+HA	172.0	functional	HA_172	H5	species-adaptation
+HA	267.0	functional	HA_267	H5	Species-adaptation
+HA	182.0	functional	HA_182	H5	Species-adaptation
+HA	251.0	functional	HA_251	H5	species-adaptation
+HA	209.0	functional	HA_209	H5	species-adaptation
+HA	160.0	functional	HA_160	H5	species-adaptation
+Unknown	139.0	functional	Unknown_139	M1	determinant-of-virulence
+Unknown	155.0	functional	Unknown_155	M1	determinant-of-virulence
+Unknown	26.0	functional	Unknown_26	M2	determinant-of-amantadine-resistance
+Unknown	27.0	functional	Unknown_27	M2	determinant-of-amantadine-resistance
+Unknown	30.0	functional	Unknown_30	M2	determinant-of-amantadine-resistance
+Unknown	31.0	functional	Unknown_31	M2	determinant-of-amantadine-resistance
+Unknown	34.0	functional	Unknown_34	M2	determinant-of-amantadine-resistance
+Unknown	50.0	functional	Unknown_50	M2	determinant-of-virulence
+Unknown	16.0	sequence alteration	Unknown_16	M2	determinant-of-transmission
+Unknown	55.0	sequence alteration	Unknown_55	M2	determinant-of-transmission
+NA	324.0	functional	NA_324	N1	calcium-binding-and-protein-stabilizing-site
+NA	294.0	functional	NA_294	N1	calcium-binding-and-protein-stabilizing-site
+NA	298.0	functional	NA_298	N1	calcium-binding-and-protein-stabilizing-site
+NA	344.0	functional	NA_344	N1	calcium-binding-and-protein-stabilizing-site
+NA	118.0	functional	NA_118	N1	substrate-binding-and-hydrolysis-site
+NA	293.0	functional	NA_293	N1	substrate-binding-and-hydrolysis-site
+NA	368.0	functional	NA_368	N1	substrate-binding-and-hydrolysis-site
+NA	275.0	sequence alteration	NA_275	N1	determinant-of-oseltamivir-resistance
+NA	372.0	functional	NA_372	N1	determinant-of-virulence
+NA	469.0	functional	NA_469	N1	determinant-of-virulence
+NA	146.0	functional	NA_146	N1	determinant-of-virulence
+NA	117.0	functional	NA_117	N1	antiviral-response
+NA	156.0	functional	NA_156	N1	antiviral-response
+NA	278.0	functional	NA_278	N1	antiviral-response
+NA	223.0	functional	NA_223	N1	antiviral-response
+NA	136.0	functional	NA_136	N1	antiviral-response
+NA	119.0	functional	NA_119	N1	antiviral-response
+NA	116.0	functional	NA_116	N1	antiviral-response
+NA	295.0	functional	NA_295	N1	antiviral-response
+NA	247.0	functional	NA_247	N1	antiviral-response
+NP		functional	NP_nan	NP	
+NP	184.0	functional	NP_184	NP	determinant-of-pathogenicity
+NP	105.0	functional	NP_105	NP	determinant-of-pathogenicity
+NP	319.0	functional	NP_319	NP	determinant-of-host-specificity
+NP	127.0	functional	NP_127	NP	determinant-of-virulence
+NS1	92.0	sequence alteration	NS1_92	NS1	determinant-of-virulence
+NS1	89.0	sequence alteration	NS1_89	NS1	determinant-of-virulence
+NS1	101.0	functional	NS1_101	NS1	determinant-of-virulence
+NS1	125.0	functional	NS1_125	NS1	determinant-of-pathogenicity
+NS1	42.0	sequence alteration	NS1_42	NS1	determinant-of-pathogenicity
+PA	97.0	sequence alteration	PA_97	PA	determinant-of-virulence
+PA	343.0	sequence alteration	PA_343	PA	determinant-of-virulence
+PA	631.0	functional	PA_631	PA	determinant-of-virulence
+PA	515.0	sequence alteration	PA_515	PA	determinant-of-pathogenicity
+PA	615.0	functional	PA_615	PA	determinant-of-host-range
+PA	409.0	sequence alteration	PA_409	PA	determinant-of-transmission
+PB1	353.0	sequence alteration	PB1_353	PB1	determinant-of-virulence
+PB1	566.0	sequence alteration	PB1_566	PB1	determinant-of-virulence
+PB1	538.0	sequence alteration	PB1_538	PB1	determinant-of-virulence
+PB1	677.0	sequence alteration	PB1_677	PB1	determinant-of-pathogenicity
+PB1	436.0	sequence alteration	PB1_436	PB1	determinant-of-replication
+PB1	581.0	sequence alteration	PB1_581	PB1	determinant-of-temperature-sensitivity
+PB1	391.0	sequence alteration	PB1_391	PB1	determinant-of-temperature-sensitivity
+PB1	661.0	sequence alteration	PB1_661	PB1	determinant-of-temperature-sensitivity
+PB1	207.0	functional	PB1_207	PB1	clinical-symptoms-of-disease
+PB2	265.0	sequence alteration	PB2_265	PB2	determinant-of-temperature-sensitivity
+PB2	627.0	sequence alteration	PB2_627	PB2	determinant-of-pathogenecity
+PB2	701.0	sequence alteration	PB2_701	PB2	determinant-of-transmission
+PB2	360.0	sequence alteration	PB2_360	PB2	determinant-of-virus-growth
+PB2	482.0	sequence alteration	PB2_482	PB2	determinant-of-virulence
+PB2	471.0	sequence alteration	PB2_471	PB2	determinant-of-virulence
+PB2	158.0	sequence alteration	PB2_158	PB2	determinant-of-pathogenicity
+PB2	63.0	sequence alteration	PB2_63	PB2	determinant-of-pathogenicity
+PB2	591.0	sequence alteration	PB2_591	PB2	determinant-of-replication
+PB2	636.0	sequence alteration	PB2_636	PB2	determinant-of-host-range
+PB2	271.0	sequence alteration	PB2_271	PB2	determinant-of-host-range
+PB2	667.0	sequence alteration	PB2_667	PB2	determinant-of-transmission
+PB2	702.0	sequence alteration	PB2_702	PB2	determinant-of-transmission
+PB2	256.0	functional	PB2_256	PB2	polymerase-activity
+HA	11.0	H5N1_L-11N	HA_11	4	H5N1_L-11N
+HA	6.0	H5N1_V-6T	HA_6	4	H5N1_V-6T
+HA	7.0	H5N1_Y7M	HA_7	4	H5N1_Y7M
+HA	8.0	H5N1_H8C	HA_8	4	H5N1_H8C
+HA	9.0	H5N1_A9N	HA_9	4	H5N1_A9N
+HA	14.0	H5N1_E14I	HA_14	4	H5N1_E14I
+HA	15.0	H5N1_Q15W	HA_15	4	H5N1_Q15W
+HA	19.0	H5N1_I19M	HA_19	4	H5N1_I19M
+HA	20.0	H5N1_M20L	HA_20	4	H5N1_M20L
+HA	21.0	H5N1_E21S	HA_21	4	H5N1_E21S
+HA	22.0	H5N1_K22R	HA_22	4	H5N1_K22R
+HA	28.0	H5N1_H28Y	HA_28	4	H5N1_H28Y
+HA	29.0	H5N1_A29W	HA_29	4	H5N1_A29W
+HA	30.0	H5N1_Q30I	HA_30	4	H5N1_Q30I
+HA	31.0	H5N1_D31S	HA_31	4	H5N1_D31S
+HA	34.0	H5N1_E34T	HA_34	4	H5N1_E34T
+HA	35.0	H5N1_K35H	HA_35	4	H5N1_K35H
+HA	36.0	H5N1_T36G	HA_36	4	H5N1_T36G
+HA	38.0	H5N1_N38L	HA_38	4	H5N1_N38L
+HA	41.0	H5N1_L41I	HA_41	4	H5N1_L41I
+HA	44.0	H5N1_L44Y	HA_44	4	H5N1_L44Y
+HA	47.0	H5N1_V47S	HA_47	4	H5N1_V47S
+HA	48.0	H5N1_K48H	HA_48	4	H5N1_K48H
+HA	51.0	H5N1_I51T	HA_51	4	H5N1_I51T
+HA	52.0	H5N1_L52V	HA_52	4	H5N1_L52V
+HA	53.0	H5N1_K53T	HA_53	4	H5N1_K53T
+HA	55.0	H5N1_C55F	HA_55	4	H5N1_C55F
+HA	56.0	H5N1_S56G	HA_56	4	H5N1_S56G
+HA	57.0	H5N1_V57L	HA_57	4	H5N1_V57L
+HA	58.0	H5N1_A58K	HA_58	4	H5N1_A58K
+HA	59.0	H5N1_G59S	HA_59	4	H5N1_G59S
+HA	60.0	H5N1_W60A	HA_60	4	H5N1_W60A
+HA	61.0	H5N1_L61V	HA_61	4	H5N1_L61V
+HA	63.0	H5N1_G63D	HA_63	4	H5N1_G63D
+HA	64.0	H5N1_N64M	HA_64	4	H5N1_N64M
+HA	65.0	H5N1_P65M	HA_65	4	H5N1_P65M
+HA	68.0	H5N1_D68T	HA_68	4	H5N1_D68T
+HA	69.0	H5N1_E69D	HA_69	4	H5N1_E69D
+HA	70.0	H5N1_F70N	HA_70	4	H5N1_F70N
+HA	71.0	H5N1_I71G	HA_71	4	H5N1_I71G
+HA	72.0	H5N1_R72T	HA_72	4	H5N1_R72T
+HA	73.0	H5N1_P73W	HA_73	4	H5N1_P73W
+HA	75.0	H5N1_E75K	HA_75	4	H5N1_E75K
+HA	77.0	H5N1_S77P	HA_77	4	H5N1_S77P
+HA	79.0	H5N1_I79L	HA_79	4	H5N1_I79L
+HA	82.0	H5N1_R82N	HA_82	4	H5N1_R82N
+HA	83.0	H5N1_A83P	HA_83	4	H5N1_A83P
+HA	84.0	H5N1_N84S	HA_84	4	H5N1_N84S
+HA	88.0	H5N1_D88E	HA_88	4	H5N1_D88E
+HA	94.0	H5N1_D94N	HA_94	4	H5N1_D94N
+HA	95.0	H5N1_L95M	HA_95	4	H5N1_L95M
+HA	96.0	H5N1_N96A	HA_96	4	H5N1_N96A
+HA	97.0	H5N1_D97I	HA_97	4	H5N1_D97I
+HA	99.0	H5N1_E99D	HA_99	4	H5N1_E99D
+HA	102.0	H5N1_K102A	HA_102	4	H5N1_K102A
+HA	103.0	H5N1_H103Y	HA_103	4	H5N1_H103Y
+HA	104.0	H5N1_M104C	HA_104	4	H5N1_M104C
+HA	107.0	H5N1_S107R	HA_107	4	H5N1_S107R
+HA	108.0	H5N1_T108I	HA_108	4	H5N1_T108I
+HA	109.0	H5N1_N109S	HA_109	4	H5N1_N109S
+HA	111.0	H5N1_F111Y	HA_111	4	H5N1_F111Y
+HA	112.0	H5N1_E112S	HA_112	4	H5N1_E112S
+HA	117.0	H5N1_I117F	HA_117	4	H5N1_I117F
+HA	119.0	H5N1_K119E	HA_119	4	H5N1_K119E
+HA	121.0	H5N1_S121N	HA_121	4	H5N1_S121N
+HA	123.0	H5N1_S123P	HA_123	4	H5N1_S123P
+HA	129.0	H5N1_L129∆	HA_129	4	H5N1_L129∆
+HA	126.0	H5N1_E126W	HA_126	4	H5N1_E126W
+HA	133.0	H5N1_S133A	HA_133	4	H5N1_S133A
+HA	134.0	H5N1_A134V	HA_134	4	H5N1_A134V
+HA	139.0	H5N1_G139R	HA_139	4	H5N1_G139R
+HA	140.0	H5N1_A140P	HA_140	4	H5N1_A140P
+HA	141.0	H5N1_P141R	HA_141	4	H5N1_P141R
+HA	145.0	H5N1_R145I	HA_145	4	H5N1_R145I
+HA	146.0	H5N1_N146I	HA_146	4	H5N1_N146I
+HA	151.0	H5N1; H9N2_I151T	HA_151	4	H5N1; H9N2_I151T
+HA	152.0	H5N1_K152R	HA_152	4	H5N1_K152R
+HA	155.0	H5N1_S155N	HA_155	4	H5N1_S155N
+HA	156.0	H5N1_T156A	HA_156	4	H5N1_T156A
+HA	163.0	H5N1_S163K	HA_163	4	H5N1_S163K
+HA	165.0	H5N1_N165Y	HA_165	4	H5N1_N165Y
+HA	180.0	H5N1_H180N	HA_180	4	H5N1_H180N
+HA	183.0	H5N1_D183G	HA_183	4	H5N1_D183G
+HA	185.0	H5N1_E185L	HA_185	4	H5N1_E185L
+HA	186.0	H5N1_E186D	HA_186	4	H5N1_E186D
+HA	188.0	H5N1_T188I	HA_188	4	H5N1_T188I
+HA	189.0	H5N1_K189T	HA_189	4	H5N1_K189T
+HA	193.0	H5N1_N193K	HA_193	4	H5N1_N193K
+HA	197.0	H5N1_Y197M	HA_197	4	H5N1_Y197M
+HA	210.0	H5N1_V210I	HA_210	4	H5N1_V210I
+HA	214.0	H5N1_A214I	HA_214	4	H5N1_A214I
+HA	218.0	H5N1_E218K	HA_218	4	H5N1_E218K
+HA	220.0	H5N1_N220Y	HA_220	4	H5N1_N220Y
+HA	221.0	H5N1_G221N	HA_221	4	H5N1_G221N
+HA	222.0	H5N1_Q222E	HA_222	4	H5N1_Q222E
+HA	223.0	H5N1_S223N	HA_223	4	H5N1_S223N
+HA	224.0	H4N6; H5N1_G224A	HA_224	4	H4N6; H5N1_G224A
+HA	235.0	H5N1_P235S	HA_235	4	H5N1_P235S
+HA	244.0	H5N1_N244D	HA_244	4	H5N1_N244D
+HA	252.0	H5N1_Y252N	HA_252	4	H5N1_Y252N
+HA	254.0	H5N1_Y254V	HA_254	4	H5N1_Y254V
+HA	255.0	H5N1_K255V	HA_255	4	H5N1_K255V
+HA	256.0	H5N1_I256F	HA_256	4	H5N1_I256F
+HA	257.0	H5N1_V257E	HA_257	4	H5N1_V257E
+HA	258.0	H5N1_K258I	HA_258	4	H5N1_K258I
+HA	260.0	H5N1_G260K	HA_260	4	H5N1_G260K
+HA	263.0	H5N1_T263S	HA_263	4	H5N1_T263S
+HA	264.0	H5N1_I264V	HA_264	4	H5N1_I264V
+HA	265.0	H5N1_M265F	HA_265	4	H5N1_M265F
+HA	266.0	H5N1_K266I	HA_266	4	H5N1_K266I
+HA	272.0	H5N1_G272M	HA_272	4	H5N1_G272M
+HA	276.0	H5N1_T276L	HA_276	4	H5N1_T276L
+HA	280.0	H5N1_T280A	HA_280	4	H5N1_T280A
+HA	286.0	H5N1_N286L	HA_286	4	H5N1_N286L
+HA	287.0	H5N1_S287A	HA_287	4	H5N1_S287A
+HA	288.0	H5N1_S288Y	HA_288	4	H5N1_S288Y
+HA	289.0	H5N1_M289N	HA_289	4	H5N1_M289N
+HA	294.0	H5N1_I294V	HA_294	4	H5N1_I294V
+HA	295.0	H5N1_H295S	HA_295	4	H5N1_H295S
+HA	296.0	H5N1_P296Q	HA_296	4	H5N1_P296Q
+HA	297.0	H5N1_L297W	HA_297	4	H5N1_L297W
+HA	298.0	H5N1_T298I	HA_298	4	H5N1_T298I
+HA	301.0	H5N1_E301F	HA_301	4	H5N1_E301F
+HA	303.0	H5N1_P303G	HA_303	4	H5N1_P303G
+HA	306.0	H5N1_V306Y	HA_306	4	H5N1_V306Y
+HA	307.0	H5N1_K307G	HA_307	4	H5N1_K307G
+HA	312.0	H5N1_V312R	HA_312	4	H5N1_V312R
+HA	313.0	H5N1_L313M	HA_313	4	H5N1_L313M
+HA	315.0	H5N1_T315I	HA_315	4	H5N1_T315I
+HA	320.0	H5N1_S320E	HA_320	4	H5N1_S320E
+HA	325.0	H5N1_K325G	HA_325	4	H5N1_K325G
+HA	330.0	H5N1_G330F	HA_330	4	H5N1_G330F
+HA	332.0	H5N1_F332I	HA_332	4	H5N1_F332I
+HA	333.0	H5N1_G333M	HA_333	4	H5N1_G333M
+HA	334.0	H5N1_A334M	HA_334	4	H5N1_A334M
+HA	335.0	H5N1_I335A	HA_335	4	H5N1_I335A
+HA	340.0	H5N1_E340D	HA_340	4	H5N1_E340D
+HA	345.0	H5N1_G345Y	HA_345	4	H5N1_G345Y
+HA	346.0	H5N1_M346L	HA_346	4	H5N1_M346L
+HA	355.0	H5N1_H355Y	HA_355	4	H5N1_H355Y
+HA	358.0	H5N1_E358Y	HA_358	4	H5N1_E358Y
+HA	369.0	H5N1_S369F	HA_369	4	H5N1_S369F
+HA	372.0	H5N1_K372I	HA_372	4	H5N1_K372I
+HA	376.0	H5N1_G376M	HA_376	4	H5N1_G376M
+HA	383.0	H5N1_S383H	HA_383	4	H5N1_S383H
+HA	385.0	H5N1_I385C	HA_385	4	H5N1_I385C
+HA	386.0	H5N1_D386K	HA_386	4	H5N1_D386K
+HA	388.0	H5N1;_K388I	HA_388	4	H5N1;_K388I
+HA	387.0	H5N1_K387V	HA_387	4	H5N1_K387V
+HA	389.0	H5N1_N389V	HA_389	4	H5N1_N389V
+HA	391.0	H5N1_Q391E	HA_391	4	H5N1_Q391E
+HA	395.0	H5N1_V395F	HA_395	4	H5N1_V395F
+HA	397.0	H5N1_R397S	HA_397	4	H5N1_R397S
+HA	399.0	H5N1_F399W	HA_399	4	H5N1_F399W
+HA	402.0	H5N1_L402R	HA_402	4	H5N1_L402R
+HA	407.0	H5N1_E407F	HA_407	4	H5N1_E407F
+HA	408.0	H5N1_N408M	HA_408	4	H5N1_N408M
+HA	409.0	H5N1_L409V	HA_409	4	H5N1_L409V
+HA	410.0	H5N1_N410E	HA_410	4	H5N1_N410E
+HA	411.0	H5N1_K411N	HA_411	4	H5N1_K411N
+HA	413.0	H5N1_M413L	HA_413	4	H5N1_M413L
+HA	414.0	H5N1_E414H	HA_414	4	H5N1_E414H
+HA	415.0	H5N1_D415Q	HA_415	4	H5N1_D415Q
+HA	418.0	H5N1_L418F	HA_418	4	H5N1_L418F
+HA	419.0	H5N1_D419E	HA_419	4	H5N1_D419E
+HA	420.0	H5N1_V420A	HA_420	4	H5N1_V420A
+HA	427.0	H5N1_L427M	HA_427	4	H5N1_L427M
+HA	428.0	H5N1_L428M	HA_428	4	H5N1_L428M
+HA	431.0	H5N1_M431K	HA_431	4	H5N1_M431K
+HA	432.0	H5N1_E432S	HA_432	4	H5N1_E432S
+HA	434.0	H5N1_E434D	HA_434	4	H5N1_E434D
+HA	435.0	H5N1_R435D	HA_435	4	H5N1_R435D
+HA	437.0	H5N1_L437M	HA_437	4	H5N1_L437M
+HA	438.0	H5N1_D438A	HA_438	4	H5N1_D438A
+HA	441.0	H5N1_D441L	HA_441	4	H5N1_D441L
+HA	442.0	H5N1_S442H	HA_442	4	H5N1_S442H
+HA	444.0	H5N1_V444L	HA_444	4	H5N1_V444L
+HA	446.0	H5N1_N446E	HA_446	4	H5N1_N446E
+HA	449.0	H5N1_D449Y	HA_449	4	H5N1_D449Y
+HA	453.0	H5N1_L453R	HA_453	4	H5N1_L453R
+HA	461.0	H5N1_E461D	HA_461	4	H5N1_E461D
+HA	463.0	H5N1_G463N	HA_463	4	H5N1_G463N
+HA	464.0	H5N1_N464S	HA_464	4	H5N1_N464S
+HA	465.0	H5N1_G465Y	HA_465	4	H5N1_G465Y
+HA	482.0	H5N1_R482E	HA_482	4	H5N1_R482E
+HA	484.0	H5N1_G484H	HA_484	4	H5N1_G484H
+HA	489.0	H5N1_P489A	HA_489	4	H5N1_P489A
+HA	497.0	H5N1_R497K	HA_497	4	H5N1_R497K
+HA	500.0	H5N1_E500G	HA_500	4	H5N1_E500G
+HA	502.0	H5N1_I502Q	HA_502	4	H5N1_I502Q
+HA	503.0	H5N1_S503I	HA_503	4	H5N1_S503I
+HA	515.0	H5N1_I515T	HA_515	4	H5N1_I515T
+HA	542.0	H5N1_N542K	HA_542	4	H5N1_N542K
+HA	544.0	H5N1_S544H	HA_544	4	H5N1_S544H
+HA	546.0	H5N1_Q546K	HA_546	4	H5N1_Q546K
+HA	549.0	H5N1_I549K	HA_549	4	H5N1_I549K
+HA	551.0	H5N1_I551W	HA_551	4	H5N1_I551W
+PA	3.0	H9N2_nan	PA_3	3	H9N2_nan
+PA	18.0	H1N1pdm09_nan	PA_18	3	H1N1pdm09_nan
+PA	21.0	pdmH1N1_nan	PA_21	3	pdmH1N1_nan
+PA	22.0	H5N2_nan	PA_22	3	H5N2_nan
+PA	27.0	H3N2_nan	PA_27	3	H3N2_nan
+PA	35.0	H9N2_nan	PA_35	3	H9N2_nan
+PA	36.0	pdm09H1N1_nan	PA_36	3	pdm09H1N1_nan
+PA	38.0	H6N6_nan	PA_38	3	H6N6_nan
+PA	44.0	H5N1_nan	PA_44	3	H5N1_nan
+PA	49.0	H9N2_nan	PA_49	3	H9N2_nan
+PA	53.0	pdmH1N1_nan	PA_53	3	pdmH1N1_nan
+PA	65.0	H7N7_nan	PA_65	3	H7N7_nan
+PA	70.0	pdmH1N1_nan	PA_70	3	pdmH1N1_nan
+PA	85.0	H3N2; H7N9_nan	PA_85	3	H3N2; H7N9_nan
+PA	86.0	H5N8_nan	PA_86	3	H5N8_nan
+PA	94.0	pdm09H1N1_nan	PA_94	3	pdm09H1N1_nan
+PA	100.0	; H5N1_nan	PA_100	3	; H5N1_nan
+PA	103.0	H7N7_nan	PA_103	3	H7N7_nan
+PA	120.0	Meng et al. PNAS 2022	PA_120	3	Meng et al. PNAS 2022
+PA	122.0	H1n1_nan	PA_122	3	H1n1_nan
+PA	127.0	H5N1_nan	PA_127	3	H5N1_nan
+PA	133.0	H3N2_nan	PA_133	3	H3N2_nan
+PA	155.0	H6N6_nan	PA_155	3	H6N6_nan
+PA	160.0	H9N2_nan	PA_160	3	H9N2_nan
+PA	162.0	H9N2_nan	PA_162	3	H9N2_nan
+PA	185.0	H5N1_nan	PA_185	3	H5N1_nan
+PA	186.0	H3N2_nan	PA_186	3	H3N2_nan
+PA	190.0	H7N3_nan	PA_190	3	H7N3_nan
+PA	204.0	H7N9_nan	PA_204	3	H7N9_nan
+PA	213.0	H7N9_nan	PA_213	3	H7N9_nan
+PA	216.0	H5N2_nan	PA_216	3	H5N2_nan
+PA	224.0	H5N1_nan	PA_224	3	H5N1_nan
+PA	225.0	H9N2_nan	PA_225	3	H9N2_nan
+PA	241.0	H5N1_nan	PA_241	3	H5N1_nan
+PA	247.0	H10N8_nan	PA_247	3	H10N8_nan
+PA	277.0	H10N8_nan	PA_277	3	H10N8_nan
+PA	278.0	H10N8_nan	PA_278	3	H10N8_nan
+PA	291.0	H9N2_nan	PA_291	3	H9N2_nan
+PA	295.0	pdmH1N1_nan	PA_295	3	pdmH1N1_nan
+PA	311.0	Guo et al. Vet. Microbiol. 2023	PA_311	3	Guo et al. Vet. Microbiol. 2023
+PA	321.0	pdm09H1N1;_nan	PA_321	3	pdm09H1N1;_nan
+PA	328.0	H7N9_nan	PA_328	3	H7N9_nan
+PA	330.0	Meng et al. PNAS 2022	PA_330	3	Meng et al. PNAS 2022
+PA	332.0	H7N9_nan	PA_332	3	H7N9_nan
+PA	336.0	H3N2; H5N1_nan	PA_336	3	H3N2; H5N1_nan
+PA	347.0	H9N2_nan	PA_347	3	H9N2_nan
+PA	349.0	H9N2_nan	PA_349	3	H9N2_nan
+PA	353.0	H5N1_nan	PA_353	3	H5N1_nan
+PA	356.0	H9N2/H7N9_nan	PA_356	3	H9N2/H7N9_nan
+PA	362.0	H7N9_nan	PA_362	3	H7N9_nan
+PA	388.0	H7N9_nan	PA_388	3	H7N9_nan
+PA	399.0	H9N2_nan	PA_399	3	H9N2_nan
+PA	400.0	H7N3_nan	PA_400	3	H7N3_nan
+PA	407.0	H7N9_nan	PA_407	3	H7N9_nan
+PA	469.0	H5N1_nan	PA_469	3	H5N1_nan
+PA	488.0	H9N2_nan	PA_488	3	H9N2_nan
+PA	489.0	H9N2_nan	PA_489	3	H9N2_nan
+PA	497.0	H5N1_nan	PA_497	3	H5N1_nan
+PA	549.0	H9N2_nan	PA_549	3	H9N2_nan
+PA	550.0	Rolling et al. J. Virol. 2009	PA_550	3	Rolling et al. J. Virol. 2009
+PA	552.0	Mehle et al. J. Virol. 2012	PA_552	3	Mehle et al. J. Virol. 2012
+PA	554.0	H5N2 (H9N2 7 genes)_nan	PA_554	3	H5N2 (H9N2 7 genes)_nan
+PA	556.0	H3N2; H7N9; H5N8;_nan	PA_556	3	H3N2; H7N9; H5N8;_nan
+PA	573.0	H5N1_nan	PA_573	3	H5N1_nan
+PA	605.0	H9N2_nan	PA_605	3	H9N2_nan
+PA	610.0	H3N2_nan	PA_610	3	H3N2_nan
+PA	611.0	H10N8_nan	PA_611	3	H10N8_nan
+PA	616.0	H9N2; pdmH1N1_nan	PA_616	3	H9N2; pdmH1N1_nan
+PA	622.0	H6N6_nan	PA_622	3	H6N6_nan
+PA	639.0	Meng et al. PNAS 2022	PA_639	3	Meng et al. PNAS 2022
+PA	653.0	H10N8_nan	PA_653	3	H10N8_nan
+PA	659.0	H7N7_nan	PA_659	3	H7N7_nan
+PA	673.0	H3N2_nan	PA_673	3	H3N2_nan
+PA	684.0	H9N2_nan	PA_684	3	H9N2_nan
+PA	142.0	Kim et al. J. Gen. Virol. 2010	PA_142	3	Kim et al. J. Gen. Virol. 2010
+PA	421.0	Kim et al. J. Gen. Virol. 2010	PA_421	3	Kim et al. J. Gen. Virol. 2010
+PA	129.0	Wei et al. J. Virol. 2014	PA_129	3	Wei et al. J. Virol. 2014
+PA	444.0	H7N9_nan	PA_444	3	H7N9_nan
+PA			PA_nan	3	
+PB2	4.0	H5N8_nan	PB2_4	1	H5N8_nan
+PB2	9.0	Soh et al. Elife 2019	PB2_9	1	Soh et al. Elife 2019
+PB2	22.0	Soh et al. Elife 2019	PB2_22	1	Soh et al. Elife 2019
+PB2	23.0	H5N6_nan	PB2_23	1	H5N6_nan
+PB2	25.0	Soh et al. Elife 2019	PB2_25	1	Soh et al. Elife 2019
+PB2	31.0	Soh et al. Elife 2019	PB2_31	1	Soh et al. Elife 2019
+PB2	44.0	H3N2; H1N1_nan	PB2_44	1	H3N2; H1N1_nan
+PB2	47.0	Mänz et al. J. Virol. 2016	PB2_47	1	Mänz et al. J. Virol. 2016
+PB2	62.0	Soh et al. Elife 2019	PB2_62	1	Soh et al. Elife 2019
+PB2	64.0	Soh et al. Elife 2019	PB2_64	1	Soh et al. Elife 2019
+PB2	67.0	H1N1_nan	PB2_67	1	H1N1_nan
+PB2	69.0	Soh et al. Elife 2019	PB2_69	1	Soh et al. Elife 2019
+PB2	73.0	H5N1_nan	PB2_73	1	H5N1_nan
+PB2	74.0	H5N1_nan	PB2_74	1	H5N1_nan
+PB2	81.0	H5N1_nan	PB2_81	1	H5N1_nan
+PB2	82.0	H3N2_nan	PB2_82	1	H3N2_nan
+PB2	89.0	H5N1_nan	PB2_89	1	H5N1_nan
+PB2	90.0	Soh et al. Elife 2019	PB2_90	1	Soh et al. Elife 2019
+PB2	100.0	H5N1_nan	PB2_100	1	H5N1_nan
+PB2	105.0	H1N1; H3N2_nan	PB2_105	1	H1N1; H3N2_nan
+PB2	106.0	Soh et al. Elife 2019	PB2_106	1	Soh et al. Elife 2019
+PB2	109.0	H5N1_nan	PB2_109	1	H5N1_nan
+PB2	112.0	H5N1_nan	PB2_112	1	H5N1_nan
+PB2	114.0	; H5N1_nan	PB2_114	1	; H5N1_nan
+PB2	120.0	H3N2;_nan	PB2_120	1	H3N2;_nan
+PB2	134.0	H1N2_nan	PB2_134	1	H1N2_nan
+PB2	137.0	Elgendy et al. J. Gen. Virol. 2021	PB2_137	1	Elgendy et al. J. Gen. Virol. 2021
+PB2	147.0	Soh et al. Elife 2019	PB2_147	1	Soh et al. Elife 2019
+PB2	148.0	Soh et al. Elife 2019	PB2_148	1	Soh et al. Elife 2019
+PB2	153.0	Li et al. Influenza Other Respi. Viruses 2023	PB2_153	1	Li et al. Influenza Other Respi. Viruses 2023
+PB2	154.0	Soh et al. Elife 2019	PB2_154	1	Soh et al. Elife 2019
+PB2	155.0	Soh et al. Elife 2019	PB2_155	1	Soh et al. Elife 2019
+PB2	156.0	Soh et al. Elife 2019	PB2_156	1	Soh et al. Elife 2019
+PB2	163.0	Soh et al. Elife 2019	PB2_163	1	Soh et al. Elife 2019
+PB2	166.0	Soh et al. Elife 2019	PB2_166	1	Soh et al. Elife 2019
+PB2	169.0	Soh et al. Elife 2019	PB2_169	1	Soh et al. Elife 2019
+PB2	170.0	Soh et al. Elife 2019	PB2_170	1	Soh et al. Elife 2019
+PB2	175.0	Soh et al. Elife 2019	PB2_175	1	Soh et al. Elife 2019
+PB2	176.0	Soh et al. Elife 2019	PB2_176	1	Soh et al. Elife 2019
+PB2	179.0	Soh et al. Elife 2019	PB2_179	1	Soh et al. Elife 2019
+PB2	182.0	Soh et al. Elife 2019	PB2_182	1	Soh et al. Elife 2019
+PB2	183.0	Soh et al. Elife 2019	PB2_183	1	Soh et al. Elife 2019
+PB2	185.0	H9N2_nan	PB2_185	1	H9N2_nan
+PB2	189.0	Mänz et al. J. Virol. 2016	PB2_189	1	Mänz et al. J. Virol. 2016
+PB2	190.0	Soh et al. Elife 2019	PB2_190	1	Soh et al. Elife 2019
+PB2	191.0	Mänz et al. J. Virol. 2016	PB2_191	1	Mänz et al. J. Virol. 2016
+PB2	192.0	Mänz et al. J. Virol. 2016	PB2_192	1	Mänz et al. J. Virol. 2016
+PB2	193.0	H6N1_nan	PB2_193	1	H6N1_nan
+PB2	195.0	Mänz et al. J. Virol. 2016	PB2_195	1	Mänz et al. J. Virol. 2016
+PB2	198.0	H5N1_nan	PB2_198	1	H5N1_nan
+PB2	199.0	H1N1; H5N1; H3N2_nan	PB2_199	1	H1N1; H5N1; H3N2_nan
+PB2	207.0	H10N8_nan	PB2_207	1	H10N8_nan
+PB2	215.0	Soh et al. Elife 2019	PB2_215	1	Soh et al. Elife 2019
+PB2	225.0	Soh et al. Elife 2019	PB2_225	1	Soh et al. Elife 2019
+PB2	248.0	Soh et al. Elife 2019	PB2_248	1	Soh et al. Elife 2019
+PB2	249.0	H5N1_nan	PB2_249	1	H5N1_nan
+PB2	250.0	H9N2_nan	PB2_250	1	H9N2_nan
+PB2	251.0	pdmH1N1_nan	PB2_251	1	pdmH1N1_nan
+PB2	253.0	Expt;_nan	PB2_253	1	Expt;_nan
+PB2	255.0	Soh et al. Elife 2019	PB2_255	1	Soh et al. Elife 2019
+PB2	260.0	Soh et al. Elife 2019	PB2_260	1	Soh et al. Elife 2019
+PB2	273.0	Soh et al. Elife 2019	PB2_273	1	Soh et al. Elife 2019
+PB2	279.0	pdmH1N1_nan	PB2_279	1	pdmH1N1_nan
+PB2	284.0	Soh et al. Elife 2019	PB2_284	1	Soh et al. Elife 2019
+PB2	286.0	Mänz et al. J. Virol. 2016	PB2_286	1	Mänz et al. J. Virol. 2016
+PB2	288.0	H5N2_nan	PB2_288	1	H5N2_nan
+PB2	292.0	H1N1; H3N2;_nan	PB2_292	1	H1N1; H3N2;_nan
+PB2	308.0	H6N6_nan	PB2_308	1	H6N6_nan
+PB2	309.0	Soh et al. Elife 2019	PB2_309	1	Soh et al. Elife 2019
+PB2	318.0	Mänz et al. J. Virol. 2016	PB2_318	1	Mänz et al. J. Virol. 2016
+PB2	322.0	Soh et al. Elife 2019	PB2_322	1	Soh et al. Elife 2019
+PB2	323.0	Soh et al. Elife 2019	PB2_323	1	Soh et al. Elife 2019
+PB2	332.0	H7N9_nan	PB2_332	1	H7N9_nan
+PB2	333.0	H7N7_nan	PB2_333	1	H7N7_nan
+PB2	339.0	H5N1_nan	PB2_339	1	H5N1_nan
+PB2	344.0	H5N1_nan	PB2_344	1	H5N1_nan
+PB2	355.0	Soh et al. Elife 2019	PB2_355	1	Soh et al. Elife 2019
+PB2	357.0	Soh et al. Elife 2019	PB2_357	1	Soh et al. Elife 2019
+PB2	358.0	H7N3_nan	PB2_358	1	H7N3_nan
+PB2	368.0	H1N1; H3N2_nan	PB2_368	1	H1N1; H3N2_nan
+PB2	374.0	Soh et al. Elife 2019	PB2_374	1	Soh et al. Elife 2019
+PB2	376.0	Soh et al. Elife 2019	PB2_376	1	Soh et al. Elife 2019
+PB2	382.0	H3N2_nan	PB2_382	1	H3N2_nan
+PB2	404.0	H9N2_nan	PB2_404	1	H9N2_nan
+PB2	416.0	Soh et al. Elife 2019	PB2_416	1	Soh et al. Elife 2019
+PB2	430.0	Soh et al. Elife 2019	PB2_430	1	Soh et al. Elife 2019
+PB2	443.0	Mänz et al. J. Virol. 2016	PB2_443	1	Mänz et al. J. Virol. 2016
+PB2	452.0	Soh et al. Elife 2019	PB2_452	1	Soh et al. Elife 2019
+PB2	453.0	H3N2_nan	PB2_453	1	H3N2_nan
+PB2	473.0	H7N9_nan	PB2_473	1	H7N9_nan
+PB2	475.0	H1N1; H3N2_nan	PB2_475	1	H1N1; H3N2_nan
+PB2	477.0	H5N1;_nan	PB2_477	1	H5N1;_nan
+PB2	489.0	; H5N1_nan	PB2_489	1	; H5N1_nan
+PB2	491.0	H1N1_nan	PB2_491	1	H1N1_nan
+PB2	493.0	All?_nan	PB2_493	1	All?_nan
+PB2	504.0	Rolling et al. J. Virol. 2009	PB2_504	1	Rolling et al. J. Virol. 2009
+PB2	507.0	H5N1_nan	PB2_507	1	H5N1_nan
+PB2	521.0	Soh et al. Elife 2019	PB2_521	1	Soh et al. Elife 2019
+PB2	522.0	Soh et al. Elife 2019	PB2_522	1	Soh et al. Elife 2019
+PB2	523.0	Soh et al. Elife 2019	PB2_523	1	Soh et al. Elife 2019
+PB2	524.0	Soh et al. Elife 2019	PB2_524	1	Soh et al. Elife 2019
+PB2	525.0	Soh et al. Elife 2019	PB2_525	1	Soh et al. Elife 2019
+PB2	526.0	H3N2; ; H5N1_nan	PB2_526	1	H3N2; ; H5N1_nan
+PB2	527.0	Soh et al. Elife 2019	PB2_527	1	Soh et al. Elife 2019
+PB2	532.0	Soh et al. Elife 2019	PB2_532	1	Soh et al. Elife 2019
+PB2	534.0	multiple;_nan	PB2_534	1	multiple;_nan
+PB2	535.0	H7N9_nan	PB2_535	1	H7N9_nan
+PB2	542.0	Soh et al. Elife 2019	PB2_542	1	Soh et al. Elife 2019
+PB2	543.0	Arai et al. PLoS Pathog. 2019	PB2_543	1	Arai et al. PLoS Pathog. 2019
+PB2	551.0	Soh et al. Elife 2019	PB2_551	1	Soh et al. Elife 2019
+PB2	554.0	Soh et al. Elife 2019	PB2_554	1	Soh et al. Elife 2019
+PB2	559.0	All?_nan	PB2_559	1	All?_nan
+PB2	567.0	H1N1; H3N2_nan	PB2_567	1	H1N1; H3N2_nan
+PB2	569.0	All?_nan	PB2_569	1	All?_nan
+PB2	578.0	H5N2;_nan	PB2_578	1	H5N2;_nan
+PB2	588.0	H3N2; H1N1;_nan	PB2_588	1	H3N2; H1N1;_nan
+PB2	590.0	pdmH1N1_nan	PB2_590	1	pdmH1N1_nan
+PB2	613.0	H3N2; H1N1_nan	PB2_613	1	H3N2; H1N1_nan
+PB2	615.0	H7N1_nan	PB2_615	1	H7N1_nan
+PB2	616.0	H10N8_nan	PB2_616	1	H10N8_nan
+PB2	622.0	H9N2_nan	PB2_622	1	H9N2_nan
+PB2	635.0	Soh et al. Elife 2019	PB2_635	1	Soh et al. Elife 2019
+PB2	644.0	Soh et al. Elife 2019	PB2_644	1	Soh et al. Elife 2019
+PB2	647.0	H1N2_nan	PB2_647	1	H1N2_nan
+PB2	648.0	Soh et al. Elife 2019	PB2_648	1	Soh et al. Elife 2019
+PB2	655.0	Arai et al. PLoS Pathog. 2019	PB2_655	1	Arai et al. PLoS Pathog. 2019
+PB2	657.0	Soh et al. Elife 2019	PB2_657	1	Soh et al. Elife 2019
+PB2	658.0	H5N1_nan	PB2_658	1	H5N1_nan
+PB2	660.0	Mänz et al. J. Virol. 2016	PB2_660	1	Mänz et al. J. Virol. 2016
+PB2	661.0	H1N1; H3N2_nan	PB2_661	1	H1N1; H3N2_nan
+PB2	662.0	Soh et al. Elife 2019	PB2_662	1	Soh et al. Elife 2019
+PB2	669.0	Soh et al. Elife 2019	PB2_669	1	Soh et al. Elife 2019
+PB2	674.0	Soh et al. Elife 2019	PB2_674	1	Soh et al. Elife 2019
+PB2	676.0	H5N1_nan	PB2_676	1	H5N1_nan
+PB2	677.0	; H5N1_nan	PB2_677	1	; H5N1_nan
+PB2	682.0	H3N2_nan	PB2_682	1	H3N2_nan
+PB2	683.0	pdmH1N1_nan	PB2_683	1	pdmH1N1_nan
+PB2	684.0	Soh et al. Elife 2019	PB2_684	1	Soh et al. Elife 2019
+PB2	685.0	H9N2_nan	PB2_685	1	H9N2_nan
+PB2	698.0	Soh et al. Elife 2019	PB2_698	1	Soh et al. Elife 2019
+PB2	712.0	H1N1 (Venus-ns1)_nan	PB2_712	1	H1N1 (Venus-ns1)_nan
+PB2	714.0	H7N7_nan	PB2_714	1	H7N7_nan
+PB2	717.0	H9N2_nan	PB2_717	1	H9N2_nan
+PB2	740.0	H9N2; H3N2;_nan	PB2_740	1	H9N2; H3N2;_nan
+PB2			PB2_nan	1	
+NA	32.0	pdmH1N1_nan	NA_32	6	pdmH1N1_nan
+NA	350.0	H7N1_nan	NA_350	6	H7N1_nan
+NA	369.0	N1_nan	NA_369	6	N1_nan
+NA	400.0	H5N1_nan	NA_400	6	H5N1_nan
+NA	432.0	N1; N9_nan	NA_432	6	N1; N9_nan
+PB1	10.0	H5N2_nan	PB1_10	2	H5N2_nan
+PB1	13.0	H7N7_nan	PB1_13	2	H7N7_nan
+PB1	39.0	H9N2_nan	PB1_39	2	H9N2_nan
+PB1	99.0	Herfst et al. Science 2012	PB1_99	2	Herfst et al. Science 2012
+PB1	368.0	Herfst et al. Science 2012	PB1_368	2	Herfst et al. Science 2012
+PB1	105.0	H5N1_nan	PB1_105	2	H5N1_nan
+PB1	118.0	H7N7_nan	PB1_118	2	H7N7_nan
+PB1	154.0	Chen et al. Elife 2023	PB1_154	2	Chen et al. Elife 2023
+PB1	156.0	pdmH1N1_nan	PB1_156	2	pdmH1N1_nan
+PB1	171.0	H6N6_nan	PB1_171	2	H6N6_nan
+PB1	172.0	H9N2_nan	PB1_172	2	H9N2_nan
+PB1	181.0	H5N2_nan	PB1_181	2	H5N2_nan
+PB1	187.0	H9N2_nan	PB1_187	2	H9N2_nan
+PB1	190.0	H3N2_nan	PB1_190	2	H3N2_nan
+PB1	247.0	H9N2_nan	PB1_247	2	H9N2_nan
+PB1	269.0	H3N2_nan	PB1_269	2	H3N2_nan
+PB1	291.0	pdmH1N1_nan	PB1_291	2	pdmH1N1_nan
+PB1	296.0	pdmH1N1_nan	PB1_296	2	pdmH1N1_nan
+PB1	386.0	H6N6_nan	PB1_386	2	H6N6_nan
+PB1	419.0	H9N2_nan	PB1_419	2	H9N2_nan
+PB1	448.0	H9N2_nan	PB1_448	2	H9N2_nan
+PB1	452.0	H6N6_nan	PB1_452	2	H6N6_nan
+PB1	472.0	H6N6_nan	PB1_472	2	H6N6_nan
+PB1	473.0	Xie et al. Vet. Microbiol. 2023; Xu et al. J. Gen. Virol. 2012	PB1_473	2	Xie et al. Vet. Microbiol. 2023; Xu et al. J. Gen. Virol. 2012
+PB1	475.0	H3N2_nan	PB1_475	2	H3N2_nan
+PB1	483.0	Chan et al. Viruses 2020	PB1_483	2	Chan et al. Viruses 2020
+PB1	523.0	H9N2_nan	PB1_523	2	H9N2_nan
+PB1	524.0	H3N8_nan	PB1_524	2	H3N8_nan
+PB1	577.0	H9N2_nan	PB1_577	2	H9N2_nan
+PB1	578.0	H3N2_nan	PB1_578	2	H3N2_nan
+PB1	596.0	Welkers et al. Emerg. Microbes Infect. 2019	PB1_596	2	Welkers et al. Emerg. Microbes Infect. 2019
+PB1	598.0	; H6N6; H3N2_nan	PB1_598	2	; H6N6; H3N2_nan
+PB1	607.0	H9N2_nan	PB1_607	2	H9N2_nan
+PB1	614.0	H7N7_nan	PB1_614	2	H7N7_nan
+PB1	621.0	Su et al. Nat. Microbiol. 2021	PB1_621	2	Su et al. Nat. Microbiol. 2021
+PB1	652.0	pdmH1N1_nan	PB1_652	2	pdmH1N1_nan
+PB1	674.0	Welkers et al. Emerg. Microbes Infect. 2019	PB1_674	2	Welkers et al. Emerg. Microbes Infect. 2019
+PB1	678.0	H7N7; H5N6_nan	PB1_678	2	H7N7; H5N6_nan
+PB1	696.0	Welkers et al. Emerg. Microbes Infect. 2019	PB1_696	2	Welkers et al. Emerg. Microbes Infect. 2019
+PB1	708.0	H5N8_nan	PB1_708	2	H5N8_nan
+PB1	714.0	Welkers et al. Emerg. Microbes Infect. 2019	PB1_714	2	Welkers et al. Emerg. Microbes Infect. 2019
+PB1	720.0	Welkers et al. Emerg. Microbes Infect. 2019	PB1_720	2	Welkers et al. Emerg. Microbes Infect. 2019
+PB1	724.0	Welkers et al. Emerg. Microbes Infect. 2019	PB1_724	2	Welkers et al. Emerg. Microbes Infect. 2019
+PB1	740.0	pdmH1N1_nan	PB1_740	2	pdmH1N1_nan
+PB1	317.0	Lycett et al. J. Virol. 2009	PB1_317	2	Lycett et al. J. Virol. 2009
+PB1	469.0	Wei et al. J. Virol. 2014	PB1_469	2	Wei et al. J. Virol. 2014
+PB1	719.0	H7N9_nan	PB1_719	2	H7N9_nan
+PB1			PB1_nan	2	
+NP	12.0	Danzy et al. J. Virol. 2014	NP_12	5	Danzy et al. J. Virol. 2014
+NP	16.0	Mänz et al. PLoS Pathog. 2013	NP_16	5	Mänz et al. PLoS Pathog. 2013
+NP	34.0	Ping et al. PLoS One 2011; Brown et al. PNAS 2001	NP_34	5	Ping et al. PLoS One 2011; Brown et al. PNAS 2001
+NP	41.0	Zhu et al. Virol. J. 2015	NP_41	5	Zhu et al. Virol. J. 2015
+NP	50.0	Danzy et al. J. Virol. 2014	NP_50	5	Danzy et al. J. Virol. 2014
+NP	52.0	Park et al. J. Microbiol. 2015; Pinto et al. Nature 2023	NP_52	5	Park et al. J. Microbiol. 2015; Pinto et al. Nature 2023
+NP	53.0	Mänz et al. PLoS Pathog. 2013	NP_53	5	Mänz et al. PLoS Pathog. 2013
+NP	99.0	Herfst et al. Science 2012; Dornfeld et al. J. Virol. 2019	NP_99	5	Herfst et al. Science 2012; Dornfeld et al. J. Virol. 2019
+NP	100.0	Mänz et al. PLoS Pathog. 2013; Pinto et al. Nature 2023	NP_100	5	Mänz et al. PLoS Pathog. 2013; Pinto et al. Nature 2023
+NP	101.0	Ilyushina et al. J. Virol. 2010	NP_101	5	Ilyushina et al. J. Virol. 2010
+NP	109.0	Tada et al. J. Virol. 2011	NP_109	5	Tada et al. J. Virol. 2011
+NP	133.0	Otte et al. J. Virol. 2015	NP_133	5	Otte et al. J. Virol. 2015
+NP	210.0	Zhu et al. Virol. J. 2015	NP_210	5	Zhu et al. Virol. J. 2015
+NP	231.0	Wu et al. Vet. Microbiol. 2009	NP_231	5	Wu et al. Vet. Microbiol. 2009
+NP	240.0	Wu et al. Vet. Microbiol. 2009	NP_240	5	Wu et al. Vet. Microbiol. 2009
+NP	246.0	Yao et al. Arch. Virol. 2013	NP_246	5	Yao et al. Arch. Virol. 2013
+NP	283.0	Mänz et al. PLoS Pathog. 2013	NP_283	5	Mänz et al. PLoS Pathog. 2013
+NP	284.0	Zhao et al. Vet. Microbiol. 2016	NP_284	5	Zhao et al. Vet. Microbiol. 2016
+NP	288.0	Yao et al. Arch. Virol. 2013	NP_288	5	Yao et al. Arch. Virol. 2013
+NP	289.0	Mänz et al. PLoS Pathog. 2013	NP_289	5	Mänz et al. PLoS Pathog. 2013
+NP	309.0	Danzy et al. J. Virol. 2014	NP_309	5	Danzy et al. J. Virol. 2014
+NP	313.0	Mänz et al. PLoS Pathog. 2013; Pinto et al. Nature 2023	NP_313	5	Mänz et al. PLoS Pathog. 2013; Pinto et al. Nature 2023
+NP	345.0	Herfst et al. Science 2012	NP_345	5	Herfst et al. Science 2012
+NP	351.0	Li et al. Vet. Microbiol. 2014; Su et al. Nat. Microbiol. 2021	NP_351	5	Li et al. Vet. Microbiol. 2014; Su et al. Nat. Microbiol. 2021
+NP	352.0	Zhao et al. Vet. Microbiol. 2016	NP_352	5	Zhao et al. Vet. Microbiol. 2016
+NP	353.0	Prokopyeva et al. Infect. Genet. Evol. 2016	NP_353	5	Prokopyeva et al. Infect. Genet. Evol. 2016
+NP	357.0	Kim et al. J. Gen. Virol. 2010	NP_357	5	Kim et al. J. Gen. Virol. 2010
+NP	363.0	Huang et al. Sci. Rep. 2017	NP_363	5	Huang et al. Sci. Rep. 2017
+NP	373.0	Otte et al. J. Virol. 2015	NP_373	5	Otte et al. J. Virol. 2015
+NP	375.0	Sakabe et al. Virus Res. 2011; Yu et al. Virology 2015	NP_375	5	Sakabe et al. Virus Res. 2011; Yu et al. Virology 2015
+NP	428.0	Mancera et al. PLoS One 2017	NP_428	5	Mancera et al. PLoS One 2017
+NP	433.0	Park et al. J. Microbiol. 2015	NP_433	5	Park et al. J. Microbiol. 2015
+NP	434.0	Sang et al. Sci. Rep. 2015	NP_434	5	Sang et al. Sci. Rep. 2015
+NP	460.0	Yao et al. Arch. Virol. 2013	NP_460	5	Yao et al. Arch. Virol. 2013
+NP	470.0	Chen et al. Front. Microbiol. 2017	NP_470	5	Chen et al. Front. Microbiol. 2017
+NP	479.0	Zhang et al. Virol. J. 2011	NP_479	5	Zhang et al. Virol. J. 2011
+NP	480.0	Ping et al. PLoS One 2011; Brown et al. PNAS 2001	NP_480	5	Ping et al. PLoS One 2011; Brown et al. PNAS 2001
+NP	492.0	Wu et al. Vet. Microbiol. 2009	NP_492	5	Wu et al. Vet. Microbiol. 2009
+NP	494.0	Wu et al. Vet. Microbiol. 2009	NP_494	5	Wu et al. Vet. Microbiol. 2009
+NP	48.0	Dornfeld et al. J. Virol. 2019	NP_48	5	Dornfeld et al. J. Virol. 2019
+NP	98.0	Dornfeld et al. J. Virol. 2019	NP_98	5	Dornfeld et al. J. Virol. 2019
+NP	297.0	Ninpan et al. Virus Res. 2017	NP_297	5	Ninpan et al. Virus Res. 2017
+NP	399.0	H1N1_nan	NP_399	5	H1N1_nan
+NP	102.0	H1N1_nan	NP_102	5	H1N1_nan
+NP	119.0	H5N1_nan	NP_119	5	H5N1_nan
+M	27.0	H5N1_nan	M_27	7	H5N1_nan
+M	30.0	Govorkova et al. Acta Virol. 2000	M_30	7	Govorkova et al. Acta Virol. 2000
+M	36.0	H9N2_nan	M_36	7	H9N2_nan
+M	41.0	H1N1_nan	M_41	7	H1N1_nan
+M	43.0	Nao et al. PLoS One 2015	M_43	7	Nao et al. PLoS One 2015
+M	53.0	H10N8_nan	M_53	7	H10N8_nan
+M	95.0	; H7N1_nan	M_95	7	; H7N1_nan
+M	115.0	Miotto et al. BMC Bioinformatics 2008	M_115	7	Miotto et al. BMC Bioinformatics 2008
+M	121.0	Miotto et al. BMC Bioinformatics 2008	M_121	7	Miotto et al. BMC Bioinformatics 2008
+M	128.0	H7N9_nan	M_128	7	H7N9_nan
+M	129.0	H5N2_nan	M_129	7	H5N2_nan
+M	137.0	Miotto et al. BMC Bioinformatics 2008	M_137	7	Miotto et al. BMC Bioinformatics 2008
+M	139.0	; H1N1_nan	M_139	7	; H1N1_nan
+M	154.0	H9N2_nan	M_154	7	H9N2_nan
+M	165.0	pdmH1N1_nan	M_165	7	pdmH1N1_nan
+M	166.0	H9N2_nan	M_166	7	H9N2_nan
+M	167.0	H9N2_nan	M_167	7	H9N2_nan
+M	179.0	Govorkova et al. Acta Virol. 2000	M_179	7	Govorkova et al. Acta Virol. 2000
+M	192.0	H10N8; H3N2_nan	M_192	7	H10N8; H3N2_nan
+M	198.0	Hu et al. Virol. J. 2019	M_198	7	Hu et al. Virol. J. 2019
+M	210.0	H9N2_nan	M_210	7	H9N2_nan
+M	211.0	H7N1_nan	M_211	7	H7N1_nan
+M	214.0	Govorkova et al. Acta Virol. 2000	M_214	7	Govorkova et al. Acta Virol. 2000
+M	215.0	Fan et al. Virology 2009	M_215	7	Fan et al. Virology 2009
+M	231.0	H1N2_nan	M_231	7	H1N2_nan
+M	232.0	H3N2_nan	M_232	7	H3N2_nan
+M	239.0	Hu et al. Virol. J. 2019	M_239	7	Hu et al. Virol. J. 2019
+M	242.0	Lin et al. PLoS Pathog. 2023	M_242	7	Lin et al. PLoS Pathog. 2023
+M	248.0	H6N6_nan	M_248	7	H6N6_nan
+M	249.0	H5N2_nan	M_249	7	H5N2_nan
+M	11.0	Miotto et al. BMC Bioinformatics 2008	M_11	7	Miotto et al. BMC Bioinformatics 2008
+M	14.0	Miotto et al. BMC Bioinformatics 2008	M_14	7	Miotto et al. BMC Bioinformatics 2008
+M	18.0	H6N6_nan	M_18	7	H6N6_nan
+M	20.0	Miotto et al. BMC Bioinformatics 2008	M_20	7	Miotto et al. BMC Bioinformatics 2008
+M	28.0	Miotto et al. BMC Bioinformatics 2008	M_28	7	Miotto et al. BMC Bioinformatics 2008
+M	29.0	H9N2; H1N1pdm09_nan	M_29	7	H9N2; H1N1pdm09_nan
+M	44.0	H3N2_nan	M_44	7	H3N2_nan
+M	54.0	Miotto et al. BMC Bioinformatics 2008	M_54	7	Miotto et al. BMC Bioinformatics 2008
+M	55.0	Miotto et al. BMC Bioinformatics 2008	M_55	7	Miotto et al. BMC Bioinformatics 2008
+M	57.0	Miotto et al. BMC Bioinformatics 2008	M_57	7	Miotto et al. BMC Bioinformatics 2008
+M	78.0	Miotto et al. BMC Bioinformatics 2008	M_78	7	Miotto et al. BMC Bioinformatics 2008
+M	82.0	H10N8_nan	M_82	7	H10N8_nan
+M	86.0	Miotto et al. BMC Bioinformatics 2008	M_86	7	Miotto et al. BMC Bioinformatics 2008
+M	93.0	Govorkova et al. Acta Virol. 2000	M_93	7	Govorkova et al. Acta Virol. 2000
+M	227.0	Ninpan et al. Virus Res. 2017	M_227	7	Ninpan et al. Virus Res. 2017
+M			M_nan	7	
+NS	2.0	H3N2_nan	NS_2	8	H3N2_nan
+NS	3.0	H5N1_nan	NS_3	8	H5N1_nan
+NS	5.0	H9N2_nan	NS_5	8	H9N2_nan
+NS	20.0	H9N2_nan	NS_20	8	H9N2_nan
+NS	23.0	H3N2_nan	NS_23	8	H3N2_nan
+NS	41.0	H5N1_nan	NS_41	8	H5N1_nan
+NS	49.0	H9N2_nan	NS_49	8	H9N2_nan
+NS	54.0	H10N8_nan	NS_54	8	H10N8_nan
+NS	55.0	Li et al. Virology 2018	NS_55	8	Li et al. Virology 2018
+NS	64.0	H3N2_nan	NS_64	8	H3N2_nan
+NS	66.0	Li et al. Virology 2018	NS_66	8	Li et al. Virology 2018
+NS	74.0	H5N1_nan	NS_74	8	H5N1_nan
+NS	89.0	H9N2; H10N8_nan	NS_89	8	H9N2; H10N8_nan
+NS	98.0	H3N2_nan	NS_98	8	H3N2_nan
+NS	108.0	H1N1_nan	NS_108	8	H1N1_nan
+NS	124.0	H3N2_nan	NS_124	8	H3N2_nan
+NS	138.0	Li et al. Virology 2018	NS_138	8	Li et al. Virology 2018
+NS	155.0	H10N8_nan	NS_155	8	H10N8_nan
+NS	159.0	H1N1pdm09_nan	NS_159	8	H1N1pdm09_nan
+NS	172.0	Huang et al. Nat. Commun. 2017	NS_172	8	Huang et al. Nat. Commun. 2017
+NS	180.0	H9N2_nan	NS_180	8	H9N2_nan
+NS	186.0	H3N8_nan	NS_186	8	H3N8_nan
+NS	189.0	H1N1_nan	NS_189	8	H1N1_nan
+NS	200.0	H9N2_nan	NS_200	8	H9N2_nan
+NS	213.0	Zanin et al. PNAS 2017	NS_213	8	Zanin et al. PNAS 2017
+NS	216.0	H5N1_nan	NS_216	8	H5N1_nan
+NS	219.0	H3N8_nan	NS_219	8	H3N8_nan
+NS	224.0	H9N2_nan	NS_224	8	H9N2_nan
+NS	226.0	H5N2_nan	NS_226	8	H5N2_nan
+NS	227.0	H3N2_nan	NS_227	8	H3N2_nan
+NS	7.0	Mänz et al. Nat. Commun. 2012	NS_7	8	Mänz et al. Nat. Commun. 2012
+NS	16.0	H5N1_nan	NS_16	8	H5N1_nan
+NS	47.0	H5N1_nan	NS_47	8	H5N1_nan
+NS	48.0	Wei et al. J. Virol. 2014	NS_48	8	Wei et al. J. Virol. 2014
+NS	51.0	H5N1_nan	NS_51	8	H5N1_nan
+NS	67.0	H9N2_nan	NS_67	8	H9N2_nan
+NS	69.0	H5N2_nan	NS_69	8	H5N2_nan
+NS	75.0	Mänz et al. Nat. Commun. 2012	NS_75	8	Mänz et al. Nat. Commun. 2012
+NS	88.0	H3N2_nan	NS_88	8	H3N2_nan
+NS	110.0	H9N2_nan	NS_110	8	H9N2_nan
+NS			NS_nan	8	

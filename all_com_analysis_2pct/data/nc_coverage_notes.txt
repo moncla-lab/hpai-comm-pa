@@ -1,0 +1,35 @@
+Coverage/negative control issues:
+
+Run 4 - we determined these were actually MS_W1_R1 amplicons mislabeled! We resequenced these negative controls and have been replaced in the results and are all nice and low read
+
+PCR_NC1 HA: half amplified (0-926); PA half amplified (0-1132)
+RT_NC1 PA half amplified (985-2232); PB1 half amplified (1246-2341)
+
+
+
+Run 6 - samples affected: CL_C1 and CL_C2 (only 1 rep there though); a bunch of rep 3s and 4s- KC_Com4_Rep3
+KC_Com6_Rep3
+CB_Com3_Rep3
+KC_Com7_Rep3
+KC_Com7_Rep4
+CB_Com4_Rep3
+G_Com1_Rep3
+G_Com2_Rep3
+G_Com1_Rep4
+G_Com2_Rep4
+
+PCR_NC1 (check- nothing over 15X) and PCR_NC2 NS (15-80X across)- this was actually only used with wild samples, so non issue for any samples in these analyses!
+
+PCRNC1 = lib pool 16- associated with only wild samples
+PCRNC2- lib pool 17 - associated only with wild samples
+
+
+Run10- only c_com1-3reps 1 and 2, 4-6 are in a separate RT experiment
+
+RT_NC2 PA half 999-2233, which included c_com1-3_rep2, potentially RT_NC1, so will just omit all variants for either rep
+
+**0 rep-shared vars in PA in these samples anyways...
+But willl omit the single rep variants if they're in theory gonna skew the comparison bw single and shared
+
+Errored samples in pipeline: rt_nc1_run10, run6_RT_NC_1, c_lbm4. Checked manually (NCs) omitted c_lbm4- looks like very few reads
+

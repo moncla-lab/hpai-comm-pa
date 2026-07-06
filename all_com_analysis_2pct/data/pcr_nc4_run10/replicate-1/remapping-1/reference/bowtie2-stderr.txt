@@ -1,0 +1,7 @@
+Building a SMALL index
+Renaming data/pcr_nc4_run10/replicate-1/remapping-1/reference/index.3.bt2.tmp to data/pcr_nc4_run10/replicate-1/remapping-1/reference/index.3.bt2
+Renaming data/pcr_nc4_run10/replicate-1/remapping-1/reference/index.4.bt2.tmp to data/pcr_nc4_run10/replicate-1/remapping-1/reference/index.4.bt2
+Renaming data/pcr_nc4_run10/replicate-1/remapping-1/reference/index.1.bt2.tmp to data/pcr_nc4_run10/replicate-1/remapping-1/reference/index.1.bt2
+Renaming data/pcr_nc4_run10/replicate-1/remapping-1/reference/index.2.bt2.tmp to data/pcr_nc4_run10/replicate-1/remapping-1/reference/index.2.bt2
+Renaming data/pcr_nc4_run10/replicate-1/remapping-1/reference/index.rev.1.bt2.tmp to data/pcr_nc4_run10/replicate-1/remapping-1/reference/index.rev.1.bt2
+Renaming data/pcr_nc4_run10/replicate-1/remapping-1/reference/index.rev.2.bt2.tmp to data/pcr_nc4_run10/replicate-1/remapping-1/reference/index.rev.2.bt2

@@ -1,0 +1,12 @@
+sample	replicate	segment	position	penultimate_base	final_base
+cl_c1	1	pb1	460	N	A
+cl_c1	1	pb1	461	N	C
+cl_c1	1	pb1	462	N	T
+cl_c1	1	pb1	463	N	A
+cl_c1	1	pb1	464	N	T
+cl_c1	1	pb1	465	N	A
+cl_c1	1	pb1	466	N	G
+cl_c1	1	pb1	467	N	A
+cl_c1	1	pb1	468	N	G
+cl_c1	1	pb1	469	N	G
+cl_c1	1	pb1	603	N	C

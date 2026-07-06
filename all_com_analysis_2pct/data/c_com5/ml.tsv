@@ -1,0 +1,14 @@
+segment	position	allele	coding_region_change	gene	Frequency_1	Frequency_2
+na	43	T	Ile8Thr	NA	0.3326	0.3412
+na	67	T	Val16Ala	NA	0.2439	0.289
+na	76	T	Ile19Thr	NA	0.2454	0.2615
+na	79	T	Ile20Thr	NA	0.2392	0.2624
+pa	585	A	Leu187Leu	PA	0.0717	0.0
+pa	1122	A	Leu366Leu	PA	0.088	0.0
+pa	1173	C	Asp383Asp	PA	0.1338	0.1468
+pa	1275	G	Leu417Leu	PA	0.1101	0.1151
+pb1	843	T	Val273Val	PB1	0.0413	0.0444
+pb1	1724	A	Gln567Leu	PB1	0.0249	0.0215
+pb1	1851	C	Val609Val	PB1	0.0439	0.0556
+pb2	1101	G	Glu358Glu	PB2	0.0292	0.0
+pb2	1104	G	Gly359Gly	PB2	0.0608	0.0

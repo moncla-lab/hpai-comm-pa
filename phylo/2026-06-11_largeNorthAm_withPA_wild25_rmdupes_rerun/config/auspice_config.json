@@ -1,0 +1,136 @@
+{
+  "title": "Pennsylvania-focused phylogeny of HPAI in North America",
+  "maintainers": [
+    {"name": "Anna Jaeger", "url": ""}
+  ],
+  "build_url": "",
+  "data_provenance": [
+    {
+      "name": "GISAID"
+    }
+  ],
+  "colorings": [
+    {
+      "key": "gt",
+      "title": "Genotype",
+      "type": "categorical"
+    },
+    {
+      "key": "num_date",
+      "title": "Date",
+      "type": "continuous"
+    },
+    {
+      "key": "country",
+      "title": "Country",
+      "type": "categorical"
+    },
+    {
+      "key": "region",
+      "title": "Region",
+      "type": "categorical"
+    },
+    {
+      "key": "host",
+      "title": "Host",
+      "type": "categorical"
+    },
+      {
+      "key": "h5_label_clade",
+      "title": "Clade",
+      "type": "categorical"
+    },
+          {
+      "key": "domestic_status",
+      "title": "Domestic Status",
+      "type": "categorical"
+    },
+        {
+      "key": "wild_dom_lbm",
+      "title": "Dom Wild LBM",
+      "type": "categorical"
+    },
+          {
+      "key": "flyway",
+      "title": "Flyway",
+      "type": "categorical"
+    },          {
+      "key": "order",
+      "title": "Order",
+      "type": "categorical"
+    },
+          {
+      "key": "geo_region_na",
+      "title": "Region_NA",
+      "type": "categorical"
+    },
+        {
+      "key": "county",
+      "title": "County",
+      "type": "categorical"
+    },
+        {
+      "key": "originating_lab",
+      "title": "origin_lab",
+      "type": "categorical"
+    },    
+        {
+      "key": "pa_status",
+      "title": "PA_status",
+      "type": "categorical"
+    }, 
+        {
+      "key": "raptor_status",
+      "title": "raptors",
+      "type": "categorical"
+    },
+        {
+      "key": "fox_status",
+      "title": "foxes",
+      "type": "categorical"
+    },
+        {
+      "key": "galliformes_status",
+      "title": "galliformes",
+      "type": "categorical"
+    },
+        {
+      "key": "species_group",
+      "title": "species-grouped",
+      "type": "categorical"
+    },
+        {
+      "key": "border_state",
+      "title": "border state",
+      "type": "categorical"
+    }, 
+    {
+      "key": "division",
+      "title": "Division",
+      "type": "categorical"
+    }
+  ],
+  "geo_resolutions": [
+    "region",
+    "country",
+    "division"
+  ],
+  "display_defaults": {
+    "map_triplicate": true,
+    "color_by": "pa_status"
+  },
+  "filters": [
+    "host",
+    "region",
+    "country",
+    "subtype",
+    "dom_stat",
+    "dom_wild_only",
+    "flyway",
+    "order",
+    "border_states",
+    "raptor_status",
+    "fox_status",
+    "galliformes_status"
+  ]
+}

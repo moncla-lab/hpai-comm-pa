@@ -1,0 +1,12 @@
+Only SNPs will be reported
+Warning: No p-value threshold provided, so p-values will not be calculated
+Min coverage:	100
+Min reads2:	2
+Min var freq:	0.02
+Min avg qual:	30
+P-value thresh:	0.01
+Reading input from data/c_com3/replicate-1/remapping-2/samtools.pileup
+12173 bases in pileup file
+6 variant positions (5 SNP, 1 indel)
+1 were failed by the strand-filter
+4 variant positions reported (4 SNP, 0 indel)

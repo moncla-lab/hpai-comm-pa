@@ -1,0 +1,1603 @@
+{
+  "manifest_details": {
+    "manifest_mode_used": "basespace",
+    "data_root_queried": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace"
+  },
+  "samples": {
+    "c_com1": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "c_com1_rep1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/c_com1_rep1_L001-ds.f290822baf90452cac36f7c6687fd996/c-com1-rep1_S1_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/c_com1_rep1_L001-ds.f290822baf90452cac36f7c6687fd996/c-com1-rep1_S1_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "c_com1_rep3",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/c_com1_rep3_L001-ds.4d12b180765344b79b10f6a5edcc129b/c-com1-rep3_S46_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/c_com1_rep3_L001-ds.4d12b180765344b79b10f6a5edcc129b/c-com1-rep3_S46_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ],
+      "2": [
+        {
+          "sequencing_id_from_metadata": "c_com1_rep2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/c_com1_rep2_L001-ds.fc483644437f42a8b0d0b79173a5330a/c-com1-rep2_S36_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/c_com1_rep2_L001-ds.fc483644437f42a8b0d0b79173a5330a/c-com1-rep2_S36_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "c_com2": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "c_com2_rep1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/c_com2_rep1_L001-ds.7e059f2d9bc548daade435aab5ea8eb1/c-com2-rep1_S2_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/c_com2_rep1_L001-ds.7e059f2d9bc548daade435aab5ea8eb1/c-com2-rep1_S2_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ],
+      "2": [
+        {
+          "sequencing_id_from_metadata": "c_com2_rep2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/c_com2_rep2_L001-ds.05384c44991349eba23ae90588d37f84/c-com2-rep2_S37_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/c_com2_rep2_L001-ds.05384c44991349eba23ae90588d37f84/c-com2-rep2_S37_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "c_com3": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "c_com3_rep1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/c_com3_rep1_L001-ds.3db5d57d08504031803d6ce15fd00d4f/c-com3-rep1_S3_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/c_com3_rep1_L001-ds.3db5d57d08504031803d6ce15fd00d4f/c-com3-rep1_S3_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "c_com3_rep3",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/c_com3_rep3_L001-ds.361f4c7112174156813fb5a9b8bf5728/c-com3-rep3_S47_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/c_com3_rep3_L001-ds.361f4c7112174156813fb5a9b8bf5728/c-com3-rep3_S47_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ],
+      "2": [
+        {
+          "sequencing_id_from_metadata": "c_com3_rep2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/c_com3_rep2_L001-ds.17348eada4424ca7b02038601427b500/c-com3-rep2_S38_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/c_com3_rep2_L001-ds.17348eada4424ca7b02038601427b500/c-com3-rep2_S38_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "c_com3_rep4",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/c_com3_rep4_L001-ds.d84ec6b2c6ee4a069c88512f6c289a15/c-com3-rep4_S48_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/c_com3_rep4_L001-ds.d84ec6b2c6ee4a069c88512f6c289a15/c-com3-rep4_S48_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "c_com4": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "c_com4_rep1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/c_com4_rep1_L001-ds.af4f88d1cebc44019cff9d0dff8e34c8/c-com4-rep1_S17_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/c_com4_rep1_L001-ds.af4f88d1cebc44019cff9d0dff8e34c8/c-com4-rep1_S17_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ],
+      "2": [
+        {
+          "sequencing_id_from_metadata": "c_com4_rep2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/c_com4_rep2_L001-ds.e17b0a4cd66a49ffa1d204fef40ea8af/c-com4-rep2_S54_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/c_com4_rep2_L001-ds.e17b0a4cd66a49ffa1d204fef40ea8af/c-com4-rep2_S54_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "c_com5": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "c_com5_rep1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/c_com5_rep1_L001-ds.676b1b637d234c899409fed917cef02c/c-com5-rep1_S18_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/c_com5_rep1_L001-ds.676b1b637d234c899409fed917cef02c/c-com5-rep1_S18_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ],
+      "2": [
+        {
+          "sequencing_id_from_metadata": "c_com5_rep2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/c_com5_rep2_L001-ds.cc6d5aefb78a4280a12abff289b9a08c/c-com5-rep2_S55_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/c_com5_rep2_L001-ds.cc6d5aefb78a4280a12abff289b9a08c/c-com5-rep2_S55_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "c_com6": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "c_com6_rep1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/c_com6_rep1_L001-ds.e5e3110bd0964529ac50d154b71c656b/c-com6-rep1_S19_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/c_com6_rep1_L001-ds.e5e3110bd0964529ac50d154b71c656b/c-com6-rep1_S19_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ],
+      "2": [
+        {
+          "sequencing_id_from_metadata": "c_com6_rep2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/c_com6_rep2_L001-ds.524cdd66ac8849ae9976d8a82375d9d5/c-com6-rep2_S56_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/c_com6_rep2_L001-ds.524cdd66ac8849ae9976d8a82375d9d5/c-com6-rep2_S56_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "c_lbm10": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "c_lbm10_rep1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/c_lbm10_rep1_L001-ds.3a31ae22893f4db293e44dadf826b307/c-lbm10-rep1_S25_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/c_lbm10_rep1_L001-ds.3a31ae22893f4db293e44dadf826b307/c-lbm10-rep1_S25_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ],
+      "2": [
+        {
+          "sequencing_id_from_metadata": "c_lbm10_rep2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/c_lbm10_rep2_L001-ds.e17dcb78ec4f49caad7c360723605a10/c-lbm10-rep2_S35_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/c_lbm10_rep2_L001-ds.e17dcb78ec4f49caad7c360723605a10/c-lbm10-rep2_S35_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "c_lbm11": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "c_lbm11_rep1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/c_lbm11_rep1_L001-ds.3cb82ca7ef074c30a7d7cf5db894d3b3/c-lbm11-rep1_S26_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/c_lbm11_rep1_L001-ds.3cb82ca7ef074c30a7d7cf5db894d3b3/c-lbm11-rep1_S26_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "c_lbm11_rep3",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/c_lbm11_rep3_L001-ds.96690463d20e48e7bd03992deedc94f0/c-lbm11-rep3_S30_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/c_lbm11_rep3_L001-ds.96690463d20e48e7bd03992deedc94f0/c-lbm11-rep3_S30_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ],
+      "2": [
+        {
+          "sequencing_id_from_metadata": "c_lbm11_rep2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/c_lbm11_rep2_L001-ds.d377970d0b0c4450962af2bbd0d2e621/c-lbm11-rep2_S36_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/c_lbm11_rep2_L001-ds.d377970d0b0c4450962af2bbd0d2e621/c-lbm11-rep2_S36_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "c_lbm11_rep4",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/c_lbm11_rep4_L001-ds.6242051f20994fdfbdca9b99a5246ac9/c-lbm11-rep4_S34_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/c_lbm11_rep4_L001-ds.6242051f20994fdfbdca9b99a5246ac9/c-lbm11-rep4_S34_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "c_lbm1": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "c_lbm1_rep1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/c_lbm1_rep1_L001-ds.c0aa71349ceb4929a4c85f9a3ece0995/c-lbm1-rep1_S36_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/c_lbm1_rep1_L001-ds.c0aa71349ceb4929a4c85f9a3ece0995/c-lbm1-rep1_S36_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ],
+      "2": [
+        {
+          "sequencing_id_from_metadata": "c_lbm1_rep2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/c_lbm1_rep2_L001-ds.0f9f973eeb5b4fee99850e06c1ba5963/c-lbm1-rep2_S13_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/c_lbm1_rep2_L001-ds.0f9f973eeb5b4fee99850e06c1ba5963/c-lbm1-rep2_S13_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "c_lbm2": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "c_lbm2_rep1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/c_lbm2_rep1_L001-ds.a3a3ba83d6e749479531b0db1c0f9e72/c-lbm2-rep1_S37_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/c_lbm2_rep1_L001-ds.a3a3ba83d6e749479531b0db1c0f9e72/c-lbm2-rep1_S37_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "c_lbm2_rep3",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/c_lbm2_rep3_L001-ds.071af4ade14746a499fab59cc92d21f7/c-lbm2-rep3_S23_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/c_lbm2_rep3_L001-ds.071af4ade14746a499fab59cc92d21f7/c-lbm2-rep3_S23_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ],
+      "2": [
+        {
+          "sequencing_id_from_metadata": "c_lbm2_rep2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/c_lbm2_rep2_L001-ds.7ecff0ef214c4a1db5d701370465b09b/c-lbm2-rep2_S14_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/c_lbm2_rep2_L001-ds.7ecff0ef214c4a1db5d701370465b09b/c-lbm2-rep2_S14_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "c_lbm3": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "c_lbm3_rep1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/c_lbm3_rep1_L001-ds.3f88f9384e74400b8ead17260002f9af/c-lbm3-rep1_S38_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/c_lbm3_rep1_L001-ds.3f88f9384e74400b8ead17260002f9af/c-lbm3-rep1_S38_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "c_lbm3_rep3",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/c_lbm3_rep3_L001-ds.d0e993a5d3d344ed8abc2c0bd2d53bdc/c-lbm3-rep3_S24_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/c_lbm3_rep3_L001-ds.d0e993a5d3d344ed8abc2c0bd2d53bdc/c-lbm3-rep3_S24_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ],
+      "2": [
+        {
+          "sequencing_id_from_metadata": "c_lbm3_rep2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/c_lbm3_rep2_L001-ds.8b7e04ca7a51492a9d479c6d8a6a8aab/c-lbm3-rep2_S15_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/c_lbm3_rep2_L001-ds.8b7e04ca7a51492a9d479c6d8a6a8aab/c-lbm3-rep2_S15_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "c_lbm3_rep4",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/c_lbm3_rep4_L001-ds.e0f903459df4486cab9a5e69d68dc7fc/c-lbm3-rep4_S29_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/c_lbm3_rep4_L001-ds.e0f903459df4486cab9a5e69d68dc7fc/c-lbm3-rep4_S29_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "c_lbm4": {
+      "2": [
+        {
+          "sequencing_id_from_metadata": "c_lbm4_rep2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/c_lbm4_rep2_L001-ds.8ad194b2acbb4d818e34443f6685299e/c-lbm4-rep2_S16_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/c_lbm4_rep2_L001-ds.8ad194b2acbb4d818e34443f6685299e/c-lbm4-rep2_S16_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "c_lbm5": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "c_lbm5_rep1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/c_lbm5_rep1_L001-ds.a94152c0a34b47d2b180475c138c0253/c-lbm5-rep1_S19_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/c_lbm5_rep1_L001-ds.a94152c0a34b47d2b180475c138c0253/c-lbm5-rep1_S19_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ],
+      "2": [
+        {
+          "sequencing_id_from_metadata": "c_lbm5_rep2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/c_lbm5_rep2_L001-ds.f72ca05cae3a402da14913a6ba70b4e0/c-lbm5-rep2_S29_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/c_lbm5_rep2_L001-ds.f72ca05cae3a402da14913a6ba70b4e0/c-lbm5-rep2_S29_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "c_lbm6": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "c_lbm6_rep1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/c_lbm6_rep1_L001-ds.fa58b0a8ee854e1186782a11b5c97a97/c-lbm6-rep1_S21_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/c_lbm6_rep1_L001-ds.fa58b0a8ee854e1186782a11b5c97a97/c-lbm6-rep1_S21_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ],
+      "2": [
+        {
+          "sequencing_id_from_metadata": "c_lbm6_rep2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/c_lbm6_rep2_L001-ds.6c7e05c2271e4a22be28e8271bf648bf/c-lbm6-rep2_S31_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/c_lbm6_rep2_L001-ds.6c7e05c2271e4a22be28e8271bf648bf/c-lbm6-rep2_S31_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "c_lbm7": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "c_lbm7_rep1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/c_lbm7_rep1_L001-ds.ac55a02811324cfcb12d53723ddbaab8/c-lbm7-rep1_S22_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/c_lbm7_rep1_L001-ds.ac55a02811324cfcb12d53723ddbaab8/c-lbm7-rep1_S22_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ],
+      "2": [
+        {
+          "sequencing_id_from_metadata": "c_lbm7_rep2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/c_lbm7_rep2_L001-ds.3d56a32f21064b3fa411c329ce1546c8/c-lbm7-rep2_S32_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/c_lbm7_rep2_L001-ds.3d56a32f21064b3fa411c329ce1546c8/c-lbm7-rep2_S32_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "c_lbm8": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "c_lbm8_rep1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/c_lbm8_rep1_L001-ds.6793ce3ff3364f20ba23df0738263a41/c-lbm8-rep1_S23_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/c_lbm8_rep1_L001-ds.6793ce3ff3364f20ba23df0738263a41/c-lbm8-rep1_S23_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ],
+      "2": [
+        {
+          "sequencing_id_from_metadata": "c_lbm8_rep2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/c_lbm8_rep2_L001-ds.f50eead4cadb4eb587feb65bbc7ff4b2/c-lbm8-rep2_S33_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/c_lbm8_rep2_L001-ds.f50eead4cadb4eb587feb65bbc7ff4b2/c-lbm8-rep2_S33_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "c_lbm8_rep4",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/c_lbm8_rep4_L001-ds.3d3bf60c6c094259a19775aba51b59c9/c-lbm8-rep4_S33_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/c_lbm8_rep4_L001-ds.3d3bf60c6c094259a19775aba51b59c9/c-lbm8-rep4_S33_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "c_lbm9": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "c_lbm9_rep1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/c_lbm9_rep1_L001-ds.81cf7dcb53da4f6490bd3526b9cca1e1/c-lbm9-rep1_S24_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/c_lbm9_rep1_L001-ds.81cf7dcb53da4f6490bd3526b9cca1e1/c-lbm9-rep1_S24_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ],
+      "2": [
+        {
+          "sequencing_id_from_metadata": "c_lbm9_rep2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/c_lbm9_rep2_L001-ds.d3e38566b60e4d1197b8bcae7332486c/c-lbm9-rep2_S34_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/c_lbm9_rep2_L001-ds.d3e38566b60e4d1197b8bcae7332486c/c-lbm9-rep2_S34_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "cb_com1": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "CB_com1_R1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-08-24_run4/CB_com1_R1_L001-ds.5b01ada381744aea939cf296a01219f5/CB-com1-R1_S2_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-08-24_run4/CB_com1_R1_L001-ds.5b01ada381744aea939cf296a01219f5/CB-com1-R1_S2_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "cb_com1_rep3",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/cb_com1_rep3_L001-ds.feb8040390cc429a8709f3d10ff46f55/cb-com1-rep3_S2_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/cb_com1_rep3_L001-ds.feb8040390cc429a8709f3d10ff46f55/cb-com1-rep3_S2_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ],
+      "2": [
+        {
+          "sequencing_id_from_metadata": "CB_com1_R2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-08-24_run4/CB_com1_R2_L001-ds.96fc77bab03642319556fe471d2898ef/CB-com1-R2_S15_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-08-24_run4/CB_com1_R2_L001-ds.96fc77bab03642319556fe471d2898ef/CB-com1-R2_S15_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "CB_com1_rep4",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/CB_com1_rep4_L001-ds.8d446c878c6048929bae5675c086ceb0/CB-com1-rep4_S6_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/CB_com1_rep4_L001-ds.8d446c878c6048929bae5675c086ceb0/CB-com1-rep4_S6_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "cb_com2": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "CB_com2_R1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-08-24_run4/CB_com2_R1_L001-ds.be27152b99254881bd239771940236de/CB-com2-R1_S4_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-08-24_run4/CB_com2_R1_L001-ds.be27152b99254881bd239771940236de/CB-com2-R1_S4_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "cb_com2_rep3",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/cb_com2_rep3_L001-ds.fb8453705bb84c45a8ef0a8331652cc8/cb-com2-rep3_S4_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/cb_com2_rep3_L001-ds.fb8453705bb84c45a8ef0a8331652cc8/cb-com2-rep3_S4_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ],
+      "2": [
+        {
+          "sequencing_id_from_metadata": "CB_com2_R2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-08-24_run4/CB_com2_R2_L001-ds.23bd5d7e1d9a4aeb840ddba255381e92/CB-com2-R2_S17_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-08-24_run4/CB_com2_R2_L001-ds.23bd5d7e1d9a4aeb840ddba255381e92/CB-com2-R2_S17_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "CB_com2_rep4",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/CB_com2_rep4_L001-ds.ef4fb19e7df3410e9b580a6a8dee732c/CB-com2-rep4_S8_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/CB_com2_rep4_L001-ds.ef4fb19e7df3410e9b580a6a8dee732c/CB-com2-rep4_S8_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "cb_com3": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "CB_com3_Rep1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/CB_com3_Rep1_L001-ds.863178f982d94a46ad75937601601659/CB-com3-Rep1_S5_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/CB_com3_Rep1_L001-ds.863178f982d94a46ad75937601601659/CB-com3-Rep1_S5_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "CB_Com3_Rep3",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-12-18_run6/CB_Com3_Rep3_L001-ds.81b2449493654f6095b0ba31baf1d6f4/CB-Com3-Rep3_S58_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-12-18_run6/CB_Com3_Rep3_L001-ds.81b2449493654f6095b0ba31baf1d6f4/CB-Com3-Rep3_S58_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "CB_com3_rep3",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/CB_com3_rep3_L001-ds.4ed19d1a3cf9454d984cd0bbd13310fb/CB-com3-rep3_S13_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/CB_com3_rep3_L001-ds.4ed19d1a3cf9454d984cd0bbd13310fb/CB-com3-rep3_S13_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ],
+      "2": [
+        {
+          "sequencing_id_from_metadata": "CB_com3_Rep2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/CB_com3_Rep2_L001-ds.fb42190b74fb4b7f926b2c7d55956aeb/CB-com3-Rep2_S18_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/CB_com3_Rep2_L001-ds.fb42190b74fb4b7f926b2c7d55956aeb/CB-com3-Rep2_S18_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "CB_com3_rep6",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/CB_com3_rep6_L001-ds.6f3b9e1e69504d5bbcde9c4427b2eb8b/CB-com3-rep6_S20_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/CB_com3_rep6_L001-ds.6f3b9e1e69504d5bbcde9c4427b2eb8b/CB-com3-rep6_S20_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "cb_com4": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "CB_com4_Rep1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/CB_com4_Rep1_L001-ds.8d48c2be3be04b6d858abfb247a372de/CB-com4-Rep1_S7_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/CB_com4_Rep1_L001-ds.8d48c2be3be04b6d858abfb247a372de/CB-com4-Rep1_S7_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "CB_Com4_Rep3",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-12-18_run6/CB_Com4_Rep3_L001-ds.4994ea71ef7b4bfdb5186f3ff73e76d1/CB-Com4-Rep3_S61_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-12-18_run6/CB_Com4_Rep3_L001-ds.4994ea71ef7b4bfdb5186f3ff73e76d1/CB-Com4-Rep3_S61_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "CB_com4_rep5",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/CB_com4_rep5_L001-ds.0c50bf1469da4cdcb703a68a2b9d9e84/CB-com4-rep5_S14_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/CB_com4_rep5_L001-ds.0c50bf1469da4cdcb703a68a2b9d9e84/CB-com4-rep5_S14_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ],
+      "2": [
+        {
+          "sequencing_id_from_metadata": "CB_com4_Rep2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/CB_com4_Rep2_L001-ds.05fae0fb731345a4a4e0b1d8dc250dcd/CB-com4-Rep2_S20_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/CB_com4_Rep2_L001-ds.05fae0fb731345a4a4e0b1d8dc250dcd/CB-com4-Rep2_S20_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "CB_com4_rep4",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/CB_com4_rep4_L001-ds.3aa6d94431224fefa5265f1d7c54574b/CB-com4-rep4_S21_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/CB_com4_rep4_L001-ds.3aa6d94431224fefa5265f1d7c54574b/CB-com4-rep4_S21_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "ckr_com1": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "ckr_com1_rep1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/ckr_com1_rep1_L001-ds.579baffca0c14e82b9173313d1d07a3d/ckr-com1-rep1_S2_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/ckr_com1_rep1_L001-ds.579baffca0c14e82b9173313d1d07a3d/ckr-com1-rep1_S2_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ],
+      "2": [
+        {
+          "sequencing_id_from_metadata": "ckr_com1_rep2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/ckr_com1_rep2_L001-ds.069049a56faa40f0a35040e15ed4a57e/ckr-com1-rep2_S43_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/ckr_com1_rep2_L001-ds.069049a56faa40f0a35040e15ed4a57e/ckr-com1-rep2_S43_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "ckr_com2": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "ckr_com2_rep1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/ckr_com2_rep1_L001-ds.ecd655ab34de44f7bc72d531306a53a1/ckr-com2-rep1_S3_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/ckr_com2_rep1_L001-ds.ecd655ab34de44f7bc72d531306a53a1/ckr-com2-rep1_S3_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ],
+      "2": [
+        {
+          "sequencing_id_from_metadata": "ckr_com2_rep2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/ckr_com2_rep2_L001-ds.84ce728b75384bf1a79fe4f726b1936e/ckr-com2-rep2_S44_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/ckr_com2_rep2_L001-ds.84ce728b75384bf1a79fe4f726b1936e/ckr-com2-rep2_S44_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "ckr_com3": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "ckr_com3_rep1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/ckr_com3_rep1_L001-ds.ba058ffef946457e8321c35afada72b1/ckr-com3-rep1_S4_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/ckr_com3_rep1_L001-ds.ba058ffef946457e8321c35afada72b1/ckr-com3-rep1_S4_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ],
+      "2": [
+        {
+          "sequencing_id_from_metadata": "ckr_com3_rep2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/ckr_com3_rep2_L001-ds.85d63d36a4dc422bbc7ad57e3442cf19/ckr-com3-rep2_S45_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/ckr_com3_rep2_L001-ds.85d63d36a4dc422bbc7ad57e3442cf19/ckr-com3-rep2_S45_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "ckr_lbm1": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "ckr_lbm1_rep1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/ckr_lbm1_rep1_L001-ds.5aaa05c2ade548e5a758f69310d2fcd9/ckr-lbm1-rep1_S40_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/ckr_lbm1_rep1_L001-ds.5aaa05c2ade548e5a758f69310d2fcd9/ckr-lbm1-rep1_S40_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ],
+      "2": [
+        {
+          "sequencing_id_from_metadata": "ckr_lbm1_rep2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/ckr_lbm1_rep2_L001-ds.727e675cc2d9470db7e7fb147a2e70c7/ckr-lbm1-rep2_S17_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/ckr_lbm1_rep2_L001-ds.727e675cc2d9470db7e7fb147a2e70c7/ckr-lbm1-rep2_S17_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "cl_c1": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "CL_C1_Rep1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-12-18_run6/CL_C1_Rep1_L001-ds.00ce0a5c03384bb2944716f8154de977/CL-C1-Rep1_S38_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-12-18_run6/CL_C1_Rep1_L001-ds.00ce0a5c03384bb2944716f8154de977/CL-C1-Rep1_S38_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "cl_c2": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "CL_C2_Rep1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-12-18_run6/CL_C2_Rep1_L001-ds.58a662f9975f44aca8b693367f9eb14c/CL-C2-Rep1_S39_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-12-18_run6/CL_C2_Rep1_L001-ds.58a662f9975f44aca8b693367f9eb14c/CL-C2-Rep1_S39_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "d_com1": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "d_com1_rep1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/d_com1_rep1_L001-ds.cf70984683de4c2c9fe4024540bbe635/d-com1-rep1_S5_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/d_com1_rep1_L001-ds.cf70984683de4c2c9fe4024540bbe635/d-com1-rep1_S5_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ],
+      "2": [
+        {
+          "sequencing_id_from_metadata": "d_com1_rep2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/d_com1_rep2_L001-ds.aa6885f028084494b8d8f816d150f5bd/d-com1-rep2_S46_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/d_com1_rep2_L001-ds.aa6885f028084494b8d8f816d150f5bd/d-com1-rep2_S46_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "d_com2": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "d_com2_rep1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/d_com2_rep1_L001-ds.83fcb8a9252c4370b3fa150661a36aff/d-com2-rep1_S6_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/d_com2_rep1_L001-ds.83fcb8a9252c4370b3fa150661a36aff/d-com2-rep1_S6_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ],
+      "2": [
+        {
+          "sequencing_id_from_metadata": "d_com2_rep2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/d_com2_rep2_L001-ds.1392d1f3d0ee41da989bbf7edcc8f0c1/d-com2-rep2_S47_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/d_com2_rep2_L001-ds.1392d1f3d0ee41da989bbf7edcc8f0c1/d-com2-rep2_S47_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "d_com3": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "d_com3_rep1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/d_com3_rep1_L001-ds.fb363376d30c4d208a34ff51b6e15965/d-com3-rep1_S7_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/d_com3_rep1_L001-ds.fb363376d30c4d208a34ff51b6e15965/d-com3-rep1_S7_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ],
+      "2": [
+        {
+          "sequencing_id_from_metadata": "d_com3_rep2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/d_com3_rep2_L001-ds.b48e13aa3555457cb3d1f64dc7adb2aa/d-com3-rep2_S48_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/d_com3_rep2_L001-ds.b48e13aa3555457cb3d1f64dc7adb2aa/d-com3-rep2_S48_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "d_com3_rep4",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/d_com3_rep4_L001-ds.3f335aee3bd84c3fbf2190a462ff6162/d-com3-rep4_S25_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/d_com3_rep4_L001-ds.3f335aee3bd84c3fbf2190a462ff6162/d-com3-rep4_S25_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "d_lbm1": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "d_lbm1_rep1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/d_lbm1_rep1_L001-ds.e237638930af47019eca6768443a8fd1/d-lbm1-rep1_S34_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/d_lbm1_rep1_L001-ds.e237638930af47019eca6768443a8fd1/d-lbm1-rep1_S34_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "d_lbm1_rep3",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/d_lbm1_rep3_L001-ds.9337bf54e7ed46628388b5c92009a574/d-lbm1_rep3_S21_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/d_lbm1_rep3_L001-ds.9337bf54e7ed46628388b5c92009a574/d-lbm1_rep3_S21_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ],
+      "2": [
+        {
+          "sequencing_id_from_metadata": "d_lbm1_rep2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/d_lbm1_rep2_L001-ds.a2d0175ebdc34a6189e3c3c31f90bc76/d-lbm1-rep2_S11_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/d_lbm1_rep2_L001-ds.a2d0175ebdc34a6189e3c3c31f90bc76/d-lbm1-rep2_S11_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "d_lbm1_rep4",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/d_lbm1_rep4_L001-ds.bee5ba833bba4cbdabb131d15d047498/d-lbm1-rep4_S27_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/d_lbm1_rep4_L001-ds.bee5ba833bba4cbdabb131d15d047498/d-lbm1-rep4_S27_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "d_lbm2": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "d_lbm2_rep1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/d_lbm2_rep1_L001-ds.1c1c90b9946b4553962b0e7ef2b992aa/d-lbm2-rep1_S35_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/d_lbm2_rep1_L001-ds.1c1c90b9946b4553962b0e7ef2b992aa/d-lbm2-rep1_S35_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "d_lbm2_rep3",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/d_lbm2_rep3_L001-ds.b3b9ebf96b004429b244a54900e0f40a/d-lbm2-rep3_S22_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/d_lbm2_rep3_L001-ds.b3b9ebf96b004429b244a54900e0f40a/d-lbm2-rep3_S22_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ],
+      "2": [
+        {
+          "sequencing_id_from_metadata": "d_lbm2_rep2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/d_lbm2_rep2_L001-ds.969d6bf127a4480ba49cfb9c242259af/d-lbm2-rep2_S12_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/d_lbm2_rep2_L001-ds.969d6bf127a4480ba49cfb9c242259af/d-lbm2-rep2_S12_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "d_lbm2_rep4",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/d_lbm2_rep4_L001-ds.41698042541a4ecb8ea054a308e184fa/d-lbm2-rep4_S28_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/d_lbm2_rep4_L001-ds.41698042541a4ecb8ea054a308e184fa/d-lbm2-rep4_S28_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "d_lbm3": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "d_lbm3_rep1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/d_lbm3_rep1_L001-ds.feb1c7c989f8432898e4f1bed2081750/d-lbm3-rep1_S20_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/d_lbm3_rep1_L001-ds.feb1c7c989f8432898e4f1bed2081750/d-lbm3-rep1_S20_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ],
+      "2": [
+        {
+          "sequencing_id_from_metadata": "d_lbm3_rep2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/d_lbm3_rep2_L001-ds.40b7576cda8c4a27a9314e5f4f5a62f6/d-lbm3-rep2_S30_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/d_lbm3_rep2_L001-ds.40b7576cda8c4a27a9314e5f4f5a62f6/d-lbm3-rep2_S30_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "d_lbm3_rep4",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/d_lbm3_rep4_L001-ds.ec2d227645364bfb88fdc685d4729fa9/d-lbm3-rep4_S32_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/d_lbm3_rep4_L001-ds.ec2d227645364bfb88fdc685d4729fa9/d-lbm3-rep4_S32_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "d_lbm4": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "d_lbm4_rep1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/d_lbm4_rep1_L001-ds.63a686601df14aba8ce8df8768d2b0ce/d-lbm4-rep1_S27_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/d_lbm4_rep1_L001-ds.63a686601df14aba8ce8df8768d2b0ce/d-lbm4-rep1_S27_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "d_lbm4_rep3",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/d_lbm4_rep3_L001-ds.a6c47c1b361f4ec195eed8e66fcdb163/d-lbm4-rep3_S31_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/d_lbm4_rep3_L001-ds.a6c47c1b361f4ec195eed8e66fcdb163/d-lbm4-rep3_S31_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ],
+      "2": [
+        {
+          "sequencing_id_from_metadata": "d_lbm4_rep2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/d_lbm4_rep2_L001-ds.7873b571e7d6423985acd24a08c982f8/d-lbm4-rep2_S37_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/d_lbm4_rep2_L001-ds.7873b571e7d6423985acd24a08c982f8/d-lbm4-rep2_S37_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "d_lbm4_rep4",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/d_lbm4_rep4_L001-ds.5cabeeb6d7414154bca576f56374025c/d-lbm4-rep4_S35_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/d_lbm4_rep4_L001-ds.5cabeeb6d7414154bca576f56374025c/d-lbm4-rep4_S35_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "g_com1": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "G_com1_Rep1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/G_com1_Rep1_L001-ds.805629a5514748728a713580747e2af2/G-com1-Rep1_S9_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/G_com1_Rep1_L001-ds.805629a5514748728a713580747e2af2/G-com1-Rep1_S9_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "G_Com1_Rep3",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-12-18_run6/G_Com1_Rep3_L001-ds.182079d79e13485c862445dd55db5cfc/G-Com1-Rep3_S62_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-12-18_run6/G_Com1_Rep3_L001-ds.182079d79e13485c862445dd55db5cfc/G-Com1-Rep3_S62_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ],
+      "2": [
+        {
+          "sequencing_id_from_metadata": "G_com1_Rep2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/G_com1_Rep2_L001-ds.216e6c0636a0430ab317edb98e5a1444/G-com1-Rep2_S22_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/G_com1_Rep2_L001-ds.216e6c0636a0430ab317edb98e5a1444/G-com1-Rep2_S22_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "G_Com1_Rep4",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-12-18_run6/G_Com1_Rep4_L001-ds.bbd87c18f89347aa985ef01126abf4e1/G-Com1-Rep4_S64_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-12-18_run6/G_Com1_Rep4_L001-ds.bbd87c18f89347aa985ef01126abf4e1/G-Com1-Rep4_S64_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "g_com2": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "G_com2_Rep1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/G_com2_Rep1_L001-ds.4f1f7ab9f7324070916dae934f0d477f/G-com2-Rep1_S10_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/G_com2_Rep1_L001-ds.4f1f7ab9f7324070916dae934f0d477f/G-com2-Rep1_S10_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "G_Com2_Rep3",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-12-18_run6/G_Com2_Rep3_L001-ds.6d8057cdbe4e47078cbf33c1d068f8f9/G-Com2-Rep3_S63_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-12-18_run6/G_Com2_Rep3_L001-ds.6d8057cdbe4e47078cbf33c1d068f8f9/G-Com2-Rep3_S63_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ],
+      "2": [
+        {
+          "sequencing_id_from_metadata": "G_com2_Rep2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/G_com2_Rep2_L001-ds.3502531cf9684fecb1778211a722af0c/G-com2-Rep2_S23_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/G_com2_Rep2_L001-ds.3502531cf9684fecb1778211a722af0c/G-com2-Rep2_S23_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "G_Com2_Rep4",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-12-18_run6/G_Com2_Rep4_L001-ds.e942e7a864584c64acc0796bfb7752ab/G-Com2-Rep4_S65_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-12-18_run6/G_Com2_Rep4_L001-ds.e942e7a864584c64acc0796bfb7752ab/G-Com2-Rep4_S65_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "g_lbm1": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "g_lbm1_rep1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/g_lbm1_rep1_L001-ds.ad4f4c72e20a4562b9f64cbca6ea164e/g-lbm1-rep1_S33_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/g_lbm1_rep1_L001-ds.ad4f4c72e20a4562b9f64cbca6ea164e/g-lbm1-rep1_S33_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ],
+      "2": [
+        {
+          "sequencing_id_from_metadata": "g_lbm1_rep2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/g_lbm1_rep2_L001-ds.4c89f1279eb446bb9570da2a3393b214/g-lbm1-rep2_S10_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/g_lbm1_rep2_L001-ds.4c89f1279eb446bb9570da2a3393b214/g-lbm1-rep2_S10_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "gn_lbm1": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "gn_lbm1_rep1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/gn_lbm1_rep1_L001-ds.f6c0c8c18c11487c9bc4bf76f2983c1c/gn-lbm1-rep1_S1_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/gn_lbm1_rep1_L001-ds.f6c0c8c18c11487c9bc4bf76f2983c1c/gn-lbm1-rep1_S1_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "gn_lbm1_rep3",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/gn_lbm1_rep3_L001-ds.7f7192622ad0412f89dd3b20b98f891e/gn-lbm1-rep3_S26_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/gn_lbm1_rep3_L001-ds.7f7192622ad0412f89dd3b20b98f891e/gn-lbm1-rep3_S26_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ],
+      "2": [
+        {
+          "sequencing_id_from_metadata": "gn_lbm1_rep2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/gn_lbm1_rep2_L001-ds.ba39e34fed864482aaf97bea4b4560c0/gn-lbm1-rep2_S42_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/gn_lbm1_rep2_L001-ds.ba39e34fed864482aaf97bea4b4560c0/gn-lbm1-rep2_S42_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "kc_com1": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "KC_com1_R1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-08-24_run4/KC_com1_R1_L001-ds.43e2da38ed5540ddb810b2490b991057/KC-com1-R1_S1_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-08-24_run4/KC_com1_R1_L001-ds.43e2da38ed5540ddb810b2490b991057/KC-com1-R1_S1_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "KC_com1_rep3",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/KC_com1_rep3_L001-ds.3eb1eecc5a954162b397c453c9c3463c/KC-com1-rep3_S1_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/KC_com1_rep3_L001-ds.3eb1eecc5a954162b397c453c9c3463c/KC-com1-rep3_S1_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ],
+      "2": [
+        {
+          "sequencing_id_from_metadata": "KC_com1_R2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-08-24_run4/KC_com1_R2_L001-ds.1b32f3e2a8354da78e9c5babe94a0c4a/KC-com1-R2_S14_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-08-24_run4/KC_com1_R2_L001-ds.1b32f3e2a8354da78e9c5babe94a0c4a/KC-com1-R2_S14_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "KC_com1_rep4",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/KC_com1_rep4_L001-ds.61257eb3a1124705a445e52762160451/KC-com1-rep4_S5_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/KC_com1_rep4_L001-ds.61257eb3a1124705a445e52762160451/KC-com1-rep4_S5_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "kc_com2": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "KC_com2_R1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-08-24_run4/KC_com2_R1_L001-ds.862edb6229624e04a0aa874b3e6e00ad/KC-com2-R1_S3_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-08-24_run4/KC_com2_R1_L001-ds.862edb6229624e04a0aa874b3e6e00ad/KC-com2-R1_S3_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "kc_com2_rep3",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/kc_com2_rep3_L001-ds.84aa8b67d6a54d1faab74f2efba80e54/kc-com2-rep3_S3_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/kc_com2_rep3_L001-ds.84aa8b67d6a54d1faab74f2efba80e54/kc-com2-rep3_S3_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ],
+      "2": [
+        {
+          "sequencing_id_from_metadata": "KC_com2_R2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-08-24_run4/KC_com2_R2_L001-ds.91269614be2949d1a1d0e3b5a8ed1cb9/KC-com2-R2_S16_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-08-24_run4/KC_com2_R2_L001-ds.91269614be2949d1a1d0e3b5a8ed1cb9/KC-com2-R2_S16_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "KC_com2_rep4",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/KC_com2_rep4_L001-ds.8aa06a6b178948d4a9c5bcbec009faa2/KC-com2-rep4_S7_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/KC_com2_rep4_L001-ds.8aa06a6b178948d4a9c5bcbec009faa2/KC-com2-rep4_S7_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "kc_com3": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "KC_com3_Rep1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/KC_com3_Rep1_L001-ds.ff47a4a2b02244ecbe3923a25177e2a3/KC-com3-Rep1_S1_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/KC_com3_Rep1_L001-ds.ff47a4a2b02244ecbe3923a25177e2a3/KC-com3-Rep1_S1_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "KC_com3_rep3",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/KC_com3_rep3_L001-ds.d323bb13400a48689979170c79a3cc4c/KC-com3-rep3_S9_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/KC_com3_rep3_L001-ds.d323bb13400a48689979170c79a3cc4c/KC-com3-rep3_S9_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ],
+      "2": [
+        {
+          "sequencing_id_from_metadata": "KC_com3_Rep2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/KC_com3_Rep2_L001-ds.2a71a0911ad04a488600cff4d790b228/KC-com3-Rep2_S14_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/KC_com3_Rep2_L001-ds.2a71a0911ad04a488600cff4d790b228/KC-com3-Rep2_S14_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "KC_com3_rep4",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/KC_com3_rep4_L001-ds.da60a74199184f4e86f82a66543c4f51/KC-com3-rep4_S16_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/KC_com3_rep4_L001-ds.da60a74199184f4e86f82a66543c4f51/KC-com3-rep4_S16_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "kc_com4": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "KC_com4_Rep1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/KC_com4_Rep1_L001-ds.8c4df609c9c14d0aa07b812eb6edf544/KC-com4-Rep1_S2_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/KC_com4_Rep1_L001-ds.8c4df609c9c14d0aa07b812eb6edf544/KC-com4-Rep1_S2_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "KC_Com4_Rep3",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-12-18_run6/KC_Com4_Rep3_L001-ds.428f6e19c1e745e1baa00dbe963e3061/KC-Com4-Rep3_S56_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-12-18_run6/KC_Com4_Rep3_L001-ds.428f6e19c1e745e1baa00dbe963e3061/KC-Com4-Rep3_S56_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "KC_com4_rep5",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/KC_com4_rep5_L001-ds.1ccbd94090474a0684e1afc0ae88e024/KC-com4-rep5_S10_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/KC_com4_rep5_L001-ds.1ccbd94090474a0684e1afc0ae88e024/KC-com4-rep5_S10_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ],
+      "2": [
+        {
+          "sequencing_id_from_metadata": "KC_com4_Rep2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/KC_com4_Rep2_L001-ds.95df194472974c9ea7f1d15cc854608b/KC-com4-Rep2_S15_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/KC_com4_Rep2_L001-ds.95df194472974c9ea7f1d15cc854608b/KC-com4-Rep2_S15_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "KC_com4_rep6",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/KC_com4_rep6_L001-ds.b0f7175c885b4a4cada0cc52934cb525/KC-com4-rep6_S17_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/KC_com4_rep6_L001-ds.b0f7175c885b4a4cada0cc52934cb525/KC-com4-rep6_S17_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "kc_com5": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "KC_com5_Rep1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/KC_com5_Rep1_L001-ds.688abbe026ea4747b3e3ec4ac5511807/KC-com5-Rep1_S3_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/KC_com5_Rep1_L001-ds.688abbe026ea4747b3e3ec4ac5511807/KC-com5-Rep1_S3_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "KC_com5_rep3",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/KC_com5_rep3_L001-ds.a8a5238dd5e742f6957bffba70c88365/KC-com5-rep3_S11_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/KC_com5_rep3_L001-ds.a8a5238dd5e742f6957bffba70c88365/KC-com5-rep3_S11_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ],
+      "2": [
+        {
+          "sequencing_id_from_metadata": "KC_com5_Rep2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/KC_com5_Rep2_L001-ds.95c1009b60374f35a23c86a4d340babe/KC-com5-Rep2_S16_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/KC_com5_Rep2_L001-ds.95c1009b60374f35a23c86a4d340babe/KC-com5-Rep2_S16_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "KC_com5_rep4",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/KC_com5_rep4_L001-ds.f48aa47c684945ab9df7dc3aef3d58db/KC-com5-rep4_S18_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/KC_com5_rep4_L001-ds.f48aa47c684945ab9df7dc3aef3d58db/KC-com5-rep4_S18_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "kc_com6": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "KC_com6_Rep1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/KC_com6_Rep1_L001-ds.5e0a845ba69042cf8db3fe5c838bdb8e/KC-com6-Rep1_S4_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/KC_com6_Rep1_L001-ds.5e0a845ba69042cf8db3fe5c838bdb8e/KC-com6-Rep1_S4_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "KC_Com6_Rep3",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-12-18_run6/KC_Com6_Rep3_L001-ds.738318bc247e45659a39d8b6ea08709b/KC-Com6-Rep3_S57_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-12-18_run6/KC_Com6_Rep3_L001-ds.738318bc247e45659a39d8b6ea08709b/KC-Com6-Rep3_S57_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "KC_com6_rep3",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/KC_com6_rep3_L001-ds.b3d99e81bcad4c9f81c4f1b65a00d002/KC-com6-rep3_S12_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/KC_com6_rep3_L001-ds.b3d99e81bcad4c9f81c4f1b65a00d002/KC-com6-rep3_S12_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ],
+      "2": [
+        {
+          "sequencing_id_from_metadata": "KC_com6_Rep2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/KC_com6_Rep2_L001-ds.0ed2d75e753a471b8235e8ddd951e218/KC-com6-Rep2_S17_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/KC_com6_Rep2_L001-ds.0ed2d75e753a471b8235e8ddd951e218/KC-com6-Rep2_S17_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "KC_com6_rep6",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/KC_com6_rep6_L001-ds.bead12f53adf4ceabded3c37001b3911/KC-com6-rep6_S19_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/KC_com6_rep6_L001-ds.bead12f53adf4ceabded3c37001b3911/KC-com6-rep6_S19_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "kc_com7": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "KC_com7_Rep1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/KC_com7_Rep1_L001-ds.66c69a9d0954403e8e750c2f417332cd/KC-com7-Rep1_S6_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/KC_com7_Rep1_L001-ds.66c69a9d0954403e8e750c2f417332cd/KC-com7-Rep1_S6_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "KC_Com7_Rep3",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-12-18_run6/KC_Com7_Rep3_L001-ds.b7f35882c3ab418ea8243e6bc76bb203/KC-Com7-Rep3_S59_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-12-18_run6/KC_Com7_Rep3_L001-ds.b7f35882c3ab418ea8243e6bc76bb203/KC-Com7-Rep3_S59_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ],
+      "2": [
+        {
+          "sequencing_id_from_metadata": "KC_com7_Rep2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/KC_com7_Rep2_L001-ds.ac788f4efbc844dc96fb8bb4c67eea43/KC-com7-Rep2_S19_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/KC_com7_Rep2_L001-ds.ac788f4efbc844dc96fb8bb4c67eea43/KC-com7-Rep2_S19_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "KC_Com7_Rep4",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-12-18_run6/KC_Com7_Rep4_L001-ds.855995d0984a4c08a229b4f2e858c290/KC-Com7-Rep4_S60_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-12-18_run6/KC_Com7_Rep4_L001-ds.855995d0984a4c08a229b4f2e858c290/KC-Com7-Rep4_S60_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": true
+        }
+      ]
+    },
+    "kc_com8": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "KC_com8_Rep1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/KC_com8_Rep1_L001-ds.56a28756315b41e69065bd092cfe329c/KC-com8-Rep1_S8_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/KC_com8_Rep1_L001-ds.56a28756315b41e69065bd092cfe329c/KC-com8-Rep1_S8_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "KC_com8_rep3",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/KC_com8_rep3_L001-ds.7b1354aae01a45369911d996239e46bb/KC-com8-rep3_S15_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/KC_com8_rep3_L001-ds.7b1354aae01a45369911d996239e46bb/KC-com8-rep3_S15_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ],
+      "2": [
+        {
+          "sequencing_id_from_metadata": "KC_com8_Rep2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/KC_com8_Rep2_L001-ds.659d4407193f42c391e5ff1154b3fe4a/KC-com8-Rep2_S21_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/KC_com8_Rep2_L001-ds.659d4407193f42c391e5ff1154b3fe4a/KC-com8-Rep2_S21_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        },
+        {
+          "sequencing_id_from_metadata": "KC_com8_rep4",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/KC_com8_rep4_L001-ds.d886efdcd0f84027ba78e5050e2c22ba/KC-com8-rep4_S22_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/KC_com8_rep4_L001-ds.d886efdcd0f84027ba78e5050e2c22ba/KC-com8-rep4_S22_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "PCR_NC1_run10": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "PCR_NC1_run10",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/PCR_NC1_run10_L001-ds.8eb5be97126849fd8f276fea036f348c/PCR-NC1-run10_S10_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/PCR_NC1_run10_L001-ds.8eb5be97126849fd8f276fea036f348c/PCR-NC1-run10_S10_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "PCR_NC1_run9": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "PCR_NC1_run9",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/PCR_NC1_run9_L001-ds.e5bce7bf6a1d4148a32834373556770b/PCR-NC1-run9_S9_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/PCR_NC1_run9_L001-ds.e5bce7bf6a1d4148a32834373556770b/PCR-NC1-run9_S9_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "pcr_nc2_run10": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "pcr_nc2_run10",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/pcr_nc2_run10_L001-ds.0fda3696e78e4e2cbde1bc07f1e1abd8/pcr-nc2-run10_S20_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/pcr_nc2_run10_L001-ds.0fda3696e78e4e2cbde1bc07f1e1abd8/pcr-nc2-run10_S20_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "pcr_nc2_run9": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "pcr_nc2_run9",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/pcr_nc2_run9_L001-ds.1fb61988ab134220a9b1589d92c446f9/pcr-nc2-run9_S18_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/pcr_nc2_run9_L001-ds.1fb61988ab134220a9b1589d92c446f9/pcr-nc2-run9_S18_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "pcr_nc3_run10": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "pcr_nc3_run10",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/pcr_nc3_run10_L001-ds.fbc7fe741fd74586b38254fb5e27dd6b/pcr-nc3-run10_S45_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/pcr_nc3_run10_L001-ds.fbc7fe741fd74586b38254fb5e27dd6b/pcr-nc3-run10_S45_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "pcr_nc4_run10": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "pcr_nc4_run10",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/pcr_nc4_run10_L001-ds.a182460137da4aa1ad93ff60dec49eff/pcr-nc4-run10_S58_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/pcr_nc4_run10_L001-ds.a182460137da4aa1ad93ff60dec49eff/pcr-nc4-run10_S58_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "PCRNC1_run8": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "PCRNC1_run8",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/PCRNC1_run8_L001-ds.cd1a716527014947b2f171c3f6f92315/PCRNC1-run8_S41_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/PCRNC1_run8_L001-ds.cd1a716527014947b2f171c3f6f92315/PCRNC1-run8_S41_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "PCRNC2_run8": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "PCRNC2_run8",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/PCRNC2_run8_L001-ds.19c885c39c3248b9bc08fc718010f1d2/PCRNC2-run8_S50_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/PCRNC2_run8_L001-ds.19c885c39c3248b9bc08fc718010f1d2/PCRNC2-run8_S50_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "PCRNC3_run9": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "PCRNC3_run9",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/PCRNC3_run9_L001-ds.f77fc5ee79574e4da488b5ba4e80073c/PCRNC3_run9_S28_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/PCRNC3_run9_L001-ds.f77fc5ee79574e4da488b5ba4e80073c/PCRNC3_run9_S28_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "PCRNC4_run9": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "PCRNC4_run9",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/PCRNC4_run9_L001-ds.66559458c7614f4c881703ad4d79bc97/PCRNC4_run9_S38_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/PCRNC4_run9_L001-ds.66559458c7614f4c881703ad4d79bc97/PCRNC4_run9_S38_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "rt_nc2_run10": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "rt_nc2_run10",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/rt_nc2_run10_L001-ds.f2f1784fe2ae492f9e5f0263bd2c28fd/rt-nc2-run10_S44_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/rt_nc2_run10_L001-ds.f2f1784fe2ae492f9e5f0263bd2c28fd/rt-nc2-run10_S44_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "rt_nc3_run10": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "rt_nc3_run10",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/rt_nc3_run10_L001-ds.c1931bf7dba44a8da008964d5c044520/rt-nc3-run10_S57_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_02_19_2026_run10/rt_nc3_run10_L001-ds.c1931bf7dba44a8da008964d5c044520/rt-nc3-run10_S57_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "rt_nc_run9": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "rt_nc_run9",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/rt_nc_run9_L001-ds.0a077994c740472ba1a4b55d7ab391f8/rt-nc-run9_S8_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_01_17_2026_run9/rt_nc_run9_L001-ds.0a077994c740472ba1a4b55d7ab391f8/rt-nc-run9_S8_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "RTNC2_run8": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "RTNC2_run8",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/RTNC2_run8_L001-ds.84b27af7e3fc43719d42b1d2af9d9e38/RTNC2-run8_S49_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_11_25_2025_run8/RTNC2_run8_L001-ds.84b27af7e3fc43719d42b1d2af9d9e38/RTNC2-run8_S49_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "run4_PCR_NC_1": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "run4_PCR_NC_1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-08-24_run4/run4_PCR_NC_1_L001-ds.01a2c533b59a48d1a40b3b64b94998d8/run4_PCR-NC-1_S12_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-08-24_run4/run4_PCR_NC_1_L001-ds.01a2c533b59a48d1a40b3b64b94998d8/run4_PCR-NC-1_S12_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "run4_PCR_NC_2": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "run4_PCR_NC_2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-08-24_run4/run4_PCR_NC_2_L001-ds.44fa2daa58ae4bd892de8eeb7eb4a05c/run4_PCR-NC-2_S13_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-08-24_run4/run4_PCR_NC_2_L001-ds.44fa2daa58ae4bd892de8eeb7eb4a05c/run4_PCR-NC-2_S13_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "run4_PCR_NC_3": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "run4_PCR_NC_3",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-08-24_run4/run4_PCR_NC_3_L001-ds.b625cb96d8d84b288e8f2ee75ee2f839/run4_PCR-NC-3_S24_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-08-24_run4/run4_PCR_NC_3_L001-ds.b625cb96d8d84b288e8f2ee75ee2f839/run4_PCR-NC-3_S24_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "run4_PCR_NC_4": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "run4_PCR_NC_4",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-08-24_run4/run4_PCR_NC_4_L001-ds.8c25d776627f40f1ba5bafb2234730aa/run4_PCR-NC-4_S25_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-08-24_run4/run4_PCR_NC_4_L001-ds.8c25d776627f40f1ba5bafb2234730aa/run4_PCR-NC-4_S25_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "run4_RT_NC_1": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "run4_RT_NC_1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-08-24_run4/run4_RT_NC_1_L001-ds.bf8b4dc6b14f4a538c29403324210e93/run4_RT-NC-1_S11_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-08-24_run4/run4_RT_NC_1_L001-ds.bf8b4dc6b14f4a538c29403324210e93/run4_RT-NC-1_S11_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "run5_PCR_NC_1": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "run5_PCR_NC_1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/run5_PCR_NC_1_L001-ds.ae7e67d6fb81481b9b17b74d80f4e4cf/run5_PCR-NC-1_S12_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/run5_PCR_NC_1_L001-ds.ae7e67d6fb81481b9b17b74d80f4e4cf/run5_PCR-NC-1_S12_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "run5_PCR_NC_2": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "run5_PCR_NC_2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/run5_PCR_NC_2_L001-ds.3acb5cc7507f4130a669d4833c6dd3ab/run5_PCR-NC-2_S13_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/run5_PCR_NC_2_L001-ds.3acb5cc7507f4130a669d4833c6dd3ab/run5_PCR-NC-2_S13_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "run5_PCR_NC_3": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "run5_PCR_NC_3",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/run5_PCR_NC_3_L001-ds.a90a38fd838e4a94a632b391ab6ad64b/run5_PCR-NC-3_S24_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/run5_PCR_NC_3_L001-ds.a90a38fd838e4a94a632b391ab6ad64b/run5_PCR-NC-3_S24_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "run5_PCR_NC_4": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "run5_PCR_NC_4",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/run5_PCR_NC_4_L001-ds.9550d35cddc140d9b3ac98ffc55d3a69/run5_PCR-NC-4_S25_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/run5_PCR_NC_4_L001-ds.9550d35cddc140d9b3ac98ffc55d3a69/run5_PCR-NC-4_S25_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "run5_RT_NC_1": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "run5_RT_NC_1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/run5_RT_NC_1_L001-ds.f3fc6c59f9454539be6bc29072b4739c/run5_RT-NC-1_S11_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-10-02_run5/run5_RT_NC_1_L001-ds.f3fc6c59f9454539be6bc29072b4739c/run5_RT-NC-1_S11_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "run6_PCR_NC_1": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "run6_PCR_NC_1",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-12-18_run6/run6_PCR_NC_1_L001-ds.cbac84b83b57432aba0a713156f1e051/run6_PCR-NC-1_S16_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-12-18_run6/run6_PCR_NC_1_L001-ds.cbac84b83b57432aba0a713156f1e051/run6_PCR-NC-1_S16_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "run6_PCR_NC_2": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "run6_PCR_NC_2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-12-18_run6/run6_PCR_NC_2_L001-ds.a8c2180346ff477a853ab1e46bf0c275/run6_PCR-NC-2_S17_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-12-18_run6/run6_PCR_NC_2_L001-ds.a8c2180346ff477a853ab1e46bf0c275/run6_PCR-NC-2_S17_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "run6_PCR_NC_3": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "run6_PCR_NC_3",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-12-18_run6/run6_PCR_NC_3_L001-ds.50aff528d9c34f5c9e548122229c3bb9/run6_PCR-NC-3_S29_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-12-18_run6/run6_PCR_NC_3_L001-ds.50aff528d9c34f5c9e548122229c3bb9/run6_PCR-NC-3_S29_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "run6_PCR_NC_4": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "run6_PCR_NC_4",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-12-18_run6/run6_PCR_NC_4_L001-ds.8088d470f3374d13a986c052acd37ea8/run6_PCR-NC-4_S31_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-12-18_run6/run6_PCR_NC_4_L001-ds.8088d470f3374d13a986c052acd37ea8/run6_PCR-NC-4_S31_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "run6_PCR_NC_5": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "run6_PCR_NC_5",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-12-18_run6/run6_PCR_NC_5_L001-ds.8c792b09894f448aaf3188316b59ae3e/run6_PCR-NC-5_S40_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-12-18_run6/run6_PCR_NC_5_L001-ds.8c792b09894f448aaf3188316b59ae3e/run6_PCR-NC-5_S40_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "run6_PCR_NC_6": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "run6_PCR_NC_6",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-12-18_run6/run6_PCR_NC_6_L001-ds.6cc5be204fdf40d7a55054eac68ed25a/run6_PCR-NC-6_S48_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-12-18_run6/run6_PCR_NC_6_L001-ds.6cc5be204fdf40d7a55054eac68ed25a/run6_PCR-NC-6_S48_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "run6_RT_NC_2": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "run6_RT_NC_2",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-12-18_run6/run6_RT_NC_2_L001-ds.abe04e8248db40bfb31e8a8eccb6228b/run6_RT-NC-2_S30_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-12-18_run6/run6_RT_NC_2_L001-ds.abe04e8248db40bfb31e8a8eccb6228b/run6_RT-NC-2_S30_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    },
+    "run6_RT_NC_3": {
+      "1": [
+        {
+          "sequencing_id_from_metadata": "run6_RT_NC_3",
+          "source_forward_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-12-18_run6/run6_RT_NC_3_L001-ds.81988300f8444f80ab78903fbbbec6d7/run6_RT-NC-3_S47_L001_R1_001.fastq.gz",
+          "source_reverse_path": "/Users/asjaeger/Desktop/project_source/hpai-PA/seq/BaseSpace/P1-417983016/FASTQ_Generation_2024-12-18_run6/run6_RT_NC_3_L001-ds.81988300f8444f80ab78903fbbbec6d7/run6_RT-NC-3_S47_L001_R2_001.fastq.gz",
+          "source_gzipped": true,
+          "is_low_coverage": false
+        }
+      ]
+    }
+  }
+}

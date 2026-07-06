@@ -1,0 +1,111 @@
+{
+  "title": "Pennsylvania-focused phylogeny of HPAI in North America, full genome, B3.3",
+  "maintainers": [
+    {"name": "Anna Jaeger", "url": ""}
+  ],
+  "build_url": "",
+  "data_provenance": [
+    {
+      "name": "GISAID"
+    }
+  ],
+  "colorings": [
+    {
+      "key": "gt",
+      "title": "Genotype",
+      "type": "categorical"
+    },
+    {
+      "key": "Genotype",
+      "title": "Genotype_genoflu",
+      "type": "categorical"
+    },
+    {
+      "key": "num_date",
+      "title": "Date",
+      "type": "continuous"
+    },
+    {
+      "key": "country",
+      "title": "Country",
+      "type": "categorical"
+    },
+    {
+      "key": "region",
+      "title": "Region",
+      "type": "categorical"
+    },
+    {
+      "key": "host",
+      "title": "Host",
+      "type": "categorical"
+    },
+      {
+      "key": "h5_label_clade",
+      "title": "Clade",
+      "type": "categorical"
+    },
+          {
+      "key": "domestic_status",
+      "title": "Domestic Status",
+      "type": "categorical"
+    },
+          {
+      "key": "wild_dom_lbm",
+      "title": "Wild Dom LBM",
+      "type": "categorical"
+    },
+          {
+      "key": "flyway",
+      "title": "Flyway",
+      "type": "categorical"
+    },          {
+      "key": "order",
+      "title": "Order",
+      "type": "categorical"
+    },
+          {
+      "key": "geo_region_na",
+      "title": "Region_NA",
+      "type": "categorical"
+    },
+        {
+      "key": "county",
+      "title": "County",
+      "type": "categorical"
+    },
+        {
+      "key": "originating_lab",
+      "title": "origin_lab",
+      "type": "categorical"
+    },    
+        {
+      "key": "pa_status",
+      "title": "PA_status",
+      "type": "categorical"
+    }, 
+    {
+      "key": "division",
+      "title": "Division",
+      "type": "categorical"
+    }
+  ],
+  "geo_resolutions": [
+    "region",
+    "country",
+    "division"
+  ],
+  "display_defaults": {
+    "map_triplicate": true,
+    "color_by": "pa_status"
+  },
+  "filters": [
+    "host",
+    "region",
+    "country",
+    "subtype",
+    "domestic_status",
+    "flyway",
+    "order"
+  ]
+}

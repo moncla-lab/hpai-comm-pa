@@ -1,0 +1,2 @@
+[mpileup] 1 samples in 1 input files
+[mpileup] Max depth set to maximum value (2147483647)

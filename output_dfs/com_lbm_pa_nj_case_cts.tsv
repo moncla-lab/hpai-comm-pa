@@ -1,0 +1,65 @@
+	Special ID	County Name	State	Production	Confirmed Diagnosis	Control Area Released	Unnamed: 6	state_grouped	group
+1	Essex 02	Essex	New Jersey	Live Bird Market	2025-05-27		120	Other	New Jersey - LBM
+4	Northampton 02	Northampton	Pennsylvania	WOAH Non-Poultry	2025-05-19		30	Pennsylvania	Pennsylvania - Other Commercial
+6	Essex 01	Essex	New Jersey	Live Bird Market	2025-05-12		1,400	Other	New Jersey - LBM
+13	Queens 18	Queens	New York	Live Bird Market	2025-04-24		0	New York	New York - LBM
+16	Queens 17	Queens	New York	Live Bird Market	2025-04-18		930	New York	New York - LBM
+18	Queens 16	Queens	New York	Live Bird Market	2025-04-14		390	New York	New York - LBM
+20	Jefferson 01	Jefferson	New York	WOAH Non-Poultry	2025-04-11		200	New York	New York - Other Commercial
+21	Queens 15	Queens	New York	Live Bird Market	2025-04-11		240	New York	New York - LBM
+24	Queens 14	Queens	New York	Live Bird Market	2025-04-08		0	New York	New York - LBM
+26	Queens 13	Queens	New York	Live Bird Market	2025-04-07		300	New York	New York - LBM
+29	Queens 12	Queens	New York	Live Bird Market	2025-04-02		40	New York	New York - LBM
+30	Delaware 02	Delaware	New York	WOAH Non-Poultry	2025-04-01		60	New York	New York - Other Commercial
+33	Lancaster 39	Lancaster	Pennsylvania	WOAH Poultry	2025-03-27	16-Apr-25	160	Pennsylvania	Pennsylvania - Other Commercial
+34	Queens 11	Queens	New York	Live Bird Market	2025-03-27		270	New York	New York - LBM
+35	Queens 10	Queens	New York	Live Bird Market	2025-03-26		1,100	New York	New York - LBM
+39	Dutchess 03	Dutchess	New York	WOAH Non-Poultry	2025-03-21		40	New York	New York - Other Commercial
+40	Franklin 01	Franklin	Pennsylvania	Commercial Turkey Meat Bird	2025-03-21	10-Apr-25	13,400	Pennsylvania	Pennsylvania - Other Commercial
+41	Atlantic 01	Atlantic	New Jersey	WOAH Poultry	2025-03-20	03-Apr-25	100	Other	New Jersey - Other Commercial
+43	Onondaga 02	Onondaga	New York	Live Bird Market	2025-03-20		470	New York	New York - LBM
+53	Lehigh 08	Lehigh	Pennsylvania	Live Bird Market	2025-03-13		350	Pennsylvania	Pennsylvania - LBM
+54	Salem 01	Salem	New Jersey	WOAH Non-Poultry	2025-03-13		5	Other	New Jersey - Other Commercial
+56	Hudson 01	Hudson	New Jersey	Live Bird Market	2025-03-12		370	Other	New Jersey - LBM
+57	Hudson 02	Hudson	New Jersey	Live Bird Market	2025-03-12		760	Other	New Jersey - LBM
+59	Philadelphia 02	Philadelphia	Pennsylvania	Live Bird Market	2025-03-12		420	Pennsylvania	Pennsylvania - LBM
+62	Rensselaer 01	Rensselaer	New York	WOAH Non-Poultry	2025-03-11		50	New York	New York - Other Commercial
+63	Kings 08	Kings	New York	Live Bird Market	2025-03-10		0	New York	New York - LBM
+64	Queens 09	Queens	New York	Live Bird Market	2025-03-10		1,100	New York	New York - LBM
+67	Bronx 04	Bronx	New York	Live Bird Market	2025-03-07		1,000	New York	New York - LBM
+68	Lancaster 38	Lancaster	Pennsylvania	WOAH Poultry	2025-03-07	28-Mar-25	6,500	Pennsylvania	Pennsylvania - Other Commercial
+69	Richmond 01	Richmond	New York	Live Bird Market	2025-03-07		450	New York	New York - LBM
+71	Kings 07	Kings	New York	Live Bird Market	2025-03-06		70	New York	New York - LBM
+78	Queens 07	Queens	New York	Live Bird Market	2025-03-03		0	New York	New York - LBM
+79	Queens 08	Queens	New York	Live Bird Market	2025-03-03		150	New York	New York - LBM
+84	Suffolk 06	Suffolk	New York	WOAH Non-Poultry	2025-02-28		3	New York	New York - Other Commercial
+89	Westchester 01	Westchester	New York	WOAH Non-Poultry	2025-02-26		100	New York	New York - Other Commercial
+97	Philadelphia 01	Philadelphia	Pennsylvania	Live Bird Market	2025-02-24		1,100	Pennsylvania	Pennsylvania - LBM
+98	Union 02	Union	New Jersey	Live Bird Market	2025-02-22		830	Other	New Jersey - LBM
+101	Delaware 01	Delaware	New York	WOAH Non-Poultry	2025-02-21		240	New York	New York - Other Commercial
+107	Butler 01	Butler	Pennsylvania	WOAH Non-Poultry	2025-02-20		610	Pennsylvania	Pennsylvania - Other Commercial
+109	Luzerne 01	Luzerne	Pennsylvania	WOAH Non-Poultry	2025-02-20		90	Pennsylvania	Pennsylvania - Other Commercial
+129	Lancaster 37	Lancaster	Pennsylvania	WOAH Poultry	2025-02-12	06-Mar-25	600	Pennsylvania	Pennsylvania - Other Commercial
+137	Cumberland 02	Cumberland	Pennsylvania	Commercial Duck Meat Bird	2025-02-11	01-Mar-25	20,000	Pennsylvania	Pennsylvania - Other Commercial
+139	Lancaster 36	Lancaster	Pennsylvania	Commercial Broiler Production	2025-02-11	06-Mar-25	80,000	Pennsylvania	Pennsylvania - Other Commercial
+140	Madison 01	Madison	New York	WOAH Non-Poultry	2025-02-11		20	New York	New York - Other Commercial
+146	Lancaster 35	Lancaster	Pennsylvania	WOAH Poultry	2025-02-07	11-Mar-25	610	Pennsylvania	Pennsylvania - Other Commercial
+147	Lebanon 02	Lebanon	Pennsylvania	Commercial Broiler Production	2025-02-07	04-Mar-25	53,500	Pennsylvania	Pennsylvania - Other Commercial
+151	Bronx 03	Bronx	New York	Live Bird Market	2025-02-06		0	New York	New York - LBM
+153	Lancaster 33	Lancaster	Pennsylvania	WOAH Poultry	2025-02-06	11-Mar-25	14,900	Pennsylvania	Pennsylvania - Other Commercial
+154	Lancaster 34	Lancaster	Pennsylvania	Commercial Duck Meat Bird	2025-02-06	26-Feb-25	12,100	Pennsylvania	Pennsylvania - Other Commercial
+156	Lebanon 01	Lebanon	Pennsylvania	Commercial Table Egg Layer	2025-02-06	05-Mar-25	84,800	Pennsylvania	Pennsylvania - Other Commercial
+162	Queens 06	Queens	New York	Live Bird Market	2025-02-06		200	New York	New York - LBM
+164	Cumberland 01	Cumberland	Pennsylvania	Commercial Broiler Production	2025-02-05	01-Mar-25	26,400	Pennsylvania	Pennsylvania - Other Commercial
+165	Kings 06	Kings	New York	Live Bird Market	2025-02-05		0	New York	New York - LBM
+170	Queens 05	Queens	New York	Live Bird Market	2025-02-05		520	New York	New York - LBM
+173	Adams 03	Adams	Pennsylvania	WOAH Non-Poultry	2025-02-04		30	Pennsylvania	Pennsylvania - Other Commercial
+175	Bronx 01	Bronx	New York	Live Bird Market	2025-02-04		100	New York	New York - LBM
+177	Dauphin 02	Dauphin	Pennsylvania	Commercial Table Egg Layer	2025-02-04	11-Mar-25	1,975,300	Pennsylvania	Pennsylvania - Other Commercial
+187	Queens 04	Queens	New York	Live Bird Market	2025-02-04		420	New York	New York - LBM
+210	Monroe 02	Monroe	Pennsylvania	WOAH Non-Poultry	2025-01-30		30	Pennsylvania	Pennsylvania - Other Commercial
+223	Lehigh 07	Lehigh	Pennsylvania	WOAH Poultry	2025-01-28	15-Feb-25	48,000	Pennsylvania	Pennsylvania - Other Commercial
+236	Ulster 02	Ulster	New York	WOAH Non-Poultry	2025-01-27		60	New York	New York - Other Commercial
+259	Putnam 03	Putnam	New York	WOAH Non-Poultry	2025-01-23		60	New York	New York - Other Commercial
+277	Suffolk 05	Suffolk	New York	Commercial Duck Meat Bird	2025-01-17	19-Mar-25	101,000	New York	New York - Other Commercial
+294	Mercer 01	Mercer	New Jersey	Live Bird Market	2025-03-12		370	Other	New Jersey - LBM

@@ -1,0 +1,25 @@
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# temp/editor files
+*.swp
+
+# Snakemake
+.snakemake/
+**/.snakemake/
+
+# logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+#bams
+*.bam

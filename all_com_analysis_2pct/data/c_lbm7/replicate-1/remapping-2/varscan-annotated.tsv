@@ -1,0 +1,14 @@
+segment	gene	reference_position	amino_acid_position	reference_allele	variant_allele	reference_codon	variant_codon	reference_amino_acid	variant_amino_acid	coding_region_change	synonymous/nonsynonymous	frequency(%)	frequency
+na	NA	232	71	A	G	AAT	AGT	N	S	Asn71Ser	nonsynonymous	2.72%	0.0272
+na	NA	986	322	G	T	TTG	TTT	L	F	Leu322Phe	nonsynonymous	18.11%	0.1811
+na	NA	1199	393	G	T	ATG	ATT	M	I	Met393Ile	nonsynonymous	21.13%	0.2113
+pb2	PB2	378	117	T	C	ACT	ACC	T	T	Thr117Thr	synonymous	2.01%	0.0201
+pb2	PB2	1043	339	A	C	AAA	ACA	K	T	Lys339Thr	nonsynonymous	2.33%	0.0233
+pb2	PB2	2218	731	G	A	GTA	ATA	V	I	Val731Ile	nonsynonymous	3.37%	0.0337
+pa	PA	1077	351	G	A	GAG	GAA	E	E	Glu351Glu	synonymous	14.9%	0.1490
+pa	PA	1122	366	A	G	TTA	TTG	L	L	Leu366Leu	synonymous	17.45%	0.1745
+pa	PA	1205	394	G	A	GGT	GAT	G	D	Gly394Asp	nonsynonymous	21.55%	0.2155
+pa	PA	1877	618	C	T	ACG	ATG	T	M	Thr618Met	nonsynonymous	6.58%	0.0658
+ha	HA	220	64	G	A	AAG	AAA	K	K	Lys64Lys	synonymous	43.19%	0.4319
+pb1	PB1	1113	363	G	A	AAG	AAA	K	K	Lys363Lys	synonymous	35.85%	0.3585
+pb1	PB1	1761	579	G	A	CTG	CTA	L	L	Leu579Leu	synonymous	16.68%	0.1668

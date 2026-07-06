@@ -1,0 +1,7 @@
+Building a SMALL index
+Renaming data/c_lbm9/replicate-2/initial/reference/index.3.bt2.tmp to data/c_lbm9/replicate-2/initial/reference/index.3.bt2
+Renaming data/c_lbm9/replicate-2/initial/reference/index.4.bt2.tmp to data/c_lbm9/replicate-2/initial/reference/index.4.bt2
+Renaming data/c_lbm9/replicate-2/initial/reference/index.1.bt2.tmp to data/c_lbm9/replicate-2/initial/reference/index.1.bt2
+Renaming data/c_lbm9/replicate-2/initial/reference/index.2.bt2.tmp to data/c_lbm9/replicate-2/initial/reference/index.2.bt2
+Renaming data/c_lbm9/replicate-2/initial/reference/index.rev.1.bt2.tmp to data/c_lbm9/replicate-2/initial/reference/index.rev.1.bt2
+Renaming data/c_lbm9/replicate-2/initial/reference/index.rev.2.bt2.tmp to data/c_lbm9/replicate-2/initial/reference/index.rev.2.bt2

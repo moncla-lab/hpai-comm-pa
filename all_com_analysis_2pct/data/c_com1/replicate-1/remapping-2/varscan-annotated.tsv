@@ -1,0 +1,9 @@
+segment	gene	reference_position	amino_acid_position	reference_allele	variant_allele	reference_codon	variant_codon	reference_amino_acid	variant_amino_acid	coding_region_change	synonymous/nonsynonymous	frequency(%)	frequency
+ns	NEP	35	3	C	G	TCC	TCG	S	S	Ser3Ser	synonymous	6.33%	0.0633
+ns	NS1	35	3	C	G	TCC	TCG	S	S	Ser3Ser	synonymous	6.33%	0.0633
+ns	NS1	508	161	C	A	TCA	TAA	S	*	Ser161Stop	stop_gained	4%	0.0400
+pa	PA	1122	366	G	A	TTG	TTA	L	L	Leu366Leu	synonymous	8.16%	0.0816
+ha	HA	438	137	C	T	TCC	TTC	S	F	Ser137Phe	nonsynonymous	2.98%	0.0298
+ha	HA	763	245	C	A	TTC	TTA	F	L	Phe245Leu	nonsynonymous	8.26%	0.0826
+pb1	PB1	1731	569	A	G	CAA	CAG	Q	Q	Gln569Gln	synonymous	6.71%	0.0671
+pb1	PB1	2238	738	A	G	GAA	GAG	E	E	Glu738Glu	synonymous	11.9%	0.1190
