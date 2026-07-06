@@ -1,6 +1,6 @@
 # Within- and between-host dynamics of highly pathogenic avian influenza in domestic birds from Pennsylvania farms and live bird markets
 
-####Anna S Jaeger*<sup>1</sup>, Elena Cruz-Adames<sup>1</sup>, Stephen D Shank<sup>1</sup>, Irina Chupikova<sup>1</sup>, Katie Kumta<sup>1</sup>, Eman Anis<sup>1</sup>, Louise H Moncla<sup>1</sup>
+#### Anna S Jaeger*<sup>1</sup>, Elena Cruz-Adames<sup>1</sup>, Stephen D Shank<sup>1</sup>, Irina Chupikova<sup>1</sup>, Katie Kumta<sup>1</sup>, Eman Anis<sup>1</sup>, Louise H Moncla<sup>1</sup>
 
 <sup>1</sup>Department of Pathobiology, School of Veterinary Medicine, University of Pennsylvania, Philadelphia, Pennsylvania, United States
 
